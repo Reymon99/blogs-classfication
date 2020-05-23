@@ -1,0 +1,29 @@
+Los desarrolladores o diseñadores frontend pueden trabajar en...
+Publicado el 4 de Septiembre de 2018 por Danielalala
+
+¿Quieres hacer desarrollo frontend y no sabes en qué especializarte?, acá te explicaré cuáles cursos ofrecemos en Platzi para que elijas tu propio camino y en qué consiste cada uno de ellos.
+
+Como te venía contando en Cómo diseñar o desarrollar una página web, el objetivo de nuestra Carrera en Arquitectura Frontend es formarte para que cuentes con todas las herramientas necesarias al momento de desarrollar toda la parte visible de una página web.
+
+Recuerda que el Frontend es todo aquello con lo que tus usuarios interactúan, lo que ven gracias a la programación y a la aplicación de algunos lenguajes como el HTML, CSS y JavaScript; pero también, gracias al trabajo realizado desde el Backend de la web.
+
+Así, para ofrecer navegaciones únicas, interactivas y con elementos exclusivos, te hablaré de los siguientes cursos optativos. Nuestro propósito es que sobre estos elijas cuáles son de tu interés y cuáles están más acorde con las necesidades de los proyectos que vayas realizando, pues con cada uno de ellos puedes ir actualizándote y haciendo que tu perfil sea mucho más exclusivo.
+
+Curso de PostCSS: Al igual que el curso anterior, en este curso aprenderás a optimizar tu código de Javascript con algunas herramientas de la librería CSS; esta librería es muy usada para todo lo que tiene que ver con diseño en tu proyecto y, además, te ayudará a construir aplicaciones con brevedad.
+
+Curso de Diseño de HTML para EMails: En este curso aprenderás a codificar HTML con herramientas innovadoras de CSS, que se acoplen a todo tipo de pantallas de la mejor manera. Asimismo, realizarás un proyecto de aplicación en el que generarás una estrategia de mercadeo óptima para Emails que implicará la maquetación básica del mail, el uso de imágenes y de plantillas móviles, entre otras.
+
+Curso de Sass: En este curso aprenderás que Sass es un procesador que funciona como una extensión de CSS -la librería de JS que utilizarás para trabajar sobre los elementos de diseño de tu web-. Por esta razón verás cómo esta herramienta te permitirá potenciar las funcionalidades y habilidades **de CSS.
+
+Curso de Stylus: Te darás cuenta de que en algún punto tendrás la necesidad de crear elementos en tu página como variables, bucles, funciones y modularidad. Acá te enseñaremos a hacerlo, por medio del procesador expresivo, Stylus.
+
+Curso de Less: Less, al igual que Stylus, es un procesador que extiende el lenguaje CSS, esto significa que te dará más herramientas al momento de desarrollar tu proyecto. Con Less aprenderás a crear variables, bucles y modularidad para desarrollar un framework como base de CSS, lo que permitirá que tu CSS se pueda mantener mejor.
+
+Curso de BootStrap: En este curso no solo aprenderás cómo Bootstrap, que es un framework de Frontend, te ayudará a definir la estructura de lo que vas a ver en la pantalla de tu página web, agregarle estilos visuales y trabajar sobre elementos como el comportamiento, los modals (o información destacada de la página), tooltips y animaciones, entre otras cosas.
+
+Curso de Foundation: Con el curso de Foundation principalmente te enseñaremos cómo crear tu propio sitio web personalizado. De esta manera, en primer lugar te presentaremos a Foundation, otro framework de Frontend, que se distingue por tener un código abierto en el que encontrarás componentes de interfaz para tus usuarios, como por ejemplo elementos de HTML y de CSS, plantillas, fragmentos de código como tipografía, formularios, botones, barras de navegación, entre otros.
+
+Arquitectura-Frontend_2.jpg
+Espero que este blogpost te haya servido de ayuda al momento de organizar tu ruta o plan de estudio:
+
+¡Ahora sí define cuáles son los cursos que más te interesan y continua con tu Carrera en Arquitectura Frontend!

@@ -1,0 +1,36 @@
+Qué es PgAdmin4 y cuáles son sus nuevas mejoras
+Publicado el 31 de Octubre de 2018 por noguerajulioces
+
+¿Has oído de PgAdmin 4? Básicamente es una aplicación gráfica desarrollada con Python que implementa las siguientes tecnologías:
+
+Flask para el Backend,
+
+Soporte Python en sus versiones: 2.7.x y 3.0 a 3.4,
+
+Javascript/Jquery/Backbone para el FrondEnd,
+
+Bootstrap
+
+A diferencia a su versión anterior que está desarrollada con C++, esta aplicación sirve para gestionar el gestor de BD de PostgreSQL, y es considerada una de las más completas y populares con licencia Open Source. Además, está disponible en diferente idiomas.
+
+PgAdmin 4 nos permite acceder a todas las funcionalidades de la base de datos, consulta, manipulación y gestión de datos, incluso opciones avanzadas como manipulación del motor de replicación Slony-I. Esta puede ser ejecutas en múltiples plataformas como:
+
+Linux
+FreeBSD
+Solaris
+Mac OS X
+Windows
+Su interfaz gráfico soporta todas las características de PostgreSQL y facilita de gran manera la administración, ya que nos permite desde hacer búsquedas SQL hasta desarrollar toda nuestra base de datos de forma muy fácil e intuitiva: directamente desde la interfaz gráfica.
+
+Mejoras de PgAdmin4 respecto a PgAdmin III
+Uno de los cambios más visibles, es el gran cambio visual que incluye un conjunto de iconos actualizados y fuentes incrustadas para mostrar una apariencia coherente en todas las plataformas.
+
+El Query Tool y la Edit Grid fueron fusionadas en una sola herramienta.
+La interfaz de usuario es mucho más flexible, permite pestañas para contener y reorganizar en más aspecto que anteriormente.
+Una interfaz de usuario mucho más atractiva, haciendo uso de controles agrupados y de regiones expansibles para hacer las cosas más fácil de entender.
+Se ha rediseñado algunos de los paradigmas de interfaz de usuario.
+Quedo atrás la lista de controles con botones de añadir y quitar, las cuales fueron reemplazados con lo que llamamos grilla de sub-nodos que permite la edición de las clases y sus valores, con el mayor detalle disponible cuando se necesita mediante filas expandibles.
+
+Platzi tiene un Curso de PostgreSQL en el que aprenderás todos los secretos de esta tecnología.
+
+En muy poco tiempo podrás estar diseñando, creando y administrando base de datos, con DBs distribuibles, tablas SQL y NoSQL y una velocidad increíble. No te lo pierdas.

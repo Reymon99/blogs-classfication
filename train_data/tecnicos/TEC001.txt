@@ -1,0 +1,34 @@
+¿Qué es Amazon Web Services?
+Publicado el 10 de Agosto por mauropm
+
+AWS es un cambio de dirección en el concepto de rentar un servidor. Antes podrías tener acceso a rentar un espacio compartido en diversos proveedores de hosting, que se encargarían de su administración y mantenimiento. Esto cambió gracias a Amazon Web Services.
+
+Yo soy Mauro Parra, el profesor del nuevo Curso de Fundamentos de AWS Cloud, y te voy a estar enseñando todo lo que necesitas para dominar este concepto.
+
+s-s-450309-unsplash..jpg
+¿Cómo funciona AWS?
+Ahora puedes rentar un servidor virtual completo en AWS (Instancias de EC2), pero también podrías rentar una infraestructura completa (Elastic Beanstalk) para tu proyecto personal o emprendimiento que cubre todos los componentes que conforman una solución profesional de puesta en producción de un sistema:
+
+Lenguajes de programación diversos: NodeJS, Python, Go, etc.
+
+Sistemas de bases de datos: MySQL, PostgreSQL, Oracle, SQL Server, MariaDB, etc.
+
+Load balancer con acceso a diferentes regiones geográficas
+
+Sistema de distribución de archivos de alto rendimiento (S3)
+
+Respaldos continuos (a través de la creación de snapshots de servidores virtuales, bases de datos, etc).
+
+Aparte de cubrir estos usos tradicionales, Amazon Web Services también provee servicios móviles para tu aplicación, reconocimiento de imágenes y patrones, cálculo científico de alto rendimiento, minado de criptomonedas, motores de videojuegos y otras funcionalidades que crecen mes con mes.
+
+En este curso aprenderás a aplicar AWS en diversos casos:
+Crear ambientes de prueba
+Puedes crear ambientes de prueba para tus compañeros de trabajo, donde pones en marcha una instancia en EC2 gratis donde instalaras todas las herramientas de desarrollo básicas que requiera tu proyecto, por ejemplo: Python, bibliotecas que estés usando, acceso al git que estén compartiendo, conexión a la base de datos de desarrollo, y otros. La parte bella es que puedes ir generando nuevas instancias para cada miembro del equipo, de tal forma que cada quien tiene su espacio de trabajo. Por el lado de seguridad, a cada uno le podrías dar su propia llave, de tal forma que puedes conectarte únicamente a la instancia que tienes asignada, y la puedes deshabilitar en el momento que desees en caso de que alguien ya no colabore en el proyecto.
+
+Repositorios de imágenes compartidas
+En ocasiones es necesario ir haciendo respaldos fáciles de temas importantes como fotografías. Ya sea que estés respaldando fotografías de algún proyecto escolar, personal o algún tema de mayor importancia como las fotos familiares, puedes generar un bucket en S3 para poder compartirlo a todos tus amigos, compañeros o familia, de tal manera que con llaves específicas de acceso, podrías permitirles ir haciendo respaldos en un S3 bucket específico, que puedes ir respaldando en diferentes regiones geográficas y tener control de versionado por si quieres regresar a alguna versión previa del proyecto.
+
+Reconocimiento automatizado de imágenes
+A través de AWS Rekognition se puede hacer diversos análisis en imágenes, como por ejemplo: saber si una persona específica está en alguna foto, o si algún objeto o marca está presente en alguna foto. También puede reconocer que acción realiza alguien en una foto, o identificar sentimientos de las personas como reacción a algún suceso.
+
+Espero que entres al curso de AWS y aprendamos cosas nuevas sobre la administración de servidores.

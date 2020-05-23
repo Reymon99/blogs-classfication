@@ -1,0 +1,28 @@
+¿Por qué Photoshop para diseño de interfaces?
+Publicado el 25 de Septiembre de 2018 por Azlinraeh
+
+El diseño de interfaces es una de las ramas del diseño con mayor crecimiento en los últimos años. Los diseñadores de producto y los diseñadores UX y UI están entre los cargos mejor pagados y más buscados en el campo de tecnología y por esto mismo han aumentado las herramientas especializadas que se han creado para diseño de productos digitales. Programas como Sketch, InVision o Adobe XD han pasado a ser las herramientas preferidas de la mayoría de diseñadores, mientras que otras herramientas como Illustrator o Photoshop se perciben como obsoletas para este fin.
+
+Pero la realidad en el mundo laboral es muy diferente. Hay empresas que siguen trabajando con Photoshop para el diseño en todas sus vertientes, ya sea para impresos o para diseño web. Sin embargo muchas veces estas empresas no utilizan un workflow orientado al diseño de interfaces, y lo usual es encontrar grandes cantidades de PSDs con mucho peso y muy ineficientes para trabajar. Para hacer un simple cambio en un header era necesario cambiar veinte PSDs, lo cual resulta en un descenso abrumador de la productividad.
+
+Para dar solución a estos problemas desarrollé una metodología de trabajo específica con Photoshop, tomando como base el Atomic Design de Brad Frost orientado a guías de estilo. A este workflow lo denominé Atomic PS Design.
+
+Atomic-design-2.png
+¿Qué es Atomic PS Design?
+Al igual que Atomic Design, esta metodología se basa en la división de los elementos en átomos y moléculas, con los que luego se pueden conformar organismos o páginas.
+
+Definamos un poco estos elementos:
+
+Átomos: Entendemos como átomos los elementos básicos de uso común dentro de las moléculas. Pueden estar compuestos por un número ilimitado de capas.
+
+Moléculas: Están compuestas por átomos y capas en número indefinido.
+
+Organismos: Así mismo los organismos, pueden estar compuestos por sus propias capas, átomos y moléculas. Todos estos deben ser archivos PSB.
+
+Páginas: Finalmente una página sólo debería de componerse de organismos, convirtiéndose en el único archivo PSD.
+
+Con esta metodología de trabajo podemos dividir un proyecto de diseño en pequeños elementos escalables y reutilizables. Nos permite usar objetos simples en diferentes pantallas, dejándonos así la libertad de modificar estos objetos y actualizarlos automáticamente en cada instancia. Es un trabajo por módulos enfocado a la filosofía DRY (Don’t Repeat Yourself), que permite mejorar la productividad.
+
+Todo esto conforma un ecosistema que facilita el proceso de diseño de interfaces con Photoshop, haciendo de ésta una herramienta completamente válida para trabajar en la creación de páginas web o apps.
+
+Aprende más sobre esta metodología en el curso de [Diseño de interfaces Web con Photoshurlm/ps) aquí en Platzi.

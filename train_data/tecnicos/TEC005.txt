@@ -1,0 +1,43 @@
+Conoce las nuevas funcionalidades de Bases de Datos en AWS
+Publicado el 10 de Enero de 2019 por czam01
+
+Después del último evento de AWS Re:Invent en las Vegas, se realizaron nuevos lanzamientos relacionados a bases de datos, de los cuales es importante resaltar los siguientes:
+
+Transacciones de DynamoDB
+En los casos donde se requiera coordinación entre las operaciones que hacemos sobre nuestras tablas como: Inserciones, eliminaciones o actualizaciones, es donde se deben usar las transacciones de DynamoDB y su uso tiene diferentes sectores y campos de aplicación:
+
+Procesamiento de transacciones financieras.
+
+Orquestación de pedidos.
+
+Juegos multijugador.
+
+Actualmente esta funcionalidad es válida para las tablas dentro de una misma región y no para tablas globales de forma predeterminada. A pesar de que se puede solicitar habilitación para ser usada de forma global no es recomendable en la medida que la replicación es asíncrona lo cual no garantiza uniformidad del mismo elemento en las diferentes tablas.
+
+DynamoDB bajo demanda
+Esta nueva característica cambia la forma en la que se calculaba la capacidad de las tablas en Dynamo, para esto se debe tener en cuenta el modelo de pricing o pago en el cual podemos escoger entre las siguientes alternativas:
+
+Provisioning: Eres responsable de especificar el número de lecturas y escrituras por segundo que consumirá tu aplicación, además puedes complementarlo con autoscaling.
+
+On-Demand: Pagas por cada solicitud de lectura y escritura que realice tu aplicación sobre las tablas, no es necesario especificar las unidades de lectura y escritura, Dynamo se adapta a la carga automáticamente.
+
+platzi-curso-bases-de-datos-aws.png
+Amazon Aurora Global
+Esta nueva característica dentro de Aurora está orientada a aquellas aplicaciones que se encuentran distribuidas globalmente, es así como podrá abarcar múltiples regiones sin afectar su rendimiento, adicionalmente proporciona:
+
+Consultas locales en cada región con baja latencia, la promesa de valor está en que se pueden acceder a los datos en cada región por debajo de 1 segundo.
+
+Recuperación de desastres en toda la región: Puede contar con hasta 16 instancias de la base de datos por región.
+
+bases-de-datos-aws-platzi.png
+De todos los lanzamientos realizados por AWS en este último Re:Invent se destacaron estos últimos porque se ajustan a casos de uso muy comunes en la industria, por el lado de DynamoDB las transacciones beneficiarán a la industria financiera y a aquellas aplicaciones en las cuales deseemos orquestar operaciones.
+
+Sumando el nuevo modelo on-demand podemos esperar beneficios en:
+
+El rendimiento de aplicaciones: Hay mejoras en el crecimiento y decrecimiento de su capacidad de acuerdo a las necesidades del cliente.
+
+Ahorro: Se paga únicamente por lo consumido por nuestra aplicación.
+
+Aurora con su base de datos global, ahora agrega una funcionalidad a la base de datos relacional más potente del mercado, la cual soporta multi región sin afectar su rendimiento y mejora su alta disponibilidad. Esta base de datos, que hasta hace poco tiempo sacó su versión Serverless ahora nos sorprende con despliegues globales.
+
+Si quieres dominar los servicios de bases de datos RDS y DynamoDB en AWS y empezar a desplegar tus proyectos en la nube, comienza el Curso de Bases de Datos en AWS hoy.

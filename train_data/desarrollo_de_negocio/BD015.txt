@@ -1,0 +1,75 @@
+Siete herramientas gratuitas para impulsar el crecimiento de tu emprendimiento
+Publicado el 4 de Noviembre de 2018 por inventr
+
+Tener un producto o servicio excelente no es el único factor que hará que tu emprendimiento crezca por sí solo. Es necesario que desde el principio cuentes con estrategias y herramientas que mejoren tu forma de encontrar y mantener tus clientes.
+
+En este artículo veremos 7 herramientas gratuitas que te ayudarán a hackear el crecimiento de tu emprendimiento y, a su vez, sacarle el mayor provecho a cada canal de marketing que utilices.
+
+Ubersuggest (SEO)
+La investigación de palabras claves permite entender mucho mejor la forma en la que tu público objetivo busca la solución a sus puntos de dolor. Ubersuggest es la herramienta desde la cual podrás realizar esta investigación de forma gratuita.
+
+image3.png
+Con una idea principal en mente, puedes ingresar palabras claves a la herramienta, y esta te mostrará los siguientes datos:
+
+Volumen de búsqueda: Cantidad de veces que la palabra que se ingresó es consultada mensualmente en el país seleccionado.
+
+Dificultad: Es un promedio estimado de qué tan difícil será competir para esa palabra clave, basándose principalmente en la cantidad de backlinks que se deben tener.
+
+Histórico mensual del volumen de tráfico: algunas fechas como navidad pueden disparar el volumen de tráfico de una palabra clave, y es un dato que se debe tener en cuenta para las estrategias. Por ejemplo, puedes ver cómo la palabra clave “rutina de ejercicios” baja en diciembre y se dispara en enero.
+
+Análisis del SERP ó página de resultados de Google: los primeros resultados de búsqueda por cada palabra clave te darán una idea clara de la intención que tienen los usuarios sobre la palabra clave, entonces aquí podrás saber qué tipo de contenido deberás crear.
+
+Con esta información podrás apuntar mucho mejor tu contenido y mejorar estrategias alineándote con las intenciones de tus clientes. En este punto seguramente estaremos de acuerdo en que no queremos crear contenido que nadie busque ni quiera.
+
+La investigación de palabras claves es una parte principal de su estrategia SEO. Si quieres tener mucho más claros todos estos conceptos, te recomiendo seguir este checklist de SEO para emprendedores.
+
+Google Search Console y Analytics (SEO y Analitica)
+Medir el desempeño de cada una de tus páginas te mostrará un panorama mucho más claro de qué es lo que realmente hacen los visitantes cada vez que ingresan,y a su vez te permitirá detectar posibles errores que pueda tener tu sitio. Para estas tareas, Google te proporciona dos herramientas de manera gratuita.
+
+Por una parte, Google Analytics te brindará información del comportamiento de los visitantes dentro de tu sitio. Con esta herramienta podrsá saber cuál es la página más visitada, el tiempo que dura cada visita, y los eventos que realiza cada usuario en tu sitio web, entre muchos otros datos.
+
+image5.png
+De manera semejante, Google Search Console te mostrará información sobre qué palabras claves han sido consultadas en tu sitio web; además, podrás ver bajo qué búsquedas se reciben más visitas, y la posición promedio en la que se muestra tu sitio. Adicional a esta información, Google Search console también detecta algunos errores que pudiera tener el sitio web.
+
+image4.png
+En definitiva, ambas herramientas te darán información para que tomes las mejores decisiones en torno a tu contenido, ya que conocerás qué tipo de contenido tiene más enganche, así como el más buscado y por el que mejor se posiciona tu sitio.
+
+Buffer (Social)
+Contar con una estrategia sólida para hacer publicaciones en las redes sociales te ayudará a mantener informados e interesados a tus seguidores en tus productos y servicios, y buffer es la herramienta que ayudará a simplificar este trabajo.
+
+image7.png
+Esta aplicación permite planificar las publicaciones en Twitter, Facebook, Instagram y LinkedIn, así como también analizar los resultados de cada una de ellas.
+
+Además de esto, con buffer podrá manejars un equipo de trabajo, ya que es una aplicación pensada en ese modelo. Y para mayor beneficio, ¡sus funciones básicas son gratuitas!
+
+Mailchimp (Email Marketing)
+Las campañas de Email son una de las formas más fáciles de comunicarse con los clientes, pero muchas empresas al comienzo hacen este proceso de forma manual. Mailchimp te permitirá automatizar y personalizar muy bien tus campañas de correo electrónico.
+
+image6.png
+Con unos cuantos clicks, desde Mailchimp podrás enviar un newsletter o boletín informativo, así como promociones y comunicados a tus clientes. Esta herramienta te permite personalizar cada plantilla que usarás para tus correos, en la cual podrás incluir nombres y otros datos para darle ese toque personal a los emails.
+
+Por otra parte, desde el plan gratuito podras mantener 2000 suscriptores y enviar 12.000 emails por mes, lo que es un buen número para cualquier emprendimiento.
+
+HubSpot CRM (Leads)
+Convertir a un visitante del sitio en un posible cliente es un punto importante para la vida de cualquier empresa o emprendimiento, y Hubspot tiene una herramienta gratuita que facilita mucho este proceso.
+
+image2.png
+Esta aplicación nos permitirá crear formularios que luego podemos pegar en nuestro sitio web. Este formulario permite que en el momento que un visitante registre sus datos, estos son cargados al CRM como un cliente potencial. Luego se puede usar este CRM para enviar y hacer seguimiento de emails, llamadas telefónicas y hacer notas sobre el cliente.
+
+Para tu mayor beneficio, desde la herramienta podrás llevar un registro de cada oportunidad de negocio que tengas con cada cliente; eso sí, siempre debes tratar de usar el sentido común para comunicarte con ellos, puesto que el CRM solo será una herramienta para ayudarte a tener mucho más organizadas tus conversaciones.
+
+Píxel de Facebook (Remarketing)
+Seguir los eventos de los visitantes en el sitio web nos ayuda a crear mejores campañas basadas en una intención. Por ejemplo, el píxel de seguimiento permite agrupar a los usuarios que visitan una categoría en específico del sitio web para luego poder impactar a ese público con una publicidad bien dirigida.
+
+image1.png
+Facebook cuenta con un píxel de seguimiento que nos ayuda en esta tarea de recolectar información no solo de comportamiento, sino también de datos demográficos. El píxel de seguimiento de Facebook es un fragmento de código que deberás pegar en cada página, y al igual que con Google Analytics, podrás hacer seguimiento de eventos.
+
+Ya con toda esta información podrás conocer mucho mejor los datos demográficos de tu público, y optimizarás mejor sus campañas al mostrarlas a personas con intereses sobre una categoría o un producto de su sitio web.
+
+Conclusión
+Estas herramientas, aparte de facilitarnos el trabajo, nos ayudan con el crecimiento de nuestro emprendimiento. Y, lo más importante: sin gastar dinero. Muchas de estas herramientas también tienen planes pagos, pero para comenzar, los planes gratis serán más que suficiente.
+
+Un emprendimiento exitoso es más que una gran idea o producto
+El éxito radica en todo el trabajo que está detrás para entender al cliente y entregarle un producto o servicio cubriendo sus necesidades de forma óptima.
+
+Estoy seguro de que estas herramientas te ayudarán a mantenerte enfocado en estos objetivos. Si tienes en mente alguna otra aplicación que podamos usar para el crecimiento de nuestros emprendimientos, no dudes en compartirla en los comentarios.

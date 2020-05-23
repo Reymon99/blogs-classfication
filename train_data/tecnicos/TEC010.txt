@@ -1,0 +1,39 @@
+¿Cómo convertir una app de IONIC en una PWA?
+Publicado el 11 de Agosto de 2018 por EduardoIbarra
+
+¿Sabes cómo convertir una app de Ionic en una PWA? Eduardo Ibarra, el profesor del Curso de PWA con Angular en Platzi, te enseña a hacerlo paso a paso en este blogpost.
+
+
+Yo soy Diego Ibarra, tu profesor en el Curso de PWA con Angular en Platzi. En esta ocasión lo que vamos a hacer es convertir una app de Ionic en una PWA.
+
+Transcripción:
+
+Como sabemos, Ionic está basado en Angular, así que podemos aplicar todos los conocimientos que hemos aprendido en el curso también en esto.
+
+Lo primero es instalar Ionic. Vamos a ver que este comando es el que podemos usar. También lo podemos correr sin la bandera global. Así que vamos a correr en MPM: “install Ionic”. Y una vez que está instalado, lo que vamos a hacer es generar el proyecto de Ionic. Va a ser un proyecto en blanco, sin embargo con una leve plantilla que trae la misma herramienta.
+
+Esta herramienta de Ionic la podemos comparar también con la herramienta de Angular CLI, y sirve más o menos para lo mismo: para generar aplicaciones, recursos, hacer deploy, y todo esto. Entonces aquí ya está instalado. Ahora lo que vamos a hacer es correr el comando “Ionic start” en este caso, “Ionic PWA”, y vamos a usar el templete de tabs. Aquí va a empezar a hacer la generación, nos pregunta que si queremos integrar esto con IOS o con Android, aquí no porque estamos haciendo una PWA, entonces le decimos que no.
+
+Para empezar
+Continua la instalación y nos va a volver a hacer una pregunta acerca de unas herramientas que ellos también proveen, a la que también vamos a declinar, ya que no vamos a necesitarlas.
+
+Así que por lo pronto se están instalando todas las dependencias necesarias para que Ionic funcione, a través de MPM install, y terminando vamos a continuar con esta clase. Aquí, por ejemplo, ya nos está preguntando acerca de las Ionic PRO SDK, le damos que no, y ya lo tenemos creado. Ahora vamos a navegar hacia la carpeta de Ionic PWA, que acabamos de crear. En este caso vamos a correrla, vamos a poner el comando “Ionic surf”. Esto lo que va a hacer es levantar una URL a la que podemos nosotros acceder a través del navegador y podemos visualizar todo lo que esté pasando con nuestra aplicación, tanto lo que ya está como los cambios que vayamos haciendo. Entonces aquí esta nuestra app. Obviamente no parece app porque no está desplegada en un celular, sin embargo con las herramientas de Chrome, podemos darle click derecho, inspect, después activamos este toggle, que me permite visualizarlo como si fuera un dispositivo, y ahora sí ya que parece app.
+
+Lo que nos importa está en la pantalla de applications
+
+Trae algunas tabs predefinidas, como podemos ver aquí, pero lo que nos importa está en la pantalla de applications. Como vemos, aquí en service workers no tenemos ningún service worker registrado. Esto lo que va a hacer es impedir que nuestra app, sea una PWA, porque no nos va a sugerir ni instalarla en el home ni nos va a hacer el caching que tanto hemos estado trabajando durante el curso, así que vamos a ver cómo implementar todo esto. Esto es muy sencillo. Simplemente lo que vamos a hacer es dirigirnos a esta página oficial donde nos habla de service worker y vamos a ver que nos dice que ya tenemos un service worker que podemos usar. Vamos a copiar este código que nos va a permitir habilitarlo. Vamos a ir a nuestro editor de texto, en mi caso yo estoy usando Web Storm, pero se puede usar, por ejemplo, Solam, Visual Studio Code, Brackets, Aeron, cualquier otro, y vamos a ver un poquito la estructura de la app de Ionic.
+
+Es muy parecida a una app de Angular. También tenemos la carpeta source. En este caso, en vez de la carpeta dis, tenemos triple U, por ejemplo. También tenemos la carpeta de nomodius. Ahorita nos interesa, por ejemplo, el service worker, vemos que aquí está presente. Es un service worker con una configuración leve, pero que también vamos a ver como se genera mucho código a partir de esto. Y que también este service worker se copia a la carpeta triple W, que es la que vemos nosotros desplegada cuando hacemos el engine surf. Entonces por alguna manera o por alguna razón no está presente el service worker en nuestra aplicación, y en sí son dos cosas: la primera es que no estamos corriendo en un ambiente de producción como tal y la segunda es que no lo estamos registrando.
+
+Para registrar
+Para registrarlo vamos a usar el código que copiamos hace un momento de aquí. Nos vamos a ir aquí dentro de source, no confundirlo con triple W, nos vamos a index.html. Aquí, en index.html, vamos a explorar hacia abajo. Nos ponemos aquí arribita de body. Aquí pegamos ese código, que lo que está haciendo es primero checar que el service worker sea compatible con el navegador en el que estamos, después hacemos el registro, en este caso con el archivo service worker.js y ya que lo tengamos instalado simplemente nos va a mostrar que el service worker fue instalado.
+
+Para guardar
+Entonces guardamos, regresamos a la terminal, podemos cancelar la ejecución que tenemos aquí y lo que vamos a hacer es hacer una especie de build también de la app de Ionic. Entonces le damos “Ionic build” para que me vuelva a generar el directorio de triple W, y entonces ahí en ese directorio poder lanzar un http server. Este http server ya lo hemos manejado en el curso, sin embargo, si no lo tienes instalado todavía, podemos correr el comando “mpn install http server” y se va hacer la instalación muy fácil. Al terminar la instalación, ya vamos a poder usar el comando. Entonces yo ya lo tengo instalado. Simplemente voy a navegar a mi carpeta de triple W y voy a correr el comando “http server”, el cual me va a generar una URL donde está corriendo, digamos un modo de producción de nuestra aplicación de Ionic.
+
+Entonces lo copio, me vengo hacia acá, aquí lo podemos pegar, y vemos que ya tenemos un service worker que está activo. Entonces este service worker, si le damos click aquí, vamos a ver todo el código que contiene, que no es tanto como, por ejemplo, lo tendríamos en el service worker de Angular, sin embargo es un código que es útil, por ejemplo, si yo me regreso aquí, a application, y después me voy a manifest, vamos a tener un botoncito aquí que dice “add to home screen”. Entonces vamos a darle click aquí y aquí es lo que aparecería cuando el navegador se dé cuenta que tenemos un service worker, que también tenemos un archivo de manifest.jaison, que lo podemos observar aquí, con algunas propiedades y que me va a permitir a mí agregar este app web como si fuera una app más o menos de escritorio. En este caso, estamos en Chrome and desktop, sin embargo, por ejemplo, en Safari o en el navegador de Android también te podría sugerir esto, lo cual te haría, digamos, una instalación del app y la tendrías también en el home screen.
+
+Para finalizar
+Entonces le damos agregar. Aquí le podemos poner un nombre un poco menos genérico, por ejemplo, “Ionic PWA”, le damos add y automáticamente se va a agregar a mi Chrome. Si yo me voy a las aplicaciones, vamos a ver que aquí tenemos Ionic PWA y me manda directamente al app que acabamos de crear. Entonces de esta manera tan sencilla ya implementamos lo que es un service worker, lo que hace al navegador identificar nuestra app como una app progresiva y a esto se le puede hacer todo lo demás que hemos visto en el curso como, por ejemplo, lo de post notifications, lo de caching, la conexión con firebase, el login con Facebook, y todas las demás características que hacen parecer nuestra web app una aplicación nativa.
+
+Ahora que has aprendido a hacerlo, ¡anímate a contarnos tu experiencia en el sistema de discusiones! y no olvides revisar los nuevos cursos de Platzi en agosto para que no te pierdas de ninguna de las novedades de este mes.

@@ -1,0 +1,28 @@
+Inteligencia Artificial en el Mundial de Rusia 2018: la apuesta de IBM Watson
+Publicado el 16 de Junio de 2018 por victoriaoshee
+
+Para aquellos que nos alimentaremos a puro fútbol durante un mes a partir de este jueves, les tengo el hack para no morir entre partido y partido.
+
+Como les conté, Rusia 2018 será el Mundial más tecnológico de la historia. Tendremos todo al alcance de un click y un buen smartphone. Con lo que Fox Sports e IBM Watson hicieron, seremos unos mini-Thanos del mundial: ésta es la última gema.
+
+
+World Cup Highlight Machine, así se denomina la tecnología interactiva implementada por Fox Sports en alianza con IBM Watson, la plataforma de inteligencia artificial de IBM, durante la Copa Mundial de Rusia 2018. Esta “máquina de momentos destacados”, se trata básicamente de la máxima central de los mejores videos que existen sobre la Copas Mundiales FIFA desde Suiza 1958.
+
+Impulsada por la Inteligencia Artificial de IBM Watson, permitirá a los usuarios filtrar y seleccionar entre más de 300 partidos y miles de clips, categorizados por año, por equipo, por jugador y por tipo de jugada, y de esta manera, crear un video on-demand personalizado y único en sólo segundos, el cuál también se podrá compartir en redes sociales.
+
+¿Quieres revivir las hazañas de tu goleador favorito o las mejores atajadas de este siglo? ¿Te gustaría saber quién es el jugador que más fouls ha cometido en mundiales? O tal vez sólo quieres ver los mejores goles de tu selección. Yo, fanática de Argentina, pude crear en segundos mi propio clip de los goles convertidos desde que nací, entre 1986 y 2014, por quienes considero los 3 mejores delanteros argentinos de la historia. ¿Qué clip harías tú? Tip: si no les funciona, prueben cambiando el VPN 😉
+
+fox-sports-highlight-machine-facebook.jpg
+Ésta “máquina” incluye cada final, partidos de primera ronda, partidos históricos y derrotas épicas, así como jugadores históricos como Pele, Maradona, Cruyff, Zidane, Messi y más. Adicionalmente, cada partido de Rusia 2018 estará disponible inmediatamente después de que suene el silbato final, lo que extiende y asegura el entretenimiento posterior en redes sociales.
+
+Con Inteligencia Artificial, Fox Sports puede enriquecer la transmisión de los partidos con etiquetado avanzado y automatizado de datos (metadata tagging) y filtrar rápidamente entre una cantidad enorme de videos para identificar los momentos más emocionantes de cada partido y distribuirlos casi en tiempo real a los consumidores.
+
+Según IBM, el análisis de datos visuales, de audio y de texto, al igual de aspectos emocionales y de contexto, como el tono y la ubicación geográfica de cada partido, le permitirá a los productores de Fox Sports seleccionar los mejores clips.
+
+El Highlights Machine le permitirá a los fans acceder los archivos de la FIFA, marcar sus videos o momentos favoritos y compartir su propia secuencia de videos y momentos destacados. Esta funcionalidad estará disponible también en la aplicación móvil de Fox Sports, a través de la sección dedicada a la Copa Mundial FIFA 2018.
+
+La división de medios de IBM Watson provee un análisis extenso de objetos, personas, palabras, conceptos, matices emocionales y personalidades que pueden ayudar a los medios y a la industria del entretenimiento a distribuir contenido más relevante para sus consumidores. La tecnología de IBM Watson ha sido utilizada también en otros eventos deportivos importantes, como Wimbledon y el US Open.
+
+Lo que Fox Sport está haciendo junto a IBM Watson es un gran ejemplo de cómo con IBM Watson se puede mejorar y enriquecer la experiencia del usuario y proveer valor agregado.
+
+¿Sabías que Platzi, en alianza con IBM, lanzó recientemente el Curso de Inteligencia Artificial con IBM Watson? Te invito a que le eches un vistazo y utilices esta maravillosa herramienta en tus propios proyectos.

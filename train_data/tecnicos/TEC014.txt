@@ -1,0 +1,112 @@
+Cómo automatizar y optimizar tu trabajo en NodeJS y Grunt
+Publicado el 13 de Octubre de 2018 por CarlosAlba
+
+Si estás estudiando Arquitectura Front-End, esta guía te será de ayuda para que el proceso de escribir código y ver los resultados sea cómodo y ágil.
+
+Aprenderás a:
+
+Crear tu propio framework de trabajo
+Escribir CSS en SAAS, LESS o STYLUS y compilar automáticamente
+Agregar prefijos automáticos a CSS
+Comprimir CSS
+Crear un servidor local
+Recargar tu navegador en “real time”
+No basta con seguir los pasos de esta guía: te invito a probar, evaluar y jugar con las posibilidades. Tu mejor escuela es la práctica. Con el tiempo verás que tienes en tus manos una gran herramienta.
+
+Primero, te comparto un breve glosario con términos que te serán útiles mientras avanzas en este proceso:
+NodeJS: Es como la tienda de dulces de Javascript. Puedes crear desde blogs hasta sistemas operativos completos con NodeJS. Nosotros solo usaremos unas cuantas líneas.
+
+Terminal: Línea de Comandos ó CLI (por sus siglas en inglés). Es una interfaz de texto que al no incluir una interfaz gráfica elaborada puede ser muy veloz en la ejecución de instrucciones.
+
+NPM: Administrador de paquetes (bolsas de dulces) que usaremos según la conveniencia. Entre otros ,aquí están los paquetes Grunt.
+
+Grunt: Herramienta de NodeJS (bolsa de dulce) para automatización de proyectos.
+
+Por dónde comenzar
+Lo primero que debes hacer es buscar en la web oficial NodeJS y lo descargues. Mi recomendación personal es que utilices LTS.
+
+Screen Shot 2018-10-11 at 10.42.47 AM.png
+Una vez descargado, debes instalarlo en cualquiera de los sistemas operativos que utilices (Windows, MacOS o Linux).
+
+Screen Shot 2018-10-11 at 1.53.25 PM.png
+Este tutorial está desarrollado en Windows, así que usaré PowerShell. Si utilizas MacOs o Linux tienes la Terminal y puedes estar más familiarizado con la misma. Si necesitas una introducción de cómo usar la terminal, te recomiendo el Curso de Introducción a la Terminal y línea de comandos con Beco.
+
+Para ejecutar la terminal en MAC puedes buscar en el finder; en Linux depende de la distribución que utilices. Si tienes una PC con Windows 10, presionando Shift + Clic derecho en cualquier carpeta (o en el escritorio) se mostrará la opción de ejecutar PowerShell. También puede escribir CMD en el buscador de Windows.
+
+Screen Shot 2018-10-11 at 1.55.40 PM.png
+Si no eres el administrador de tu computadora puede que necesites la contraseña. En MacOS es posible que necesites escribir SUDO en ciertas ocasiones.
+Ejecuta PowerShell o la terminal en una carpeta de tu preferencia. Yo he creado “gruntPlatzi” como la raíz de este proyecto.
+
+Vamos a asegurarnos de tener la última versión de NPM, pues esto nos permitirá tener las últimas actualizaciones de los paquetes que usemos.
+
+Screen Shot 2018-10-11 at 1.56.18 PM.png
+La instrucción es por demás simple, el –g es la especificación para asegurarnos que la instalación se haga de forma global.
+
+Crearemos dos carpetas. En la primera tendremos los recursos y en la segunda el código y los archivos que podremos subir al servidor. Yo les he nombrado“recursos” y ”final”. Dentro de recursos he creado otra carpeta para mis archivos de pre-procesador bajo el nombre de “styl”. Ahora iniciamos npm. Esto nos ayudará a llevar un orden de las dependencias que estaremos usando. Lo único que debes escribir es:
+
+Screen Shot 2018-10-11 at 1.58.08 PM.png
+Luego, debes llenar los campos con la información que (el programa) solicita: Esto te ayudará a crear tu entorno de trabajo y a documentar todos los procesos. De más está mencionar que te ayudará utilizar Git y GitHub en estos proyectos.
+
+Esto creará un archivo de nombre “package.json”. El mismo contiene toda la información que acabas de escribir. Lo puedes eliminar y volver a crear las veces que sea necesario. No olvides que solo practicando harás tuyo el conocimiento. Al finalizar este tutorial, puedes abrir el archivo package.json y ver como el archivo ha sufrido cambios.
+Luego vamos a instalar grunt y las dependencias. En este ejemplo, yo instalaré:
+
+Grunt
+Stylus
+Prefijos de CSS
+Compresión de CSS
+Servidor local y recarga de mi navegador
+La instrucción es muy similar al momento de escribirla. Mientras instalas se creará una carpeta bajo el nombre “node_modules”
+Las instrucciones son:
+npm install grunt –save-dev
+npm install grunt-contrib-stylus –save-dev
+npm install grunt-autoprefixer –save-dev
+npm install grunt-contrib-cssmin –save-dev
+npm install grunt-contrib-watch –save-dev
+npm install grunt-express –save-dev
+
+Recuerda en Linux o MacOS es posible que tengas que usar SUDO y la contraseña.
+
+Luego de instalados estos paquetes (esta es una instalación breve y muy limpia) vamos a configurar nuestro gruntfile. En este archivo no haremos más que especificar dónde están nuestros archivos, cuál es el que se debe compilar, cuál es el que debe minificar, etc.
+Crea en tu editor favorito un archivo que se llame “Gruntfile.js”. El mismo tendrá el siguiente contenido:
+
+Screen Shot 2018-10-11 at 2.32.03 PM.png
+Recuerda ser cuidadoso al escribir.
+
+Screen Shot 2018-10-11 at 2.46.55 PM.png
+Aquí dentro es donde sucede toda la magia. Pero antes de que la veas en accion, te muestro mi árbol de carpetas. Esto te ayudará a entender lo que verás.
+
+Screen Shot 2018-10-11 at 2.47.23 PM.png
+Tal y como te mencione, tengo mi raíz “gruntPlatzi”. Ahí coloqué “final” y “recursos”. En final tengo mi carpeta de “css” y de imágenes “img”. En la carpeta recursos tengo una carpeta de archivos de Stylus “styl”, y si recuerdas, “node_module” fue agregada cuando iniciamos la instalación. Ahora, veamos el contenido del initConfig.
+
+Screen Shot 2018-10-11 at 2.48.23 PM.png
+Si observamos el texto es simple. Llamamos al paquete de Stylus, le decimos que queremos compilar. En este momento no vamos a comprimir, pues lo haremos más adelante. En paths le indicamos la ruta donde encontrará los archivos de stylus y luego en files, le indicamos cual es la ruta en la que espero que me entregue el .CSS y donde puede encontrar el archivo .STYL a compilar. Regularmente a los archivos de estilo en CSS se les llama “style.css”. Les he dado el nombre al .CSS “prestyle” porque el archivo final luego de ser minificado se llamará “style.css”.
+
+Screen Shot 2018-10-11 at 2.49.02 PM.png
+La lógica de prefix es muy similar.
+
+Screen Shot 2018-10-11 at 2.49.58 PM.png
+Como puedes ver, acá también se sigue una lógica similar. Aca el archivo “prestyle.css” es el que he venido preparando, pero en realidad subiré style.css.
+
+Screen Shot 2018-10-11 at 2.50.55 PM.png
+Watch estará controlando la carpeta de styl y ejecutará las tareas: stylus, autoprefixer y cssmin
+
+Screen Shot 2018-10-11 at 2.51.20 PM.png
+En express le diremos dónde puede encontrar nuestro index.html, que tenga una recarga automática y que abra el servidor local en el puerto 3000.
+
+Screen Shot 2018-10-11 at 2.51.51 PM.png
+Para terminar cargamos los paquetes y registramos una tarea. La misma recibirá por paramentos el nombre y las tareas que ejecutará.
+
+(¡PSST! Te comparto también mi propio archivo gruntfile.js, para que lo puedas comparar y usarlo de modelo para asegurarte de colocar todo de forma correcta.)
+
+Regresamos a la terminal y debes escribir:
+
+Screen Shot 2018-10-11 at 2.53.59 PM.png
+Se abrirá tu navegador predeterminado y cada vez que guardes, tanto el HTML como el Styl (recuerda que yo lo configure para Stylus, pero puedes hacerlo para todos los preprocesadores), se ejecutarán las tareas para compilar Stylus, se agregarán prefijos, se minificará el CSS, se cargará el servidor y se refrescará la página.
+
+Es emocionante, ¿cierto?
+
+¿Qué te pareció este tutorial?
+
+¡Deja tus comentarios y sugerencias!
+
+De Carlos Alba para la comunidad Platzi.

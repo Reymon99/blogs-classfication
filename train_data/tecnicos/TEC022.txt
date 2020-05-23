@@ -1,0 +1,33 @@
+Cómo convertir tu app de Next.JS en PWA
+Publicado el 30 de Julio de 2018 por robertomgonzalez
+
+Next.JS es un framework minimalista, por lo que si bien brinda muchas optimizaciones que queremos en nuestra web app, por defecto no brinda soporte completo para Progressive Web Apps. En este tutorial vamos a ver cómo integrarlo y qué recomendaciones tenemos que tener en cuenta para que salga todo increíble.
+
+Paso 1: Sumar un Manifest
+El Web App Manifest nos permite indicar al navegador información clave de nuestra aplicación, como los iconos que utiliza, su nombre, al igual que cómo debe correr y verse cuando la instalamos en la home screen de Android o iOS.
+
+La forma más fácil de hacerlo es generando un manifest, y guardarlo junto a todos los iconos en la carpeta /static de nuestro proyecto (donde servimos por defecto los archivos estáticos). Es importante aclarar el short_name y sumar un buen icono en tamaño 512x512 que va a ser utilizado tanto en la home screen como en la splash screen cuando lancemos nuestra app. El theme color también suma un punto a la hora de crear un diseño más cohesivo.
+
+Luego de generar y guardar el manifest, tenemos que enlazarlo dentro de nuestras páginas. Aquí es donde vemos que iOS siempre tiene su propia forma de hacer las cosas, por lo que tenemos que sumar también la metadata necesaria para que Safari funcione. Todo esto lo podemos hacer con el componente <Head/> de Next.JS, que nos permite sumar atributos al Head del documento (de forma muy similar a <Helmet/>).
+
+< Code Head >
+
+Paso 2: Sumar un Service Worker
+Un Service Worker nos permite hacer que nuestra aplicación funcione offline y en casos de mala conectividad, siendo esta uno de los desafíos más grandes que tenemos a la hora de hacer que nuestras apps funcionen en una gran variedad de condiciones. Para esto el mejor plugin a la fecha es next-offline, especialmente porque además de ser relativamente fácil de configurar utiliza Workbox, una librería de Google que hace que escribir Service Workers sea muchísimo más fácil.
+
+Para esto debemos seguir la guía del Readme, en la que debemos hacer varias cosas:
+
+Instalar la extensión
+
+Configurar next.config.js para setear las opciones de webpack.
+
+Configurar server.js, especialmente el path /service-worker.js
+
+Importante El Service Worker debe ser servido desde el root, ya que sólo puede acceder al path en el que está. Si lo hubiéramos puesto en /static, sólo podría acceder a los archivos estáticos.
+
+Cambiar los comandos en package.json
+
+Cambiar las estrategias de red que queramos (por defecto es todo por Network First).
+
+Paso 3: ¡Listo!
+Con estos dos requisitos ya nuestra aplicación está lista para pasar Lighthouse con un excelente puntaje, y como Next.JS ofrece Server Side Rendering automáticamente, podemos conseguir métricas de performance tan buenas como siempre, sólo que ahora con soporte offline y la posibilidad de instalar nuestra app en la home screen.

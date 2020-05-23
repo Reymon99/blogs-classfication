@@ -1,0 +1,69 @@
+Guía para ser un Frontend Developer con Platzi
+Publicado el 8 de Agosto de 2018
+
+En los últimos años una de las carreras con mayor demanda en la industria de la tecnología es la programación, en especial la programación web, que está enfocada a la parte visual e interactiva que ve el usuario al visitar nuestro sitio web. Se convirtió en una carrera profesional conocida como Frontend Developer de la cual hablaremos en este post.
+
+El objetivo de esta guía es que conozcas más sobre cual es el trabajo de un desarrollador frontend, algunas de las herramientas y conceptos que deberías conocer si deseas convertirte en uno y algunas recomendaciones que quizás te puedan ser de ayuda en tu camino al empezar, o en el proceso de desarrollo profesional en caso de que ya lo seas.
+
+enter image description here
+Lo primero que debemos hacer es comenzar con la parte más básica que debe saber un frontend, lo cual sería aprender HTML, CSS y los conceptos básicos de Javascript.
+
+HTML
+
+HTML, acrónimo de Hypertext Markup Language, es el lenguaje estándar de marcado para la web que se encarga de dar la estructura de una página web, por medio de bloques de elementos representados por tags, los cuales tienen un contenido dentro de ellos que es lo que se renderiza y se muestra al usuario cuando visita nuestra web. Lo primordial que debes aprender de HTML es su semántica y cómo escribirlo correctamente, además de entender cómo se dividen las páginas para darle al DOM (el árbol de elementos) una estructura apropiada.
+
+CSS
+
+Cuando ya tienes la base de un sitio web en HTML lo siguiente que debes hacer es darle estilos y darle una apariencia increíble, para ello debemos utilizar CSS (Cascading style sheets) el cual es un lenguaje que describe como se deben mostrar los elementos que creamos en el HTML. Para aprenderlo debes aprender como utilizar su sintaxis y las propiedades que puedes usar en cada uno de los elementos, también aprender a manejar el modelo de caja para poder estructurar tu contenido según como quieras que se vea con herramientas como Flexbox o Grid de los cuales tienes cursos en Platzi, e incluso darle un estilo responsive que se maneja por medio de propiedades de CSS también.
+
+Para aprender todo lo que necesitas saber de HTML y CSS en Platzi hay un Curso de Desarrollo Web en el cual aprenderás todo lo que te dije anteriormente y como utilizarlo para empezar a construir tu primer proyecto.
+
+Javascript
+
+Cuando tu sitio web está compuesto únicamente por HTML y CSS puede ser mostrado al usuario pero de una manera muy estática y aburrida, para solucionar esto debemos aprender y empezar a usar el lenguaje de programación más utilizado actualmente conocido como Javascript, el cual sirve para darle interactividad a nuestro sitio web, por ejemplo, cuando entras a un sitio y ves que usa modales, sliders y muchos contenidos dinámicos, todo esto está hecho por medio de Javascript. Lo más importante que debes empezar a aprender es la sintaxis y el uso de elementos de los que se compone javascript como arrays, objetos, funciones, closures, etc. También debes aprender cosas básicas como obtener elementos del DOM, añadir o quitar clases, crear eventos, hacer llamados a apis externos.
+
+Todo lo que necesitas conocer de Javascript lo encuentras en el curso de Fundamentos de Javascript donde aprenderás desde los tipos de datos que existen hasta crear módulos o crear y publicar paquetes en NPM del cual hablaré a detalle más adelante.
+
+A partir de este momento si ya aprendiste o ya conoces los conceptos anteriores es hora de ir más profundo en nuestro camino como Frontend por lo que debemos conocer algunas cosas más.
+
+Git
+
+Git es un sistema de control de versiones que básicamente te da la opción de llevar un control de los cambios y los archivos de tu proyecto para poder saber los estados en los que se encuentran, comparar cambios, poder revertirlos a un estado anterior y además permitir llevar un trabajo sincronizado con tu equipo de desarrollo ya que te deja saber quien y qué se modifica de cada uno de los archivos de tu proyecto. En Platzi hay un curso de Git que te enseñará todos los usos y herramientas que puedes usar con git para que lo empieces a aplicar en tus proyectos.
+
+NPM (Node Package Manager)
+
+Hay algunos casos en los que para resolver o facilitar algún requerimiento de nuestra web podemos recurrir a usar librerías o recursos externos, antes esta era una difícil tarea que implicaba copiar archivos de css y js en nuestros archivos, pero con NPM esto ya no es necesario, ya que simplemente corriendo un comando en nuestra consola podremos instalar y actualizar eso que necesitamos directamente en nuestro proyecto por medio de los comandos más usados para ello: npm o yarn de los cuales deberás aprender los comandos básicos para poder utilizarlos correctamente en el curso de Fundamentos de Javascript.
+
+Preprocesadores de CSS
+
+Cuando empiezas a utilizar de forma mucho más constante CSS, te darás cuenta que hay algunas cosas en la sintaxis del lenguaje que se vuelven bastante repetitivas, por lo que es una buena opción aprender a usar algún preprocesador, el cual nos ayudará a mejorar nuestra productividad y a usar algunas cosas que el lenguaje no trae por defecto, como variables, mixins, funciones, etc. Puedes probar cada uno de ellos y de ahí puedes elegir a tu gusto con cual te quedas, los más comunes actualmente son Stylus, Sass, Less, PostCSS, de los cuales para cada uno hay un curso en Platzi que te enseñará a usarlo y elegir el que más se adapte a ti.
+
+Frameworks de CSS
+
+Hay algunos casos en los que vas a querer o necesitar hacer las cosas mucho más rápido, por ejemplo si te piden una landing page de último momento, para esos casos tenemos los frameworks de css, los cuales son una herramienta muy útil si necesitas maquetar algo rápido, ya que tienen muchas opciones predefinidas que simplemente leyendo su documentación podrás utilizar con solo copiar y pegar y posteriormente irás aprendiendo con su uso, en Platzi tienes un curso para los dos frameworks más utilizados que son Bootstrap y Foundation que te dará las bases para que los empieces a usar en estos casos.
+
+Webpack
+
+Webpack es un sistema de bundling que nos permite crear la versión de producción minificada y optimizada de nuestros archivos para que puedan ser leídos por el navegador, por medio de algunos loaders y configuraciones que debemos definir en un archivo especial en la raíz de nuestro proyecto, así sabremos que siempre vamos a tener la versión para producción de nuestro proyecto en una carpeta especial para ello agilizando nuestro proceso de desarrollo. En Platzi hay un curso que te enseña la versión 4, la última hasta el momento, y con ella podrás aprender a enfocarte en el código mientras webpack se encargará de que funcione, sea compatible y esté super optimizado.
+
+En caso de que ya conocieras las herramientas anteriores o de que ya las aprendiste y quieres dar el primer paso es hora de ir a terreno avanzado, en este momento la mayoría de trabajo del frontend está migrando hacia las aplicaciones web y los frameworks y librerías de javascript, para las cuales necesitarás aprender fuera de el uso de ellas en sí, todas las opciones de las que disponen y como sacar el máximo provecho de sus capacidades.
+
+enter image description here
+En este momento sería el momento perfecto para elegir el framework o librería de Javascript en el cual te quieras enfocar, no es una buena idea enfocarse en varios ya que si sabes un poco de todos no vas a ser experto en ninguno, lo mejor es perfeccionar el uso de alguno de ellos y luego que ya lo domines puedes ver si deseas aprender otro y empezar a ver cual se relaciona más con tus requerimientos y el tipo de proyectos que realices. En este momento los más populares son React, Angular y Vue por lo que te dejaré una pequeña explicación de cada uno.
+
+React
+
+React es la librería de Javascript más popular del momento, fue creada por el equipo de Facebook y está optimizada para crear interfaces de usuario con una arquitectura basada en componentes, con un gran manejo del flujo de datos y eventos lo que la hace la mejor opción para creación de vistas en una aplicación web, además de contar con un virtual DOM que hace que el performance de la aplicación sea muy alto, ya que no actualiza todo nuestro sitio cuando hay cambios en los datos, en vez de eso solo vuelve a renderizar los nodos que van cambiando según la interacción que realice el usuario. Empresas como Instagram, Facebook, Airbnb y Platzi la utilizan como herramienta principal a nivel de frontend así que la escalabilidad con esta librería no es un tema que deba preocuparnos. Lo que deberías aprender de ella para empezar a usarla es su sintaxis, los tipos de componentes, el manejo de eventos y el ciclo de vida que nos permite ejecutar algo en el momento exacto en el que queremos que ocurra. En Platzi tienes un curso que te enseñará todas las bases y herramientas de React mientras creamos una aplicación web de vídeos.
+
+Angular
+
+Angular es un framework de Javascript creado y mantenido por Google cuya finalidad es desarrollar aplicaciones web orientadas a objetos y basadas en componentes de manera más sencilla con los elementos que integra, en el cual la carga de datos y llamados al servidor se hacen de manera dinámica y asíncrona, sin necesidad de refrescar nuestro sitio en ningún momento y dándole un rendimiento bastante alto. Actualmente se encuentra en su última versión, la versión 6 en la cual introdujeron grandes mejoras en algunas de sus herramientas como Angular Elements y Angular Material v6. En Platzi puedes encontrar un curso para aprender todo lo que podemos hacer con este framework en su versión 4 que te dará todo lo necesario para dar el salto a la versión 6.
+
+Vue
+
+Vuejs es un framework progresivo, lo que significa que está modularizado y podemos elegir qué librerías queremos utilizar, según la complejidad del proyecto que estemos realizando, lo que optimiza su rendimiento, ayuda a la escalabilidad y lo hace ser una gran opción tanto para un proyecto muy básico como para uno pensado para ser muy grande y complejo. Una de las cosas más interesantes de Vue es su forma de crear los componentes ya que incluyen el HTML, el CSS y el Javascript en el mismo archivo del componente pero en piezas separadas que al final van a componer el árbol de elementos que formará nuestra aplicación. En Platzi tienes disponible el curso básico para aprender todas las bases del framework como un curso avanzado para sacarle todo el potencial y trabajar en proyectos mucho más complejos.
+
+enter image description here
+Luego que ya hayas aprendido todos los conceptos básicos de HTML, CSS y Javascript y hayas elegido el framework en el cual te deseas enfocar, podrás pasar a conceptos más avanzados como pruebas automatizadas y server side rendering, que te ayudarán a optimizar tus aplicaciones y a hacerlas menos propensas a errores, así serás un Frontend Developer con todos los conceptos básicos y avanzados para enfrentarte a cualquier reto o montar cualquier proyecto tanto personal como en lo que sea requerido en tu trabajo. Como recomendaciones personales que a mí me han sido útiles te diría que no solo veas los cursos, sigue el proyecto y créalo tú mismo, cámbiale cosas y crea algunos proyectos más por cada curso que veas, esto no solo te servirá para lidiar con errores que te ayudarán a aprender, sino que te ayudará a crear un portafolio para el momento en que ya estés listo para conseguir un trabajo.
+
+Espero que te haya sido de ayuda y si deseas una segunda parte de esta guía explicando todos estos conceptos avanzados o qué nos centremos en alguna herramienta o framework, nos lo puedes hacer saber en los comentarios.

@@ -1,0 +1,60 @@
+Tu startup merece un buen pitch, aprende cómo hacerlo
+Publicado el 7 de Septiembre de 2018 por dmiramon
+
+Dime si alguna de estas historias te resultan familiares. Estás en una cena con amistades cuando alguien te pregunta a qué te dedicas y con mucha emoción explicas lo que haces. Minutos después te hacen las preguntas más raras “¿pero es así como una app?”, “¿y la gente usa eso?”; no lo entendieron 😦 Otro día estás entrevistando gente para contratar talento para tu startup y crees haber encontrado a la persona ideal. La entrevista fue maravillosa, enviaste la propuesta y entonces te responde que aceptó una oferta en un corporativo o agencia 😦 Estás en una reunión con un potencial cliente, acabas de hacer la presentación de tu vida pero deciden que tu solución “no es lo que estamos buscando ahorita, gracias”. FUUUUUUUUUUUUUUU (╯°□°)╯︵ ┻━┻
+
+¿Qué tienen en común estas anécdotas? (todas de la vida real, me pasaron a mi) Que nadie entendió lo que expliqué y la culpa fue de mía y de mi pitch. Tenía un producto maravilloso, pero no lograba transmitirlo a otros. Si te ha ocurrido algo parecido, primero quiero que sepas que no eres el único: le pasa a miles de emprendedores todos los días; lo he visto en hackatones, ruedas de negocio, conferencias y hasta reuniones con inversionistas. Segundo y más importante: tiene solución y debes arreglarlo. Un mal pitch puede matar a tu startup.
+
+Elige el formato correcto
+Existen distintos formatos para hacer un pitch, dependiendo de la audiencia a la que va dirigido y el tiempo que tendrás para presentar. Necesitas adaptar tu pitch para cada situación, porque es muy diferente hacerlo en una reunión breve (el famoso pitch de elevador de un minuto), que frente a posibles inversionistas. Así que primero averigua quién será tu público y cuánto tiempo tendrás para presentar.
+
+Para este ejemplo vamos a usar un formato de cinco minutos y dirigido a otros emprendedores; es el que se utiliza para presentar en el Demo Day de Platzi.
+
+1. Quién eres y qué haces
+Empieza por lo sencillo: presentar tu empresa. Se breve, que quepa en un tweet. Esta versión corta también puede ser tu pitch de elevador.
+
+“Somos Platzi, enseñamos de forma online y efectiva las herramientas y habilidades necesarias para iniciar una carrera en tecnología”.
+
+Todo producto o servicio debe resolver un problema o satisfacer una necesidad, así que a continuación deberías mencionarlo. ¿Cuál es el problema y por qué es un problema? Apóyate en datos que hayas investigado; también puedes usar historias de usuarios. Echa mano de lo que sea necesario para transmitir la importancia de resolver esto, no basta con que digas “es muy importante”.
+
+Cada año millones de puestos de trabajo en Latinoamérica se quedan vacíos porque no existen suficientes personas capacitadas para ocuparlos.
+
+
+2. La solución y el demo
+Ya mencionaste el problema, ahora te toca hablar de cómo lo estás solucionando. Vuelve a mencionar qué es lo que hacen, pero esta vez ve a los detalles. ¿Cómo lo hacen? ¿Por qué es diferente?
+
+Un error común en esta parte es decir “nadie más lo está resolviendo” o “somos los primeros en hacer esto”. Evita usar estos argumentos (el 99% de las veces es falso), es mucho mejor mencionar por qué lo que haces es diferente a las opciones que existen.
+
+Hacemos cursos de programación, diseño, marketing y otros temas en tecnología. A diferencia de otras soluciones (cursos presenciales, otras plataformas), nosotros tenemos un catálogo abierto online porque así las personas tienen el control de aprender lo que quieran, cuándo quieran y dónde quieran. Nuestros instructores son expertos de la industria, con experiencia real sobre el tema que van a enseñar.
+
+Si tienes un demo funcional, este es el mejor momento para mostrarlo. Utilízalo de apoyo en tu explicación y muestra lo mejor de tu producto. No es necesario que muestres todas las funciones maravillosas que tiene (te creemos, es genial); hacer demos completos te va a restar tiempo (recuerda que tienes muy poco) y en realidad nadie en la audiencia necesita ver cómo crear una cuenta y hacer login 😛
+
+
+3. La gran oportunidad: el modelo de negocio y el tamaño del mercado
+Es momento de contar cómo es que tu startup va a triunfar económicamente. El modelo de negocio debe ser sencillo de explicar: cuánto cuesta y cómo se paga; en resumen, cómo es que lograron monetizar su solución.
+
+Nuestro modelo es una suscripción recurrente y existen dos planes: Basic ($35 USD al mes) o Expert ($299 USD por año).
+
+Si aún no has encontrado un modelo de negocio sé honesto al respecto, puedes incluso mencionar qué opciones han intentado o están probando actualmente. Evita mentir o hacer promesas falsas. Para el tamaño del mercado utiliza datos que demuestren qué tan grande es esta oportunidad.
+
+Existen 150 millones de personas buscando opciones de entrenamiento profesional y/o educación continua en Latinoamérica. Cada día más y más personas deciden aprender con métodos alternativos, como la educación en línea o la educación híbrida.
+
+
+4. El progreso hasta ahora y lo que sigue
+Se acerca el final del pitch, así que asegúrate de mostrar lo que tú y tu equipo han logrado hasta el momento. Puedes mencionar el crecimiento semanal o mensual de usuarios o de ingresos, inversión que hayan obtenido, una nueva función que hayan lanzado o un pivot del modelo que hayan hecho recientemente. Si tienen planes o metas claras en el corto plazo también comunícalo en esta parte.
+
+Tenemos seiscientos mil estudiantes registrados en la plataforma y al ritmo de crecimiento vamos a tener un millón para finales del año. Llegamos a nuestra meta de producir veinte cursos por mes y el siguiente paso es llegar a treinta.
+
+
+5. El gran final
+¡Quedan tan solo unos segundos en el reloj! Tu cierre dependerá del objetivo que tengas. ¿Buscas inversión? Menciona cuánto están buscando. ¿Están contratando? Di que vacantes hay, qué perfiles estás buscando. ¿Necesitas más clientes? Invítalos a registrarse o a escribirte. Es muy importante terminar siempre con un llamado a la acción; deja tus datos de contacto y la dirección donde pueden encontrar más información o registrarse.
+
+Platzi es educación online efectiva por menos de 1 USD al día. Los mejores profesionales nunca paran de aprender. Te esperamos, entra hoy mismo a platzi.com
+
+
+Algunas recomendaciones adicionales
+Que una sola persona haga el pitch, la mejor preparada. Yo sé que tu equipo es increíble pero no necesitan hablar todos (no es un trabajo escolar) y sí puedes en cambio incluir en tu pitch una mención de por qué son el mejor equipo.
+Practica tu pitch las veces que sea necesario y de preferencia con reloj en mano, así ni el tiempo ni los nervios de hablar en público jugarán en tu contra.
+Prepara un guión, pero también improvisa. Intenta cosas distintas y cambia el orden de las ideas; recuerda que también debes adaptar tu pitch a la reacción del público.
+Si necesitas ayuda o tienes dudas toma los cursos de Hablar en Público y los de la Carrera de Creación de Startups, donde te enseñamos todo esto a profundidad.
+El Demo Day de Platzi es el próximo 27 de septiembre y estás a tiempo de inscribir a tu startup. Entra a platzi.com/demoday para conocer los detalles. ¡Nos vemos en la final!

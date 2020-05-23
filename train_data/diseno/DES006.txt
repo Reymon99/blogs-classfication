@@ -1,0 +1,30 @@
+Para qué usar Photoshop cc 2018
+Publicado el 9 de Marzo de 2018 por Danigo21
+
+Photoshop es una herramienta que ha cambiado la forma en la que vemos el mundo. Seguramente habrás visto alguna imagen que ha pasado por este software, y esto es porque Photoshop no solo es el estándar de la industria gráfica, sino que tiene un sinfín de posibilidades que puedes explotar desde cualquier otra área del conocimiento.
+
+Esta herramienta, que se ha venido perfeccionando desde 1988, tiene desde las funciones más básicas, como redimensionar una imagen para tu foto de perfil, hasta las más complejas, como crear modelos 3d con ayuda de Adobe Fuse. Aquí podrás ver algunos ejemplos del uso de Photoshop en diferentes áreas:
+
+Diseño
+Ya seas diseñador gráfico o industrial, de modas o diseñador web, para un diseñador es un must tener conocimientos de Photoshop. Photoshop trabaja de la mano con Illustrator e Indesign para mejorar tu flujo de trabajo, además con la integración de Typekit es cada vez más fácil encontrar fuentes tipográficas para tu proyecto. Puedes hacer bocetos, ilustraciones, diseñar un logo o editar imágenes para usarlas en impresión, así como crear mockups de una app que estés diseñando o exportar assets para una página web.
+
+Photoshop2.jpg
+Edición de video y animación
+Desde hacer thumbnails llamativos para tu canal de Youtube hasta crear un concept art para una película, Photoshop es una herramienta integral que te da la posibilidad crear gifs animados y clips de video a partir de secuencias de imágenes o ilustraciones. Puedes crear recursos gráficos para luego exportarlos a otros programas de edición como Premiere o After Effects.
+
+Publicidad, comunicación, ventas
+Si trabajas en el área de publicidad o mercadeo, es muy probable que ya te hayas encontrado con Photoshop en el proceso de creación de una campaña publicitaria, pero para cualquier profesional de la comunicación es indispensable usar imágenes con las que el público pueda conectarse y entender un mensaje. Con este software puedes editar imágenes para vender un producto o idear una campaña para redes sociales.
+
+Photoshop3.jpg
+Programación
+No importa si eres programador Backend o Frontend, entender la interfaz de Photoshop cuando recibas un .psd no solo hará que mejore el trabajo en equipo con diseñadores, sino que te dará un conocimiento valioso con el que podrás crear imágenes para la app o la web que estés desarrollando. Además, con Adobe’s ExtendedScript Toolkit puedes programar scripts para Photoshop y usarlos para automatizar tareas y procesar lotes de imágenes al mismo tiempo, incluso hay sitios especializados en comercializar estas acciones.
+
+Ciencias
+Si quieres publicar un artículo sobre cualquier tema, vas a necesitar editar imágenes de apoyo que soporten los resultados que quieres mostrar. Tanto lo macro como lo micro, en Medicina y Biología es necesario editar imágenes microscópicas para crear pósters científicos. Incluso la Nasa usa Photoshop para crear las imágenes que vemos de galaxias y constelaciones, traduciendo datos invisibles de luz infrarroja a colores que podemos ver.
+
+Photoshop4.jpg
+Imagen: NASA/JPL-Caltech/UCLA
+
+Ahora que ya tienes una pequeña muestra del universo de posibilidades que te da Photoshop, seguramente consideras para tu carrera profesional tener conocimientos en edición y creación de imágenes. Para esto tenemos preparada una nueva versión del Curso Básico de Photoshop de Platzi, con el que en poco tiempo podrás adentrarte en el mundo de la imagen y crear proyectos increíbles!
+
+Photoshop1.jpg

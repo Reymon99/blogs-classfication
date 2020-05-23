@@ -1,0 +1,148 @@
+Modos de fusión en Photoshop
+Publicado el 16 de Marzo de 2018 por unavacaverde
+
+Los modos de fusión que encontramos en las opciones de capa así como en diferentes herramientas de manipulación de imágenes o fotos nos permiten controlar como se comportan los pixeles de una capa sobre otros en relación a diferentes aspectos de color, luminosidad o transparencia. Los primeros acercamientos a estas opciones son poco intuitivos y difíciles de predecir pero con esta guía entenderás como se comportan y a elegir la mejor opción cuando los necesites.
+
+Normal
+Es el modo por defecto de todas las capas, los pixeles qué están en la capa superior se mostraran según su opacidad.
+
+1_normal.png
+Dissolve / Disolver
+Toma los valores de transparencia y genera una textura aleatoria de pixeles transparentes que permiten ver la capa base. Cuanto mayor es la transparencia mayor es la densidad de los pixeles transparentes. En nuestro ejemplo redujimos la opacidad a 50% para ver su efecto
+
+2_dissolve.png
+Modos Oscuros
+Estos métodos generan resultados oscuros al ignorar los colores más claros de la capa superior y resaltar los colores con menos brillo
+
+Darken / Oscurecer
+Evalúa los dos pixeles y arroja como resultado el color más oscuro. En nuestro ejemplo vemos como el blanco desaparece por completo
+
+3_darken.png
+Multiply / Multiplicar
+Toma los valores de color de la capa superior, los multiplica por los valores de la base y los divide entre 255. El resultado es siempre más oscuro y el blanco es ignorado. Es tal vez el modo de fusión más usado así que veamos a detalle como es la operación entre los pixeles de las dos capas:
+
+4_multiplicar1.png
+Pixel superior: R38, G169, B234
+Pixel base: R40, G234, B105
+
+la operación de asignar modo multiplicar será la siguiente:
+
+R: ( 38 x 40 ) / 255 = 5.9 redondeado a 6
+G: ( 169 x 234 ) / 255 = 155
+B: ( 234 x 105 ) / 255 = 96.3 redondeado a 96
+
+Nuestro color resultante es entonces R:6 G:155 B:96
+
+En la práctica es un modo de fusión muy útil para agregar textura o integrar imágenes.
+
+5_multiplicar2.png
+Color Burn / Subexponer Color
+Genera un resultado similar a Multiply pero más oscuro porque aumenta el contraste entre las capas aumentando la saturación en los tonos medios
+
+6_colorburn.png
+Linear Burn / Subexposición Lineal
+Disminuye el brillo del color base según el matiz de la capa mezclada. El resultado es más oscuro que Multiply pero menos saturado que Color Burn
+
+7_linearburn.png
+Darker Color / Color más oscuro
+El resultado es muy similar a Darken / Oscurecer comparar los dos colores y mostrar únicamente el más oscuro. La diferencia está en que este modo compara cada canal RGB mientras que Darken utiliza la mezcla RGB.
+
+8_darker_color.png
+Modos Claros
+Al contrario de los métodos anteriores éstos le dan relevancia y operan sobre los colores con más brillo e ignoran los más oscuros
+
+Lighten / Aclarar
+Compara los dos colores y entrega como resultado el más claro o de mayor brillo.
+
+9_lighhten.png
+Screen / Trama
+Es también uno de los modos de fusión más populares dando como resultado el color más brillante y permite generar más valores de luminosidad que Lighten.
+
+10_screen.png
+Color Dodge / Sobreexponer Color
+Aumenta la saturación y da un resultado más brillante reduciendo el contraste entre las dos capas.
+
+11_colordodge.png
+Linear Dodge (Add) / Sobreexposición Lineal (Añadir)
+Produce resultados muy cercanos a Color Dodge pero compara cada canal RGB de las capas generando un poco menos de saturación que el modo anterior.
+
+12_lineardodge_add.png
+Lighter Color / Color más claro
+Similar a Lighten, no mezcla los colores y el resultado es el color más claro de los dos pixeles comparados. A diferencia de Lighten, éste modo no compara cada canal RGB por separado. Compara el color final por lo tanto el resultado es muy marcado.
+
+13_lightercolor.png
+Modos de mezcla por contraste
+Estos modos resaltan tanto los colores más oscuros como los más claros y reducen la opacidad de los tonos medios.
+
+Overlay / Superponer
+Resalta los colores claros de la misma forma que lo hace Screen y también los oscuros con el mismo método de Multiply. Los tonos medios de la capa superior se vuelven transparentes. Genera un resultado de gran contraste y saturación.
+
+14_overlay.png
+Soft Light / Luz suave
+El resultado es similar a Overlay pero mucho más sutil
+
+15_softlight.png
+Hard Light / Luz Fuerte
+Utiliza el modo de Linear Dodge para los colores más claros y Linear Burn para los más oscuros generando un resultado mucho más agresivo en contraste y color que Overlay.
+
+16_hardlight.png
+Vivid light / Luz intensa
+Puede entenderse como una versión extrema de Overlay, aumenta la saturación y contraste de los colores más oscuros y más claros.
+
+17_vividlight.png
+Linear Light / Luz Lineal
+Es una mezcla de Linear dodge para los colores claros y linear Burn para los oscuros. Similar a Vivid light pero con un poco más de valores en el resultado.
+
+18_linearlight.png
+Pin light / Luz focal
+Utiliza los principios de mezcla por contraste de Vivid light pero en este caso el rango de tonos medios que se vuelven transparentes en un poco más amplio.
+
+19_pinlight.png
+Hard Mix / Mezcla definida
+Este modo de fusión suma los canales de color RGB de las dos capas llevando los valores de 255 o superiores a 255 y los inferiores a 0. El resultado son bloques de color “puro” rojo, verde, azul, blanco o negro.
+
+20_hardmix.png
+Modos “invertidos"
+Estos modos de color transforman el color de cada pixel en la mezcla invirtiendo sus valores en el círculo cromático.
+
+Difference / Diferencia
+Invierte los colores comparando las dos capas, mientras la diferencia entre un color y otro sea mayor el resultado es un color más “opuesto”. El negro no afecta la capa base.
+
+21_difference.png
+Exclusion / Exclusión
+El resultado es similar a Difference sin embargo los tonos medios de gris se mantendrán completamente visibles sin mezclarse.
+
+22_exclusion.png
+Modos de cancelación
+Estos modos reducen la información de color tendiendo al blanco o al negro.
+
+Subtract / Restar
+Los valores de la capa superior son restados por los de la capa base por lo tanto el resultado tiende al negro.
+
+23_subbstract.png
+Divide / Dividir
+Produce el efecto contrario a Substract dónde los colores más oscuros resultarán an zonas más brillantes y los claros tendrán poco efecto en la capa base.
+
+24_divide.png
+Modos por componente
+Estos modos de fusión tomarán diferentes valores del modo de color HSV (matiz, saturación y brillo) para generar la mezcla.
+
+Hue / Matiz o Tono
+Mantiene el brillo y la saturación de la capa base pero transforma el matiz por el que tenga la capa superior.
+
+25_hue.png
+Saturación / Saturación
+Mantiene brillo y el matiz pero afecta la saturación de la capa base por el nivel de saturación de la superior.
+
+26_saturation.png
+Color
+Es una mezcla de los dos anteriores transmitiendo la saturación y el matiz ( hue ) de la capa superior. Es ideal para dar color a imágenes en blanco y negro.
+
+27_color.png
+Luminocity / Luminosidad
+Mantiene el matiz y la saturación de la capa base pero adopta el brillo de la capa superior.
+
+28_luminosity.png
+Ahora ya sabes los resultados que generan los diferentes modos de fusión. No tienes que memorizarlos, entender los grupos es suficiente para saber a dónde ir cuando buscamos una solución específica.
+
+Personalmente uso mucho Multiplicar para generar sombras coherentes con el color de base y Screen cuando quiero simular reflejos, también he usado Darken en algunas imágenes que tienen fondo blanco y así no tener que recortarlas. Cuéntanos cuales usos les has dado a los modos de fusión y compartamos ideas.

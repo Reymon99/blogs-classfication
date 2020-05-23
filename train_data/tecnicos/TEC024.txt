@@ -1,0 +1,92 @@
+Mejorando la seguridad de tu web con Cloudflare
+Publidado el 24 de Abril de 2018 por estebanborges
+
+Anteriormente tuvimos la oportunidad de aprender qué es Cloudflare, así como sus principales características. Pudimos profundizar en cómo usar el sistema de Cache + CDN adecuadamente.
+
+Ahora nos adentrarnos en otra de sus grandes cualidades, la Seguridad. Puntualmente sobre cómo mejorar la seguridad de nuestros sitios directamente desde las opciones que ofrece Cloudflare.
+
+Características de Seguridad de Cloudflare
+Si bien Cloudflare ofrece muchísimas posibilidades y características referidas a la seguridad de los sitios, muchas de ellas están disponibles sólo para las cuentas Premium (pagas), por lo tanto trataré de ser práctico y comentar las cosas que puedes utilizar en la versión gratuita.
+
+Todas estas recomendaciones las hacemos también a muchos de nuestros clientes en Infranetworking, y siempre con excelentes resultados. Comencemos.
+
+Bloquear el acceso a bots maliciosos
+El sistema de seguridad de Cloudflare permite bloquear bots maliciosos que van recorriendo Internet en busca de potenciales víctimas. Esto incluye spammers, bots de inyecciones de contenido o phishing.
+
+Esta protección viene activada por defecto cuando la nube naranja de Cloudflare está activada, no necesitas hacer nada más que asegúrate de que Security Level esté en Medium o High.
+
+Luego puedes ver el porcentaje de bots maliciosos se han detenido desde las estadísticas en el apartado “Threats”:
+
+Cloudflare_seguridad_1.jpg
+Mitigar los ataques DDoS
+El modo anti-DDOS de Cloudflare es sin dudas uno de los mejores del mundo, puede ayudarte a mitigar ataques de casi cualquier tamaño, incluso si usas una cuenta gratuita de CF.
+
+Te ayudará a proteger tus aplicaciones contra tráfico malicioso como floods, DOS y DDOS masivos. También podrás limitar el número de requests que llegan a determinados recursos de tu web, con el fin de frenar estos ataques.
+
+El modo anti-DDOS te permitirá detener estos ataques usando análisis inteligente de patrones sospechosos como sistema operativo, navegador, tipo de petición, etc.
+
+Activando el modo Anti-DDOS de Cloudflare
+
+Sólo debes ir al apartado Security Level en el menú superior, luego seleccionar “I’m Under Attack”.
+
+Este modo bloqueará la mayoría de los ataques masivos de mediano porte. Si la cantidad de requests exceden el número permitido por la protección y se convierte en un ataque de proporciones grandes, seguramente te convendrá ir por un plan premium.
+
+Cloudflare_seguridad_2.jpg
+Capa de seguridad de transporte SSL / TLS (TLS)
+
+El cifrado SSL permite que tu web pueda despachar conexiones vía HTTPS entre los visitantes y el servidor donde hospedes el contenido. Esto evita ataques a tu web, rastreo de información, sniffing de datos, te ayuda a mejorar posicionamiento web y además impacta en cómo tus clientes/visitas ven tu web al notar que es segura (candado verde en la barra de navegación).
+
+Cloudflare ofrece varios tipos de SSL, Flexible SSL, Full o Full Strict. El gratuito emitido por Cloudflare es Flexible SSL y es el que te recomendamos si no tienes un certificado SSL en tu servidor de origen.
+
+¿Cómo activar mi certificado SSL emitido por Cloudflare?
+Para activar Flexible SSL de Cloudflare, debes ir a la opción “Crypto”, ubicada en el menú superior y activar “Flexible” desde allí, tal como ves en la siguiente captura:
+
+Cloudflare_seguridad_3.jpg
+Si ya tienes otro certificado corriendo en el origen, necesitas activar Full Strict. De esta manera Cloudflare puede crear el túnel SSL usando tu encriptación original y no la de su red.
+
+Igualmente ten en cuenta que el “Flexible SSL” ofrecido por Cloudflare no es del todo seguro respecto a las soluciones tradicionales pagas o bien al moderno Let’s Encrypt.
+
+Web Application Firewall (WAF)
+
+Cloudflare incorpora una interesante herramienta llamada WAF. Se trata de un firewall de aplicaciones web utilizado para detectar y bloquear vulnerabilidades que se encuentran desde el lado de las aplicaciones en la red, y que en última instancia permiten robo de datos, inyección de código remoto o escalar privilegios mediante exploits, entre otros.
+
+Se utilizan diferentes reglas y factores inteligentes para detener ataques, permitiendo también generar reglas personalizadas por cada sitio que tenemos.
+
+¿Cómo activar el firewall de aplicaciones?
+Si bien el WAF como tal no está disponible para los planes gratuitos, está la posibilidad de hacer upgrade a un plan pago y así disfrutarás de esta gran herramienta de seguridad.
+
+Puedes activarla desde el apartado ‘Firewall’ en el menú superior, y luego haciendo clic en ‘Web Application Firewall’.
+
+Aunque si igualmente tienes el plan gratis, hay una utilidad dentro del WAF que te permitirá disfrutar de sus protecciones en un modo reducido, pero igualmente efectivo con el Browser Integrity Checking. Puedes activarlo desde la misma área que mencionamos antes:
+
+Cloudflare_seguridad_4.jpg
+Scrape Shield
+Esta utilidad se encuentra en el menú de íconos superiores de Cloudflare y nos permite activar varias protecciones de seguridad para nuestro sitio como por ejemplo:
+
+Protección contra ofuscación de emails
+
+Hará que los emails que se muestran en tu web no sean leídos por parte de los bots y spammers maliciosos, pero sí podrán leerlas los humanos sin problemas. Esto te ahorrará toneladas de spam a futuro.
+
+Server Side Excludes
+
+El uso de etiquetas SSI de Cloudflare permitirá que puedas ocultar contenido sensible automáticamente de la vista de visitantes que no tengan buena reputación, pero que sea 100% visible a las visitas reales.
+
+Protección Hotlink
+
+Esta protección permite que sólo tu sitio y los de la red que especifiques puedan cargar las imágenes de tu web. Protegerás tu sitio del uso de tus imágenes desde enlaces externos y reducirás el uso de transferencia sensiblemente.
+
+Cómo activar estas protecciones
+
+Tan simple como ir al menú superior y hacer click en el ícono “Scrap Shield”, luego podrás activar o desactivar las opciones según necesites:
+
+Cloudflare_seguridad_5.jpg
+Conclusión
+Como hemos visto, existen muchas cosas que pueden aplicarse desde el lado de Cloudflare para asegurar nuestro sitio web, sea usando su famoso método anti-ddos, protegiéndonos contra hotlinking o bien rechazando peticiones con su firewall de aplicaciones (WAF).
+
+Cada una de ellas nos ayudará a que nuestro sitio sea un poco menos “hackeable” por atacantes maliciosos, sin embargo, vale la pena recordar que si bien CF ofrece buenas opciones para mejorar nuestra seguridad web (yo diría que ayuda un 25%), también no debemos olvidar que las aplicaciones deben mantenerse seguras desde el punto de vista del desarrollo.
+
+Y finalmente que gran parte de la seguridad también reside en cuán seguro está el sistema operativo y los servicios que corren desde el lado del servidor, en este punto contar con el apoyo de tu proveedor de hosting o una empresa de Administración de Servidores es vital.
+
+Cloudflare ayuda a mejorar tu seguridad, pero no hace magia, la responsabilidad en desarrollar siguiendo estándares seguros de programación más un buen hardening desde el servidor son fundamentales para hacer que este complemento nos sirva realmente.
+
+¿Qué hay de ti? ¿Usas algunas de estas características de seguridad de Cloudflare?

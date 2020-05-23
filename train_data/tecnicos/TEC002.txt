@@ -1,0 +1,41 @@
+5 razones para construir un negocio en la nube
+Publicado el 24 de Agosto de 2018 por erikaluna
+
+Si eres un empresario con un negocio tradicional o planeas construir una startup este blogpost es para ti. Aquí te doy 5 razones para construir tu negocio en los servicios de nube.
+
+Los tiempos han cambiado y para crear una empresa ya no es suficiente pensar en las 4 P que nos enseñaron en clase de mercadotecnia. Hoy en día los emprendedores debemos enfrentarnos a nuevos retos: así como es fundamental saber de negocios, ventas y creación de productos, es aún más importante tener fundamentos de programación.
+
+Estamos en una época en la que los negocios pueden escalar a niveles inimaginables, pueden pasar de ser locales a tener presencia internacional. Pero la única forma de hacerlo es teniendo productos y servicios al alcance de un click.
+
+Las nubes tienen muchos servicios disponibles para emprendedores como tú. No te asustes si esto te suena a ciencia nuclear. En Platzi puedes encontrar varios cursos e incluso carreras para ayudarte en este camino. Para empezar te daré 5 razones para mudar tu negocio a la nube.
+
+1. Te permite ahorrar
+No es necesario que adquieras un servidor físico y miles de cables para tu compañía. Google, AWS y Azure te ofrecen infraestructura de hardware que se encuentra en lugares llamados Centros de Datos.
+
+Servicios de nube como los de Google están diseñados para cobrarte únicamente lo que usas y seleccionar el Centro de Datos más cercano a tu cliente. Esto reduce el tiempo de carga de tu plataforma.
+
+2. Te mantiene conectado a tus clientes
+Vivimos en la era en la que nuestros dispositivos arrojan miles de datos. Estos pueden ser procesados a través de la Inteligencia Artificial, permitiéndonos entender a nuestros clientes sin importar el tamaño de nuestra empresa.
+
+Además de poder conocer a tus clientes puedes reaccionar de manera inmediata a nuevas tendencias y mantener comunicación estrecha con ellos.
+
+3. Te permite escalar y ser flexible en tus operaciones
+Las primeras empresas de tecnología debían comprar más computadoras e infraestructura para poder aumentar su capacidad de cómputo.
+
+Hoy escalarlos es relativamente fácil: basta con hacer click o seleccionar la opción de crecimiento automatizado como Compute Engine de Google Cloud.
+
+También, puedes pensar en seleccionar mercados internacionales desde una etapa temprana y seleccionar el Centro de Datos más cercano a tu cliente. Esto reduce el tiempo de carga de tu plataforma.
+
+4. Te da seguridad informática
+Tener un servicio en la nube aumenta tu capacidad de defensa ante ataques cibernéticos. No te hace inmune pero sí te da una capa adicional de seguridad.
+
+Es responsabilidad de cada empresa proteger los datos sensibles de los clientes. Sin duda alguna, el almacenamiento de datos en la nube es más seguro que el de servidores físicos.
+
+Una de las razones por las cuales la nube es más segura, es porque puedes manejar el acceso y la visibilidad de los recursos de manera remota. Incluso, puedes eliminarla o moverla a una cuenta diferente.
+
+5. Te da oportunidad de innovar
+Al tener tu empresa basada en la nube puedes reducir el trabajo manual de análisis de datos. Seguramente has trabajado con excel en donde la información estaba desactualizada: hoy es posible obtener datos y generar reportes en tiempo real.
+
+Los emprendedores tenemos un poder único que nos permite centrarnos en lo que nos piden nuestros clientes y pensar en nuevas ideas de mercado para el futuro.
+
+En resumen, tener tu negocio en la nube tiene muchas ventajas como capacidad de ahorro y comunicación con tus clientes, flexibilidad en tus operaciones, seguridad informática y poder de innovación. Finalmente me gustaría escuchar de ti y de tu experiencia. ¿Qué nube prefieres y por qué?

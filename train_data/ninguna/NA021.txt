@@ -1,0 +1,80 @@
+Cómo escribir bien en internet
+Publicado el 8 de Febrero de 2018 por maldeadora
+
+Para escribir un buen artículo en internet necesitas cumplir con 5 condiciones:
+
+Responder una pregunta.
+Tener un buen título.
+Facilitar que te encuentren.
+Evitar que se vayan.
+Tener buena ortografía y redacción.
+Te voy a dar una serie de tips para escribir un buen texto, según cada uno de los cinco requerimientos de la lista. Este tutorial es parte del módulo de creación de contenido del Curso Gratis de Marca Personal de Platzi.
+
+Responder una pregunta y Tener un buen título
+No es necesario tener el título definitivo antes de empezar a escribir. Esto puedes pulirlo más adelante con los tips de la tercera condición “Facilita que te encuentren”. Lo que si tienes al principio es una pregunta o una cuestión que quieres resolver ¿verdad? Quizás vas a explicar algo, vas a enseñar un paso a paso, vas a contar algo que sucedió o incluso a dar tu opinión. Todas estas opciones tienen una pregunta implícita que debería estar planteada de algún modo en el título de tu artículo.
+
+Para fines educativos e ilustrativos voy a recurrir a la anatomía de una receta, pues esta cuenta con el formato ideal que deberías tener en cuenta a la hora de escribir.
+
+Blog1.jpg
+Si te fijas en la ilustración verás que hay una línea casi imperceptible que dice “Above the fold”. Está dibujada así porque en realidad es una línea que no siempre tenemos presente y que es muy importante. Todo lo que está arriba de esa línea será lo que alcanza a ver el lector cuando llega a tu artículo, así que más vale que respondas su pregunta rápido y que lo enganches para que siga leyendo.
+
+Tip #1: Responde la pregunta rápido. Ya habrá espacio para profundizar más adelante.
+
+Tip #2: Engancha a tu lector con algo llamativo. Las imágenes funcionan muy bien.
+
+Malos títulos
+“Delicia mexicana para acompañar tus platos”
+¿Qué pregunta responde esto? Además, empieza a pensar en palabras clave e imagina qué otras cosas puedes encontrar en Google si buscas “delicia mexicana”.
+
+“Guacamole”
+Esto tampoco responde a una pregunta. No es necesariamente un mal título, pero si aprendes sobre volúmenes de búsqueda de keywords verás que si eres más específico puedes ser más acertado.
+
+Buenos títulos
+“Receta de guacamole”
+Este probablemente es el mejor, pues puede plantear preguntas comunes como ¿cómo se prepara? ¿cuáles son los ingredientes? ¿qué es el guacamole?
+
+“Cómo preparar guacamole”
+Este también funciona, pues es muy probable que alguien busque exactamente con esas palabras. Lee aquí sobre las answer boxes de Google y por qué esto es importante.
+
+“Receta fácil y rápida de guacamole”, “El guacamole perfecto”, “Guacamole autentico mexicano”
+Puedes ser un poco más creativo y apelar a la emoción con adjetivos. Lo importante es que consideres si realmente aportan.
+
+Un buen título y responder la pregunta del usuario rápidamente son las dos condiciones que te ayudarán a tener un porcentaje de rebote bajo. Si quieres profundizar en este tema te recomiendo aprender sobre Google Analytics.
+
+Facilita que te encuentren y Evita que se vayan: Guía de SEO express para escritores
+Crea un increíble primer párrafo. Esto no solo facilita que te encuentren sino que evita que se vayan, pero ya llegaremos a ese punto.
+
+Los usuarios no leen. Saltan entre frase y frase hasta encontrar lo que buscan. ¿Viste el primer párrafo de esta guía? Responde tu pregunta de una vez:
+
+Pregunta: ¿Cómo escribir un buen blogpost?
+Respuesta: 5 cosas
+¿Quiere más? Siga leyendo por favor.
+
+Los motores de búsqueda son como los usuarios que no leen, van rastreando palabras clave, estructura y metadatos. Se podría decir que son más pacientes y más justos que los lectores. Si quieres aprender a fondo cómo funcionan y cómo posicionarte mejor te recomiendo que aprendas sobre SEO. Por lo pronto te dejo un tip con el que puedes empezar:
+
+Tip #3: Haz una búsqueda de palabras clave relacionadas con lo que estás escribiendo e inclúyelas de manera natural en tu artículo.
+
+Screen Shot 2018-02-07 at 5.05.44 PM.png
+Utiliza Google Trends para ver el comportamiento de las palabras que estás utilizando en tu escrito. Esto te ayuda a tomar decisiones sutiles que tienen alto impacto. Haz cambios solo si hace sentido con lo que estás escribiendo.
+
+Blog2.jpg
+El lector que pasó la línea del Above the fold ya está interesado así que puedes retenerlo con algo más. Prepárate para una lección básica de linkbuilding:
+
+Tip #4: Utiliza links internos para mostrarle al usuario otros contenidos que le puedan interesar.
+Tip #5: Cita fuentes con links externos para darle validez a los hechos. Esto también ayuda al posicionamiento en buscadores pues enlaza tu contenido con otros sitios que tengan autoridad.
+Tip #6: Evita frases como “Haz click aquí” para tu texto de anclaje. Usa keywords descriptivas.
+
+Cómo mejorar la ortografía y la redacción
+“La mala ortografía es como el mal aliento”. Es por eso que esta debería ser la primera condición, pero la dejé al final para llenarte de tips para mejorar:
+
+No escribas como hablas, la mayoría de palabras sobran. No tengas miedo a hacer afirmaciones propias. Un ejemplo común es cuando empezamos frases así: “Todos sabemos que”. Lo que sigue después de esa frase es oro, y es lo que realmente quieres decir.
+
+No le temas al punto seguido. Escribe párrafos cortos y separa bien tus ideas. Si no tienes un punto seguido en un párrafo lo más probable es que debas reemplazar una de esas comas a las que tanto recurres.
+
+Lee en voz alta lo que escribiste. Si hiciste una pausa y no hay una coma o un punto algo anda mal.
+
+Dale estructura a tu texto. Utiliza subtítulos (que respondan otras preguntas relacionadas), negritas para resaltar cosas importantes y listas para mostrar un paso a paso o aspectos relevantes.
+
+Pide ayuda. Dile a un amigo o familiar que lea lo que escribiste antes de publicar. Seguro conoces a alguien que te gusta cómo escribe y que te puede señalar mejoras.
+
+Lee mucho. La mejor forma de mejorar tu forma de escribir es leyendo.

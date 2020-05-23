@@ -1,0 +1,33 @@
+Estas son las nuevas funcionalidades de Storage AWS
+Publicado el 10 de Enero de 2019 por czam01
+
+Después del último evento de AWS Re:Invent en las Vegas, se realizaron nuevos lanzamientos relacionados a storage, de los cuales quiero resaltar los siguientes:
+
+Bloqueo de objetos de S3
+Esta nueva característica se basa en evitar la eliminación de objetos por un periodo de tiempo determinado definido por nosotros, esta configuración debe realizarse en el momento de la creación del bucket y debe tener habilitado el control de versiones como requisito. Esta funcionalidad se puede usar en nuestro día a día para cumplir con la reglamentación y para agregar una capa de seguridad a nuestra información más crítica.
+
+platzi-curso-storage-aws.png
+Carga de Objetos directamente a S3 Glacier
+Ahora mediante el uso de la API PUT de S3 se pueden hacer cargas directas de información a este tipo de almacenamiento, sin la necesidad de gestionar y configurar el ciclo de vida de almacenamiento.
+
+curso-platzi-storage-aws.png
+Eventos sobre recuperación de objetos de S3 Glacier
+Con el objetivo de mantener informados a los usuarios sobre alertas de recuperación de objetos desde S3 Glacier, se agregaron eventos específicos, los cuales se disparan cuando se comienza y finaliza un proceso de restauración, esta funcionalidad se puede ver en las propiedades del Bucket en la parte de Eventos.
+
+curso-storage-aws-platzi.png
+Operaciones por lote en S3
+En ciertas ocasiones cuando requerimos realizar operaciones masivas sobre S3, es complicado y por tal motivo AWS lanzó una versión preliminar de operaciones por lote para S3 el cual busca optimizar los tiempos para tareas que soportan hasta billones de objetos:
+
+Cambios en metadata.
+
+Propiedades de objetos.
+
+Controles de acceso.
+
+Restauración de archivos.
+
+Copiar objetos entre buckets.
+
+Todas estas funcionalidades tienen casos de uso muy variados, sin embargo considero que las operaciones por lote en S3 ayudarán mucho cuando se manejan altos volúmenes de información, es el caso de proyectos de BigData en los cuales todas estas operaciones se hacen usando la SDK y librerías como Boto3 para Python.
+
+Por ejemplo en un proyecto en el cual trabajo actualmente en el cual manejamos toda la información producida por los usuarios de una APP móvil con apróximadamente 1 millón de usuarios, los cuales producen una cantidad de 50 millones de logs diarios y sobre esta data debemos realizar varias tareas como: copias para plan de recuperación de desastres, transformaciones y limpieza de datos, para este caso las operaciones en lote ayudarán en reducir el tiempo de manejo de información considerablemente.

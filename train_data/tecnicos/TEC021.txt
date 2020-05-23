@@ -1,0 +1,105 @@
+Cómo crear tu contenedor de Docker para tu aplicación en Django
+Publicado el 9 de Agosto de 2018 por iKenshu
+
+Docker resulta útil a la hora de crear un entorno de desarrollo ya que empaqueta la aplicación en contenedores con lo necesario para que pueda funcionar sin importar el sistema operativo que corre. Incluso si no tienes dependencias o servicios, como Postgres instalados en tu máquina.
+
+Este tutorial quiero enseñarte cómo puedes tener tu primer contenedor con una aplicación de Django. Ojo, estoy suponiendo que tienes Pipenv, Docker y Docker Compose.
+
+Dockerfile
+7Ha8pRa.png
+Lo primero que debemos hacer es crear un proyecto con Django con su entorno virtual.
+
+mkdir PlatziDocker
+pipenv install --three django
+pipenv run django-admin startproject config .
+Listo. Si Pipenv no te resulta familiar, escribí un tutorial acerca de esta herramienta hace un par de semanas, te puede ahorra tiempo a la hora de usar entornos virtuales.
+
+Sigamos, ahora es necesario crear un Dockerfile. Así, sin extensión ni nada parecido.
+
+Nuestro Dockerfile se debe ver así.
+
+FROM python:3.6
+
+ENV PYTHONUNBUFFERED 1
+
+COPY. /code/
+WORKDIR/code/
+
+RUNpip install pipenv
+RUNpipenv install --system
+
+EXPOSE8000
+La primera línea FROM python:3.6 le dice a Docker que vamos a usar esa imagen como base para construir la nuestra. Es un contenedor de Ubuntu que tiene instalado la versión 3.6 de Python.
+
+La segunda línea ENV PYTHONUNBUFFERED 1 es una variable de entorno diciéndole a Docker que nos muestre el Standart Output(salida) y Standart Error(errores) en la terminal como estamos acostumbrados. De esta misma manera podemos declarar un ENV SECRET_KEY='__KEY__' para tener nuestra llave secreta alejada de nuestro archivo settings.
+
+La tercera línea COPY . /code/ es un comando para copiar todos los archivos y carpetas que se encuentran al mismo nivel (.) del Dockerfile a una carpeta llamada code. Luego en WORKDIR /code/ le decimos que nuestra área de trabajo va a ser esa carpeta, todos los comandos que corramos, se ejecutarán dentro de la misma.
+
+Las siguientes dos líneas RUN pip install pipenv y RUN pipenv install --system le dirán a docker que ejecute esos comandos, primero instalará Pipenv con pip para luego ejecutar la siguiente e instalar las dependencias de nuestro archivo Pipfile.lock y como le estamos pasando como argumento --system no se va a crear un entorno virtual, no lo necesitamos.
+
+Y la última línea EXPOSE 8000, para correr bien runserver nuestro contenedor necesita acceder al puerto 8000.
+
+Listo, con eso ya tenemos nuestro Dockerfile. Ahora solo necesitamos hacer docker build . y vamos a ver una larga lista de cosas en la terminal, diferentes pasos. Todo debería ir bien.
+
+Docker Compose
+Ahora, Docker Compose nos ayuda a correr más de un contenedor en nuestra aplicación de Docker, por ejemplo si queremos tener una base de datos como Postgres o un servicio de caché como Redis o un servidor como Nginx. Para esto necesitamos un archivo en el mismo nivel que nuestro archivo Dockerfile y lo llamamos docker-compose.yml, este si tiene una extensión. Es un archivo YAML.
+
+Tendría esto:
+
+versiónversion: '3'
+
+services:
+	db:
+    	image: postgres:10.1
+    	volumes:
+        	- postgres_data:/var/lib/postgresql/data
+	web:
+    	build: .
+    	command: python /code/manage.py migrate --noinput
+    	command: python /code/manage.py runserver 0.0.0.0:8000
+    	volumes:
+        	- .:/code
+    	ports:
+        	- "8000:8000"
+    	depends_on:
+        	- db
+    	environment:
+        	- DJANGO_SETTINGS_MODULE=config.settings
+        	- SECRET_KEY=${SECRET_KEY}
+volumes:
+postgres_data:
+Ahora vamos a explicarlo línea por línea.
+
+La primera version: '3' define la versión de Compose que queremos usar.
+
+Ahora en services vamos a definir, de manera identada, los servicios que queremos corran en diferentes contenedores.
+
+Con el primer servicio le decimos a docker que queremos la imagen de PostgreSQL. Ni siquiera necesitamos tenerlo instalado en nuestra sistema, Docker la descargará desde el Docker Hub con la versión que le especificamos. Y con volumes le decimos en que parte de nuestro contenedor queremos que se guarden los datos, en este caso /var/lib/postgresql/data. Si recuerdan, les dije que nuestra imagen de Python tiene como base una imagen de Ubuntu, eso hace que tenga varios subdirectorios. Un volumen permite que nuestros datos persistan sin importar el ciclo de vida del contenedor
+
+Por supuesto, para esto tenemos que decirle a Django que vamos a usar Postgres como base de datos, así que tenemos que deshacernos de ese sqlite3. Colocaremos esto:
+
+DATABASES = {
+	'default': {
+    	'ENGINE': 'django.db.backends.postgresql_psycopg2',
+    	'NAME': 'postgres',
+    	'USER': 'postgres',
+    	'PASSWORD': 'postgres',
+    	'HOST': 'db',
+    	'PORT': '5432',
+	}
+}
+El siguiente servicio es el web y le decimos que construya build . nuestra imagen desde el directorio actual. Los siguientes dos commandos command, uno ejecutará las migraciones sin mostrar la salida en nuestra consola --no-input y el segundo levantará el servidor cuando corramos el contenedor.
+
+volumes al igual que con la base de datos, le dira a nuestro contenedor donde estará nuestro código ./code. Justo después con ports mapeamos nuestro puerto 8000 al puerto 8000 del contenedor de Docker, haciendo que nuestro servidor sea accesible vía localhost:8000 o 0.0.0.0:8000. Ahora depends_on le dice que nuestro servicio web necesita esperar por la base de datos, Compose primero levantará ese servicio antes de pasar a web.
+
+Con environment, puedes adivinar que son variables de entorno. Si es el caso de que estamos trabajando con diferentes archivos settings. Puedes colocar ahí, la variable DJANGO_SETTINGS_MODULE para especificar con cuál archivo quieres trabajar, puede ser local, production o test. La siguiente SECRET_KEY es una manera de llamar a una variable de entorno colocada en un archivo .env
+
+Ya que Pipenv carga automáticamente las variables de un archivo .env podemos usar ese mismo archivo para mandarle la variable de entorno a nuestro contenedor con la línea SECRET_KEY=${SECRET_KEY}
+
+Y nuestras últimas dos líneas, Compose tiene una regla donde tenemos que listar nuestros volúmenes en una llave volumes al mismo nivel de identación que services o version
+
+Con el archivo guardado. Podemos ejecutar ahora docker-compose up también nos mostrará cierta cantidad de información en la terminal pero al final deberías tener un servidor corriendo en localhost:8000 o 0.0.0.0:8000 con la acostumbrada salida de Django.
+
+KLB7fnp.png
+Conclusión
+De esta manera, puedes olvidarte de los entornos virtuales y de tener algunos programas instalados en tu máquina local, puedes tener tu aplicación empaquetada de esta manera y usarla en cualquier SO mientras tengas Docker instalado. Para saber más acerca de Docker te invito a ver los dos grandes cursos que tiene Platzi, aprenderás esto y más.

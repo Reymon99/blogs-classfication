@@ -1,0 +1,23 @@
+¿Qué es IBM Cloud y cómo funciona?
+Publicado el 19 de Abril de 2018 por OddPete
+
+IBM Cloud es una nube empresarial en la que se puede diseñar y desarrollar experiencias tecnológicas como aplicaciones web o móviles en cualquier tipo de negocio de cualquier tamaño. La idea es alimentar al cloud con información y datos para que se puedan resolver problemas reales que aumentan el valor de nuestro negocio o aplicación.
+
+Una vez la información está sistematizada, podemos elegir el modelo informático que más se acomode a nuestros propósitos y al volumen de trabajo, no importa que tan pequeño o grande sea el proyecto, IBM Cloud puede adaptarse a cualquier carga laboral.
+
+Dentro de IBM Cloud vas a poder usar servicios de valor agregado como:
+
+Capacidades Cognitivas
+
+Soluciones Móviles
+
+Internet of things
+
+Nuestro Curso de Fundamentos de IBM Cloud brinda una introducción a la plataforma junto a un recorrido por sus principales componentes. A lo largo del curso habrán proyectos y retos para que los estudiantes puedan reforzar y aplicar sus conocimientos en su día a día.
+
+IBM lanzó Blue Code Challenge, una hackaton en la que puedes registrarte hasta este 20 de abril y en la que uno de los retos es completar el curso de Plarzi. Esta competencia está pensada para que participen estudiantes, desarrolladores y emprendedores de Argentina, Chile, Colombia, Ecuador, Uruguay y Perú en la creación de productos innovadores con IBM Cloud.
+
+Todas las herramientas de IBM cloud estarán disponibles para que puedas implementar tus ideas. Vas a poder usar más de 170 servicios para que tu proyecto llegue a un demo más acertado sin que te preocupes por el proceso de infraestructura. !Inscríbete rápido que se acaba el tiempo!
+
+También estamos en proceso de lanzamiento del Curso de Introducción a IBM Watson. Esta herramienta te permite implementar procesos de Inteligencia Artificial a tus proyectos y es dictada por tres experto en el tema que trabajan directamente en IBM.
+[ Puedes leer: Hola Watson, necesito tu ayuda]

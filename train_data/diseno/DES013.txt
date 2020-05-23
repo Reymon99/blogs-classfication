@@ -1,0 +1,30 @@
+Qué son los sistemas de diseño y por qué optimizan el trabajo en equipo
+Publicado el 8 de Diciembre de 2018 por rulotico-gonzalez
+
+Como diseñador y desarrollador, en mi profesión siempre estuve preocupado por el diálogo entre estas dos disciplinas. Muy a menudo tengo dudas sobre qué cosas hago mal como diseñador. Fue justo esa duda la que me llevó a investigar y descubrir los sistemas de diseño. Te cuento de qué se tratan a través de una breve analogía:
+
+Digamos que tienes una camioneta con la que te dedicas a cargar cosas, estos objetos a veces son bolsas, otras veces son frutas, te ha tocado cargar hasta ropa y el problema es que el tiempo de carga de esta camioneta nunca es el mismo, dependiendo las distintas formas de los objetos que toca cargar.
+
+¿Cómo puedes estandarizar este proceso?
+¿Cómo te aseguras de que siempre cargues la camioneta con el mismo tiempo?
+
+La respuesta correcta es utilizando una caja, la respuesta en síntesis es la estandarizando procesos. Una caja permite que puedas cargar siempre un volumen y peso similar, independientemente del tipo de producto que sea. De esta manera, es mucho más fácil calcular el tiempo de carga de diversos productos.
+
+designsystem.png
+Un sistema de diseño es una forma de estandarizar procesos mediante un conjunto de reglas que define la lógica de diseño detrás del desarrollo de un producto.
+Los sistemas de diseño se adaptan según las tendencias y necesidades de cada producto, y permiten la creación de consenso entre los distintos equipos trabajando en él.
+
+¿Cuándo necesito crear Sistemas de Diseño?
+Llega un nivel en tu desarrollo profesional en el que el problema o los retos ya no son el uso de tecnologías o herramientas. Ya tienes muy entendido cómo aprender algo nuevo y ponerlo en marcha, y entonces, ¿cuáles son los retos? Cuando maduras en tu profesión como desarrollador o diseñador, el desafío empieza a estar en la organización. Hay ciertas dimensiones del equipo que siempre serán caóticas pero puedes ayudarte de herramientas que optimicen tanto tiempos como procesos, permitiéndole a tu equipo desarrollar grandes tecnologías.
+
+rawpixel-567025-unsplash (1).jpg
+Crear Sistemas de Diseño es un trabajo en equipo
+Estarás equivocado si piensas que el insumo de la tecnología son las computadoras o más tecnología, el insumo más importante del mundo tecnológico son los equipos. Un equipo que tiene experiencia trabajando en productos y puede garantizar el lanzamiento de una plataforma en un determinado tiempo es muy valioso, hoy en día no hay tanta gente que haga eso. Es por ello que necesitas una forma sistémica de operar con ese equipo.
+
+A veces se confunde y puedes creer que con usar normativas de diseño como Material Design es suficiente para crear tu sistema de diseño. Pero no, un sistema de diseño va mucho más allá de las formas o colores que tomarás para tu aplicación. Se trata de una herramienta de diálogo y construcción entre equipos que permite que puedan desarrollar productos de manera mucho más ágil. También ayuda a volver escalables estos procesos, es decir, siempre estar preparados para el crecimiento o expansión de lo que están creando.
+
+Un sistema de diseño no es un software, no es un librería y no es un UI kit. Un sistema tiene como objetivo convertir una idea en una aplicación real. Garantiza que podamos crear lo que queramos y no lo que la tecnología nos permite. Que la aplicación que estemos desarrollando no sea consecuencia de nuestros errores, sino que sea el resultado de nuestra organización. Es así cómo crearemos de manera eficiente y escalable las plataformas que moverán el mundo de los próximos años.
+
+Te invito a conocer más sobre la teoría y lógica detrás de los sistemas de diseño en nuestro Curso de Sistemas de Diseño en Platzi. Deja tus dudas y experiencias al llevarlos a cabo en el sistema de discusiones, me encanta poder apoyarte en el proceso.
+
+achievement-adult-agreement-1153213 (1).jpg

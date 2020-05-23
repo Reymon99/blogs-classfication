@@ -1,0 +1,36 @@
+La importancia de los prototipos en UX
+Publicado el 19 de Marzo de 2018 por AyKaren
+
+“Tu producto final es el reflejo del proceso de desarrollo que llevaste y de la compenetración con el equipo con el colaboras.”
+
+Existe un elemento presente en el desarrollo de un producto y que además conecta de forma más efectiva la comunicación de las diferentes áreas de un equipo, el prototipo.
+
+Los prototipos son una forma gráfica de simular el resultado de un producto, integrarlos en el proceso de desarrollo tiene varias ventajas.
+
+Ventajas más importantes
+Permite tener un roadmap mucho más preciso de los momentos importantes del desarrollo del producto.
+
+Permite identificar problemas antes de llevar a producción, encontrando las mejores formas de darle una solución.
+
+Los usuarios o clientes pueden tener una idea muy allegada al producto final y contribuir a la mejora de interacción antes de ir a producción.
+
+Permite una comunicación más fluida y enfocada en las necesidades del producto dentro del equipo de trabajo.
+
+Para poder llegar a un prototipo funcional y que muestre lo más cercano a la realidad del producto debemos trabajar en las ideas desde el papel.
+
+Existen tres grados de fidelidad en los wireframes y cada uno de ellos cumple con propósitos muy específicos en cada etapa del desarrollo de un proyecto.
+
+Grados de fidelidad de wireframes
+Baja fidelidad. Este sirve principalmente para ir plasmando las primeras ideas y los primeros ajustes sin invertir demasiado detalle y tiempo.
+¿Qué necesitamos?: Plumas, lápices, plumones, papel, rotafolios, pizarra o post its.
+
+Mediana fidelidad. Trasladamos esas ideas al plano digital, aunque todavía no utilizamos grandes detalles, simplemente es ir dejando más formal la idea, empezar a dimensionar más apegado a la realidad del producto.
+¿Qué necesitamos?: Un software de diseño como: Adobe XD, Sketch, Illustrator, InVision, Figma, etc.
+
+Prototipos de Alta fidelidad. Aquí definimos los aspectos visuales que le darán identidad al producto: Paletas de colores, tipografías, iconografía, jerarquía.
+
+Lo más importante es que aproveches al máximo este recurso para poder llegar a una mejor integración de todos los elementos que harán que tu producto realmente supla la necesidad o necesidades de tus usuarios.
+
+Si quieres profundizar mucho más acerca de los prototipos y su importancia en tus proyectos, en Platzi traemos para ti el curso de Introducción al Diseño de Prototipos, en el que vas a complementar todo el conocimiento teórico y lo verás en acción en un proyecto real.
+
+Cuéntanos en los comentarios cómo haces funcionar los prototipos en tus proyectos.

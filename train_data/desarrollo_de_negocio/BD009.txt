@@ -1,0 +1,48 @@
+Cómo evitar errores al enviar una campaña de Email Marketing
+Publicado el 6 de Septiembre de 2018 por benjibel
+
+La mayoría de los que hacemos Email Marketing llegamos a este puesto de forma experimental y aveces accidental. Y aún si te has formado para ser especialista en el área, la primera vez que pulsas el botón de “Enviar Campaña” se vive con bastante estrés.
+
+Enviar una campaña suena a algo simple, pero incluye muchos pasos, especialmente si como en Platzi, haces todos tus emails artesanalmente personalizados para la ocasión. Desde armar una maqueta de email clara, que funcione y con links correctos hasta implementar las bases de datos correctamente, necesitas que cada uno de estos pasos salga bien para que la campaña sea un éxito (y esto incluye poder medir ese éxito).
+
+Checklist antes de enviar un email
+Te voy a compartir la lista que uso antes de enviar una campaña, para asegurarme de que te llegue el email que necesitas, en el momento en el que lo necesitas.
+
+adult-business-businessman-1061588.jpg
+1. Escribe el contenido en un documento aparte
+Crear contenido online es todo un arte que se perfecciona en equipo. Si haces esta parte al principio, incluyendo opciones de Asuntos, te da tiempo mientras haces el resto, de que tu equipo te de feedback. Comparte tus borradores con tu equipo, recibe críticas de ortografía o sugerencias de refraseos.
+
+2. Prepara la maqueta en código de tu email con el contenido corregido.
+Revisa:
+
+Fechas, horarios
+Que las imágenes salgan correctamente
+Links:
+¿Llevan UTM si corresponde? (De esta manera podrás trackear mejor el resultado de tu email)
+¿Funcionan correctamente?
+Vuelve a revisar ortografía y gramática al terminar la maqueta, puede escaparse un typo o un error al maquetar.
+
+3. Envíate un test
+Revisa que todo lo que viste en el punto 2 funcione bien al enviarlo.
+
+4. Revisa las versiones móviles y de escritorio
+No es lo mismo ver un mail en el computador que en el escritorio. Revisa tus tests desde el móvil. Un buen asunto, legible desde un celular tiene más chances de ser abierto.
+Además, a veces el diseño se ve perfecto en el escritorio, pero su responsive no permite que se vea bien en el móvil. En una era en la que más del 50% de la navegación se está dando a través del celular, no dejes de prestar atención a este aspecto
+
+coffee-contact-email-4831.jpg
+5. Revisa en equipo
+Siempre que sea posible comparte tus tests o textos con más miembros del equipo. Cuántas más personas lo revisan, más posibilidades tienes de mejorarlo. Y el email tiene tantos pasos, que es fácil que se nos escape algún detalle al implementar una campaña. Evita errores compartiendo tus pruebas.
+
+6. Checklist sobre base de datos
+Este paso depende bastante de la herramienta que elijas, pero sin importar cuál sea, siempre puedes revisar:
+¿Has delimitado bien tus segmentos de acuerdo al objetivo de la campaña?
+¿Te aseguraste que las bases no tengan duplicados?
+¿Quedaron correctamente implementadas y etiquetadas en tu servicio de email?
+
+7. ¿Vas a experimentar?
+Dentro del mundo del marketing hay una regla implícita: experimenta siempre que puedas. Cuánto más lo haces, más aprendes. El email tiene muchas posibilidades de experimentación, y varias herramientas las ofrecen directamente. Si definiste a/b tests de Asunto o Contenido, recuerda pasar este checklist ¡por todas las versiones!
+
+8. ¡Todo listo!
+Ya puedes pulsar “Enviar Campaña” con tranquilidad. No te olvides de medir el impacto de la campaña unas horas más tarde, o el día posterior, así aprendes qué mejorar para la próxima.
+
+¿Quieres mejorar tus tácticas de Email Marketing? Revisa el nuevo Curso de Email Marketing.

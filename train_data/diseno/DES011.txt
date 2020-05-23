@@ -1,0 +1,49 @@
+¿Cómo diseñar mejores productos?
+Publicado el 17 de Febrero de 2018 por paulaandreabecerra
+
+Cuando nos encontramos en un proceso de diseño de producto, especialmente de productos digitales, nuestro punto de partida siempre debe ser el usuario. Es por esto, que la investigación de usuarios es fundamental para conocer mejor a nuestros usuarios, sus intereses, sus necesidades y la forma en la que consumen los productos.
+
+La investigación de usuarios es una práctica en la que a través de diversas metodologías se recolecta información, se interpreta y se usa como recurso en el diseño de productos.
+
+Conocer la forma en la que los usuarios imaginan el producto, interactúan con él, hacen observaciones acerca de la pertinencia de las funcionalidades, y en general, la manera en la que perciben el producto, son insumos para conocer los caminos que debemos recorrer en su diseño.
+
+Aquí te doy algunos tips que puedes usar cuando te encuentres en procesos de diseño.
+
+Define un perfil de persona
+La recolección de datos en la investigación de usuarios siempre depende de las personas que consumen o podrían consumir el producto que estamos diseñando. Al hacer entrevistas o encuestas necesitamos que quienes participen se alineen con el perfil de nuestro cliente ideal, es decir, quienes realmente usarán nuestro producto.
+
+Para hacer esto piensa en la persona para quien estás creando tu producto. Asígnale un nombre, una edad, un género si es relevante, un ingreso mensual y todas las características que te parezcan relevantes para identificar a esa persona.
+
+Piensa en la usabilidad de tu producto
+Diseñar productos digitales implica tener muy presente la facilidad con la que los usuarios podrán manipular el producto. Esto, definitivamente, no es un aspecto pequeño del diseño, al contrario es una de las áreas en las que más atención debemos tener.
+
+¿Cómo podemos saber si el producto es usable? Lo mejor será siempre basarnos en metodologías que nos permitan probar nuestro diseño con usuarios reales. Para esto diseñamos pruebas de usabilidad en la que los usuarios interactúen directamente con el prototipo y nos den su feedback.
+
+Enfócate en que los usuarios aprendan a usar el producto con facilidad. Mejora la eficiencia disminuyendo el tiempo en que los usuarios completan una tarea. Logra que el usuario recuerde cómo usar tu producto con facilidad. Identifica los errores que comete el usuario e itera hasta minimizar ese número.
+
+Haz que tu producto se accesible
+Un producto accesible es aquel que puede ser usado por la mayor cantidad de personas posible independientemente de las limitaciones del individuo y del contexto.
+
+Las dificultades pueden estar relacionadas con un sin número de aspectos, como los conocimientos del usuario, sus habilidades, o su experiencia; así como dificultades que son dependientes del contexto, como el dispositivo que el usuario tiene o la iluminación del lugar en el que está.
+
+Para hacer un producto accesible los usuarios deben poder percibirlo, es decir, la interfaz debe ser mostrada al usuario. Además, los componentes que tiene la interfaz deben ser fácilmente manejables y comprensibles para el usuario.
+
+Finalmente, si queremos que nuestro producto triunfe, es fundamental que este corra en la mayor cantidad de dispositivos, sin importar qué sistema operativo tengan.
+
+Planea la arquitectura de la información
+Toda la información que alojamos en nuestro sitio o aplicación es valiosa para nuestros usuarios. Por eso debemos enfocarnos en mostrarla de la manera indicada.
+
+Si planeamos con cuidado la arquitectura de la información, el usuario no tendrá problemas para encontrar lo que está buscando dentro del sitio o la app. Lo que facilitará la navegación y la comprensión.
+
+Un enfoque claro en el diseño de la arquitectura de la información ayuda a que el usuario se mantenga enganchado con el contenido y siga motivado en la búsqueda.
+
+Escucha a tus usuarios
+Sin importar en qué etapa de diseño te encuentres, recuerda que el usuario es quien realmente te da un panorama sobre las funcionalidades que debes incluir en tu producto.
+
+Si te encuentras en una etapa inicial; conocer las experiencias que ha tenido el usuario con productos similares al que estás diseñando te dará luces sobre lo que es adecuado y lo que no.
+
+Si por el contrario te encuentras en un momento más maduro del diseño, es una buena idea identificar las formas en las que los usuarios interactúan con los prototipos que has creado.
+
+De la misma forma, tomar atenta nota sobre las observaciones que hacen los usuarios sobre el desempeño del producto ayuda a encontrar las rutas correctas para el desarrollo del diseño.
+
+Si quieres aprender más sobre la investigación de usuarios ingresa a toma nuestro nuevo Curso de User Research, y si quieres entender mejor cómo diseñar interfaces ingresa toma el Curso de Diseño de Interfaces y UX. En Platzi tenemos todos los cursos que necesitas para triunfar en el mundo del diseño.

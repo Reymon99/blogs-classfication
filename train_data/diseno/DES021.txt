@@ -1,0 +1,51 @@
+¿Cómo mejorar el diseño de producto usando prototipos?
+Publicado el 13 de Julio de 2018 por Valdamato
+
+Cuando nos hablan de crear prototipos probablemente nos viene a la mente un modelo a escala: podemos pensar en la maqueta de un centro comercial o en la primera versión pequeña de un carro. Esto no está muy alejado de la realidad, pues un prototipo es un modelo que sirve como base para lo que será un producto digital, como una aplicación móvil, por ejemplo.
+
+Crear prototipos para el desarrollo de productos es importante porque nos permite plantear una idea inicial y depurarla hasta lograr la mejor versión. Son muy sencillos de hacer y no es necesario ser un experto dibujante para lograrlo.
+
+Seguro estás familiarizado y te sientes cómodo con las versiones digitales, pero dibujar en papel el boceto de nuestro diseño es la primera parte del proceso y es importante llevarla a cabo porque nos da algunas ventajas que los formatos digitales no. Pero no nos adelantemos. Vamos a ver primero qué debemos tener en cuenta antes de empezar a plasmar gráficamente una idea.
+
+Lo más importante son los usuarios
+La satisfacción del usuario es el objetivo fundamental de la creación de un producto, por eso, antes de empezar con un desarrollo, es recomendable hacer un user research, una metodología de investigación que nos permite conocer el perfil del usuario y determinar si nuestro producto va a suplir una necesidad, resolver un problema y generar una satisfacción.
+
+No debemos olvidar que una buena experiencia de usuario garantiza el éxito de un producto.
+
+La importancia de la propuesta de valor
+Tratamos de determinar con exactitud qué ofrece nuestro desarrollo a los potenciales usuarios. Para saberlo solo debes plantearte las siguientes preguntas sobre tu idea de producto:
+
+¿Qué necesidad satisface mi producto?
+¿Qué funcionalidades de mi producto ayudan a suplir esa necesidad o a cumplir tareas claves que el usuario necesita?
+¿Cómo mi producto elimina el problema que trata de resolver el usuario?
+Pongamos un ejemplo: un diseñador quiere desarrollar una aplicación que ubique las estaciones de gasolina cercanas a donde se encuentra el usuario. En este caso, el producto satisface la necesidad de encontrar estaciones de servicio cercanas; las funcionalidades del producto pueden ser: un buscador basado en geolocalización y la posibilidad de marcar la ruta para llegar a ese destino. El producto elimina el problema de dar vueltas innecesarias para encontrar una estación de servicio.
+
+Ya hemos determinado cuáles son las funcionalidades y satisfacciones de nuestro producto, ahora es momento de validar si estas se ajustan a las necesidades del mercado. Hacerlo es más sencillo de lo que imaginas y a continuación te enseñamos cómo lograrlo.
+
+Debemos entender los segmentos de mercado
+En este punto, nuestro objetivo es llegar a una idea de producto que realmente satisfaga una necesidad. Para conseguirlo solo debemos respondernos las siguientes preguntas:
+4. ¿Qué beneficios busca el usuario?
+5. ¿Qué emociones negativas trata de evitar el usuario?
+6. ¿Qué problema trata de resolver el usuario?
+
+Si retomamos el ejemplo anterior, una persona busca una manera de ubicar las estaciones de gasolina cercanas a donde se encuentra. En este caso, el usuario busca el beneficio de la cercanía de la estación de servicio; trata de evitar dar muchas vueltas para conseguir un sitio en donde tanquear el carro y el problema que busca resolver es no saber dónde están las estaciones de servicio cercanas y cómo llegar a ellas.
+
+Así, cuando contrastamos la necesidad del usuario con la herramienta que proponemos para suplir esa necesidad, se vuelve claro qué debemos ofrecer para que nuestro desarrollo sea útil y que los usuarios estén dispuestos a pagar por él.
+
+Los prototipos: una manera inteligente de diseñar
+Ahora sí es momento de empezar a crear nuestro prototipo. Existen tres pasos para lograr el mejor resultado, cada uno con distinto nivel de fidelidad.
+
+Es importante hacer todo el proceso, pues esto nos permite identificar las oportunidades de mejora y optimizar el diseño hasta conseguir el resultado deseado.
+
+Además, cada uno de los prototipos te servirá en momentos específicos durante las presentaciones del diseño a tu cliente. Aquí te presentamos el paso a paso para que fabriques un prototipo increíble. Para empezar solo necesitas lápiz y papel.
+
+El primer paso es hacer un prototipo de papel, que es una representación bocetada a lápiz del producto. Este paso, aunque puede parecer básico, es muy rápido y permite un nivel de edición y contraste de ideas que en los siguientes pasos no podrás alcanzar. La ventaja de este prototipo es que no incurrirás en gastos, y sí se convertirá en la base perfecta para hacer todos los cambios que sean necesarios.
+Es ideal para evaluar y enriquecer las ideas en equipo, pues todos pueden aportar y llegar a un acuerdo según las necesidades que cada uno quiere cubrir. Puedes presentar este modelo a tu cliente en una primera reunión de trabajo y determinar con él cuáles son los elementos básicos que desea ver.
+
+El segundo paso es de mediana fidelidad. Aquí debes trasladar el primer modelo a un soporte digital de la manera más sencilla posible. Es un poco más realista, pero aún no debe llevar logos, colores, tipografías definidas y ningún otro elemento distractor. La idea de este prototipo es mostrar el esquema básico, los componentes predefinidos, la organización y secuencias lógicas del producto. Presenta este modelo a tu cliente para que verifique, por ejemplo, la postura de su logo o la ubicación del panel de búsqueda.
+
+El tercer paso es de alta fidelidad o de mockups. Se trata del fundamento técnico del producto o la versión más cercana a la realidad. En él debes plasmar los últimos detalles, como el tamaño de tipografía, los colores, los logos, los patrones de diseño e imágenes que compondrán el producto final. Presenta este modelo a tu cliente para que valide los colores institucionales, el tamaño de la tipo y la facilidad de uso. Completado este paso podrás empezar el desarrollo de un producto llamado al éxito.
+
+En resumen, la mejor forma de diseñar productos es aquella que tiene en cuenta las necesidades de los usuarios y busca satisfacerlas a través de las herramientas tecnológicas disponibles. Para lograr el mejor resultado se recomienda seguir el paso a paso en la creación de prototipos, pues esta buena práctica permite una depuración permanente del diseño, desde la concepción de la idea hasta que alcanza su mejor versión.
+
+Si quieres saber más sobre cómo lograr un diseño útil, flexible e intuitivo, ingresa al Curso Introducción al Diseño de Prototipos y conviértete en un experto en la materia.

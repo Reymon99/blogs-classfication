@@ -1,0 +1,36 @@
+Así son los personajes de videojuegos más famosos
+Publicado el 14 de Marzo de 2018 por Emiro
+
+¿Alguna vez has empezado a leer un artículo o un libro y has sentido que no puedes seguir leyendo por alguna razón? Cuando leemos, nuestro ojo percibe las formas y los elementos como información. Es por esto que nos puede costar leer algunos textos, a pesar de que nos interese su contenido: las fallas a nivel de diseño también pueden afectar nuestra lectura.
+
+Trabajar con texto en el diseño puede parecer algo muy operativo, tenemos programas que nos permiten manipular el texto, crear párrafos de forma automática y cambiar muchas cosas en esos párrafos, como tamaño del texto, interlineado y tipo de fuente. El problema es que muchas veces desconocemos que el manejo de texto tiene algunos puntos que hay que considerar, puntos que son cruciales para garantizar una buena lectura y funcionalidad.
+
+Estos problemas se han ido definiendo con el tiempo ya que el texto es uno de los recursos funcionales de mayor uso en el diseño, lo consumimos en el día a día y muchas veces no somos conscientes de los cambios que podemos crear en la lectura a causa de estos problemas. La mejor forma de garantizar un texto que no tenga problemas de lectura y sea completamente funcional es cuidando de no cometer estos errores:
+
+Interlineado
+Al manejar bloques de texto es importante considerar cada línea como un elemento visual, esas líneas generan un peso y una densidad que debe ser distribuida con un espacio entre ellas. Si construimos bloques de texto sin considerar este espacio entre las líneas podemos generar un efecto al ojo donde las percibirá como un solo elemento por la proximidad que tengan, y dificultará mucho la lectura.
+
+La mejor forma de poder garantizar un interlineado adecuado es considerar el tamaño del texto, y en función a eso definir el espacio entre las líneas. La fórmula más usada para eso es colocar 2 o 3 puntos más arriba de nuestra fuente actual, por ejemplo: si tenemos una fuente de 8pt lo recomendable es que tengamos un interlineado de 10.
+
+Mesa de trabajo 1.png
+Mesa de trabajo 1 copia.png
+Tamaño del texto
+Algo que debemos respetar y considerar siempre es la funcionalidad del texto, si no puede leerse, no funciona. Existen casos específicos de diseños que a nivel estético tengan una finalidad distinta a la lectura, como decorativo o complementario, pero en la mayoría de los proyectos donde usemos texto será con una finalidad de comunicar. Uno de los principales problemas que pueden afectar la funcionalidad del texto es el tamaño de la fuente, en este sentido debemos considerar que el ojo humano tiene una capacidad de lectura limitada. Si un texto es demasiado pequeño, el ojo lo percibirá como puntos o líneas y si es demasiado grande será muy abrumador para poder darle seguimiento a una línea o párrafo.
+
+Lo ideal es mantener un tamaño que pueda leer una persona con alguna dificultad visual y una persona con una vista 20/20, para lograr este resultado podemos probar un tamaño mínimo de 10pts dependiendo de la fuente para bloques de texto largos y un puntaje para títulos que a nivel de contraste no entorpezca la lectura.
+
+Mesa de trabajo 1 copia 2.png
+Mesa de trabajo 1 copia 3.png
+Ríos
+Cuando observamos un bloque de texto como un todo podemos encontrar que algunos espacios entre palabras (también conocido como Kerning) nos generan una coincidencia a medida que avanzan las líneas, estas coincidencias de espacios son conocidas como ríos. Si miramos este artículo entrecerrando los ojos podemos encontrarlas, se llaman ríos porque son muy similares a un río visto en un mapa. Si en un bloque de texto son muy notables nos crean unos espacios de rigidez o pausas que hacen más pesada la lectura, es bueno trabajar el Kerning hasta poder encontrar un balance y lograr que no sean tan notables, desaparecerlos del todo es complicado pero poder entender que existen y mejorarlo ayudará mucho con la legibilidad.
+
+Mesa de trabajo 1 copia 5.png
+Viudas
+Las viudas son palabras que quedan solas al final de un párrafo, no son un elemento que entorpezca la lectura pero genera un peso visual innecesario en nuestra composición. Al no pertenecer a una línea de texto, el ojo tomará esa palabra solitaria como un elemento que genera un punto de tensión. Lo ideal es evitarlas manejando el texto de forma de crearle un acompañamiento preferiblemente de 2 o 3 palabras o incluyéndola en la línea anterior.
+
+Mesa de trabajo 1 copia 6.png
+Selección tipográfica
+Comprender cuál es la finalidad del texto o cuál será su uso nos ayudará a seleccionar una fuente que sea funcional para esta tarea, las fuentes serifas o serif son ideales para trabajar bloques de texto en formatos impresos, las terminaciones de este tipo de fuente ayudan al ojo poder tener un seguimiento entre letra y letra con mayor fluidez. Cuando trabajamos un texto en digital debemos usar una palo seco o sans serif ya que la definición en pixeles que nos da la pantalla generaría un texto con demasiada información al usar una serif, pero usando una palo seco podemos tener una forma mucho más agradable y sin terminaciones que entorpezcan la lectura. Puedes explorar más sobre tipografías en este artículo.
+
+Mesa de trabajo 1 copia 7.png
+Conociendo la existencia de estos errores podemos garantizar una mejor lectura en los bloques de texto con los que estemos trabajando. La mejor forma de ir mejorando la funcionalidad del texto es probar con distintas fuentes y tamaños, hacer pruebas de impresión y lectura para ver dónde podemos mejorar. En el curso de Fundamentos de diseño puedes aprender como usar el texto a favor de tu diseño e integrarlo en tus proyectos de manera funcional.

@@ -1,0 +1,45 @@
+Procesos y herramientas para diseñar un logo
+Publicado el 26 de Febrero de 2018 por AyKaren
+
+Diseñar un logo es parte de crear una identidad visual, la cual es la representación gráfica a través de la cual se comunica el objetivo de una marca.
+
+Para lograr concretar esta idea y llegar al cómo diseñar el logo, es necesario seguir una serie de pasos, esto nos llevarán también a conocer y plasmar cada aspecto importante que queremos comunicar gráficamente.
+
+Construcción conceptual del logo
+A continuación te enlisto 4 pasos sugeridos para lograr la construcción conceptual de tu logo:
+
+Brief del proyecto. El brief es un documento que nos sirve para poder aterrizar los lineamientos del proyecto, que posteriormente nos va a permitir tomar decisiones en cuanto al aspecto visual.
+Investigación del entorno. Nos permite conocer cómo están haciendo otros para comunicar gráficamente sus marcas, especialmente las que se relacionen en giro o mercado.
+Solución gráfica. En esta parte es en la que definimos todos los aspectos visuales como la tipografía que utilizaremos, la paleta de colores y cualquier tipo de elementos auxiliares como iconos, por ejemplo.
+¿Qué clase de logo necesito? En este paso se define la clase de logo que comunica mejor la intención de la marca.
+Estas son las clases de logo que existen:
+
+Isotipo: Es la parte simbólica de la marca, no necesita tener una texto (tipografía) para ser reconocida.
+Logotipo: Se identifica únicamente con texto. No necesita otro aspecto visual más que la tipografía para tener identidad.
+Imagotipo: Combinación de imagen y texto para comunicar la marca. No necesariamente tienen que funcionar siempre juntos, pueden también existir juntos y funcionar por separado.
+Isologo: El texto y el logo están agrupados en un mismo marco visual, forman una entidad porque no funcionan el uno sin el otro.
+Construcción gráfica del logo
+Una vez que tienes toda esta información podemos continuar a la construcción gráfica del logo.
+
+En este proceso hay un par de pasos que te van a permitir lograr aterrizar de una forma precisa y ordenada todo el concepto que ya está definido de tu marca.
+
+A continuación los pasos sugeridos:
+
+Boceto El boceto nos sirve para encontrar el punto en el cual nos podemos sentir cómodos con la idea que queremos comunicar. Que sea concisa y exacta. Lo más importante de este paso es que nos permite sentirnos libres de modificar cosas hasta lograr el diseño que comunique integralmente la marca.
+Para este paso solamente necesitas papel y lápiz o marcadores. No es necesario que tengas habilidades de dibujo, solo es necesario que comiences a plasmar gráficamente el concepto de tu marca.
+
+Logo digital. Una vez que tenemos nuestro boceto definitivo podemos ahora sí escanearlo o tomarle una foto para comenzar el proceso digital. Aquí es donde puedes jugar con los elementos que reuniste en la parte de solución visual.
+Para esta parte te voy a sugerir un par de herramientas para que trabajes.
+
+Herramientas para diseñar un logo:
+Illustrator Este software es ideal ya que se especializa en vectores. Su panel de herramientas está diseñado para la creación y manipulación de vectores mayormente.
+
+Photoshop A pesar de que photoshop es más utilizado para diseño web y fotografía, también tiene herramientas que permiten crear y manipular vectores. La ventaja de este software es la manipulación y organización más intuitiva de capas.
+
+En Platzi tenemos todo lo necesario para que puedas comenzar a construir tu logo, ésta es la ruta de cursos que puedes seguir para lograrlo:
+
+Fundamentos de Diseño Entenderás los conceptos esenciales de la comunicación gráfica necesarios para comenzar a conceptualizar tu idea.
+Curso Diseño Visual de Marcas Complementarás los conocimientos necesarios para que el proceso de diseño de tu logo sea un éxito.
+Curso de Illustrator Te enseñará todo de la interfaz y el uso del software.
+Curso de Photoshop Te enseñará también todo de la interfaz y el uso del software si lo prefieres para diseñar tu logo.
+Si tú ya tienes un logo cuéntanos cómo lograste construirlo y si estás por comenzar, compártenos los resultados.

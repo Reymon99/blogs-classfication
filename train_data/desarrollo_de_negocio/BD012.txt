@@ -1,0 +1,33 @@
+Herramientas para hacer crecer a tu equipo
+Publicado el 21 de Noviembre de 2018 por mariandrea
+
+Nicole Chapaval, líder de People Operations en Platzi, nos habló de cómo hacer crecer a un equipo de trabajo a partir de su experiencia en Platzi. Abrió su charla preguntando quiénes en la audiencia son líderes de equipo o quieren serlo.
+
+Nicole nos comparte dos herramientas para hacer crecer a un equipo: OKRs y reuniones 1:1
+
+OKRs
+OKR es una sigla que traduce “Objetivos y resultados claves”. Son un sistema de metas usado por empresas como Google. Los OKRs ayudan a que un equipo y sus miembros sepan qué es lo importante. Cuantifican el progreso y enfocan el esfuerzo de tu equipo. Crear una cultura de medición es clave para el éxito de tu equipo y empresa.
+
+En todos los equipos debería haber métricas estándar que permitan medir los avances de los equipos. Además, crear tus propias métricas y tus propias fórmulas te permite medir correctamente las estadísticas que son realmente relevantes para ti.
+
+Cómo plantear un OKR
+Definir un periodo de tiempo. ¿Por cuánto tiempo vamos a medir y definir estos objetivos? En Platzi lo hacemos por trimestres o quarters.
+Entre más cortos los periodos de tiempo más efectivo es alcanzar objetivos pequeños.
+
+Cantidad de objetivos y key results por equipo: depende de tu equipo y su trabajo, idealmente ten tres objetivos grandes por trimestre.
+
+Los key results, resultados clave, son los medios para alcanzar tus objetivos. Deben ser medibles, ya sea de manera numérica, porcentual o booleana. Debemos saber de entrada si podemos o no alcanzar esos objetivos; por eso se plantean de manera numérica: no hay lugar a dudas aquí.
+
+Seguimiento y ajustes. Es importante revisar periódicamente si estamos cumpliendo nuestros objetivos. No está mal cambiar o ajustar estos objetivos sobre la marcha. Lo que no debe pasar es llegar al final del periodo y darnos cuenta de que nos enfocamos en otras cosas sin trabajar en esos objetivos.
+
+Reuniones uno a uno
+Es una herramienta vital para darle seguimiento a tu equipo en el cumplimiento de los objetivos. La mayoría de las reuniones que se agendan no funciona, pero las reuniones uno a uno sí.
+
+Los 1:1 son reuniones con miembros de tu equipo para dar feedback directo y personalizado. Deben tener un límite de tiempo, aproximadamente de 15 a 20 minutos. Deben tener una frecuencia superior a una vez al trimestre. Pueden ser positivas o negativas. Tener solo reuniones negativas puede generar miedo en tu equipo, mientras que mantenerlas positivas puede crear un ambiente de extrema tranquilidad que tampoco es conveniente.
+
+Dar feedback duro es una habilidad necesaria. No puedes evitar el conflicto. Esto no se trata de ser buenas o malas personas. Por esta razón es importante acercarse con empatía y preguntar “¿por qué?”: es decir, buscar la razón de las situaciones problemáticas de tu equipo. No asumas que ya conoces esas respuestas. Por último, es importante dar un seguimiento, definir qué se va a hacer y cuándo se reunirán de nuevo para conocer la evolución del problema
+
+Cuando ya has tomado la decisión de dejar de trabajar con alguien, no es el momento para dar feedback. El feedback se da para que la persona crezca dentro de su equipo, pero si ya decidiste que no es conveniente que esta persona no continúe trabajando en tu equipo, esa última reunión debe ser concisa y no da lugar a un intercambio de retroalimentación.
+
+
+Para terminar, Nicole nos invita a aprender aún mejor cómo aplicar este conocimiento en el curso de liderazgo para equipos de Platzi.

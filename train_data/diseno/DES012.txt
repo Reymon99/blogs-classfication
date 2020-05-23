@@ -1,0 +1,74 @@
+Design Thinking: la metodología que potencializará tu creatividad
+Publicado el 2 de Febrero de 2018 por stefi-speranza
+
+¿Tienes que innovar y no sabes por dónde empezar? Conocer y aplicar la metodología de Design Thinking te ayudará a encontrar soluciones creativas y eficientes para tus proyectos. Quizás te suenen familiares técnicas como la lluvia de ideas o los sprints, esta metodología centrada en las necesidades del usuario las agrupa y las adapta a sus necesidades.
+
+Hola, soy Stephanie Speranza de Minds Garage y seré tu profesora en el curso de Design Thinking en Platzi. A continuación daré una breve introducción sobre esta metodología muy recomendada para todos los profesionales en tecnología.
+
+¿Qué es Design Thinking?
+Design Thinking es una recopilación de técnicas que se utilizan desde hace mucho tiempo en disciplinas como la antropología o el diseño, pero las organiza en un proceso original y con otro objetivo. La novedad no son por lo tanto sus herramientas, sino su aplicación para resolver problemas complejos del mundo de los negocios.
+
+Esta metodología ágil está centrada en las personas, es una manera innovadora de abordar problemas complejos. Para enfrentar un desafío utilizando Design Thinking debemos incorporar que no hay una solución final, sino que es un proceso de rediseño que** permita la innovación constante**.
+
+En un contexto de mercado y tecnología cada vez más cambiante, Design Thinking propone salir de la forma en la que hacemos las cosas tradicionalmente ¿O acaso alguno de nosotros puede imaginarse cómo serán nuestras herramientas de trabajo de aquí a tan solo 7 años? Para poder encarar esta época que llamamos de cambio exponencial, necesitamos de cambios profundos en los mindsets (o mentalidad) de los equipos de trabajo, y las estructuras organizacionales en las tomas de decisiones.
+
+Cambios en nuestra cultura de trabajo:
+Antes de aplicar Design Thinking debemos plantearnos ¿cuáles son los primeros motivadores de cambio que nuestra empresa/grupo de trabajo necesita innovar? Tomando de “The innovation expedition” de Gijs Van Wulfen, utilizaremos la expedición de Cristóbal Colón para explicar los motivadores de cambio en la cultura organizacional.
+
+1. Sentido de la urgencia: debe existir urgencia para que suceda la innovación, sino será considerado algo ocioso en la organización. Las personas sólo estan preparadas para pensar afuera de la caja cuando hay una urgencia, por ejemplo: mi producto no se esta vendiendo, mi competencia está devorando mercado, mis empleados no están motivados.
+
+Esta condición de urgencia es necesaria para disparador de cambio, y es allí cuando queda evidente la necesidad de cambiar el rumbo.
+
+Ejemplo Cristóbal Colón: la ruta marítima a la India que se utilizaba tradicionalmente estaba tomada por piratas que cortaban el acceso y tenían que buscar rutas alternativas para sobrevivir y continuar el comercio.
+
+2. Valentía: Una vez que percibimos la urgencia, debe seguir la pasión por perseguir una nueva forma de hacer las cosas, esto puede resultar intimidante para muchas personas del equipo, pero salir de la zona de comfort requiere un salto de coraje, y por supuesto un marco de metodologico para aplicar. Esto también aplica para la figura de los emprendedores que identifican una necesidad con potencial, ven una alternativa viable y la persiguen con determinación.
+
+Ejemplo Cristóbal Colón: no tenía nada para perder, si se quedaba en Génova, estaría en su lugar de siempre, pero si lo intentaba podría regresar con títulos de nobleza de la corona española.
+
+3. Nuevas tecnologías: La época que vivimos hoy en dia de cambio exponencial (conocido como el Siglo VICA) nos empuja a una revisiónrevision permanente. Siempre debemos mirar las herramientas experimentales no sólo en lo tecnológico, sino que tambien nuevos medios de comunicación, nuevos modelos de empresas y oportunidades de mercado. Para incentivar el cambio, puedes recordarte que no eres el primero, y por lo tanto no hace falta inventar la rueda. Un ejercicio debería ser realizar benchmark de la competencia, y de las nuevas tendencias regularmente.
+
+Ejemplo Cristóbal Colón: las nuevas carabelas con nuevas tecnicas de navegacion aprendidas, le permitieron navegar más cerca del viento y alcanzar destinos más lejanos.
+
+4. Trabajo en equipo: El trabajo en equipo es fundamental para lograr el cambio organizacional, asegúrate de invitar a las personas a involucrarse desde el comienzo, pidiendo input en el contenido e incentivándolos en la toma de decisiones de forma horizontal. Un equipo con roles definidos y toma de decisiones autónoma y rápida generará innovaciones de forma ágil. Importante es que tus equipos sean interdisciplinarios y variados hacia su interior, enriqueciendo las perspectivas y generando aprendizaje mutuo.
+
+Ejemplo Cristóbal Colón: en su tripulación había personas de todo el mundo, que hablaban diferentes idiomas, y se entendían por el fin común de navegar el barco hasta un destino insospechado.
+
+5. Perseverancia: El camino a la innovación no es lineal, y requiere resiliencia para enfrentar distintos tipo de desafíos complejos, y ante todo, aprender de ellos. Evolucionar con el equipo, sin dejar que nadie abandone el objetivo final por tener que enfrentar barreras es parte del cambio organizacional, la recompensa será enorme si logran superar los obstáculos juntos, e incorporar los aprendizajes. Existe una curva de aprendizaje, donde hay un momento inicial de costo de innovación. Pero aprender-haciendo es la mejor técnica para que el grupo incorpore las nuevas soluciones y se dispare en la curva rápidamente.
+
+Ejemplo Cristóbal Colón: La primera vez que una tripulación cruzó el Océano Atlántico les costo una dosis de perseverancia mucho mayor que las siguientes embarcaciones que ya tenian el mapa trazado y siguieron el destino de los primeros innovadores.
+
+¿Cómo es el Mindset de un Design Thinker?
+Ahora que comprendimos la importancia de incorporar esta metodología ágil, veamos cuales son las características principales que distinguen el cambio de mentalidad necesario para innovar. Un Design Thinker debe ser:
+
+- Especializado y Colaborador: persona T, se le conoce como T por que la verticalidad es la especialidad de su disciplina, y la horizontalidad es la predisposición a colaborar con otros y pensar lateralmente.
+
+- Transparente: a cerca de las decisiones durante todo el proceso, basándose siempre en el valor de poner las necesidades del usuario en el centro.
+
+- Abierto al error: nos referimos a experimentar poniendo a prueba nuestros prejuicios, ideas y prototipos siempre en un proceso iterativo.
+Resiliente al cambio, la capacidad de adaptarse a una época de cambio exponencial teniendo una mentalidad ágil y proactiva.
+
+- Creativo: piensa fuera de la caja para llegar a soluciones disruptivas y novedosas.
+
+- Empático: sabe ponerse en el lugar del otro, poniendo en pausa sus propios “sentido común”.
+
+¿Cómo deberían ser los equipos de Design Thinking?
+Para poder implementar Design Thinking en una organización, es fundamental que tenga una estructura abierta, flexible y ágil, que permita una experimentación rápida y una mejora continua. Por lo tanto los equipos debemos formar se denominan Equipos Holocráticos, y tienen las siguientes características:
+
+Entre 6 y 10 personas
+
+Autónomos y Autogestionados
+
+Horizontales: no hay jerarquías, sino roles donde cada uno dependa del cumplimiento del otro.
+
+Multidisciplinarios: Polinización cruzada para poner diferentes visiones sobre los desafíos.
+
+Ágiles: Experimentación rápida, feedback y mejora continua
+
+Consejos finales
+En una época de cambio exponencial, se ha vuelto necesario incorporar nuevas metodologías agiles de innovación constante, centrada en el usuario. Lo importante es que el éxito de aplicar Design Thinking en nuestro negocio es menos sobre métricas (ej. tamaño de la empresa, o costo de implementación de una idea) y más sobre estructura y mindset de la organización.
+La lección más importante: No se puede Innovar solo.
+
+Ahora que leiste este artículo, te invito a reflexionar acerca de qué sabías sobre Design Thinking:
+¿Aplicaste alguna técnica de Design Thinking aislada, o el proceso completo poniendo el foco de valor centrado en el usuario?/ ¿Esperas a ver la urgencia, o ya estas asumiendo el contexto de cambio exponencial y sacando a tus equipos de la zona de comfort? /¿Tienes un mindset de Persona T, o te concentras solo en aplicar lo que ya sabes hacer de la forma en la que siempre lo resolviste? /¿Tus equipos de trabajo son holocráticos, fomentan la experimentación y la mejora continua?
+
+Nos vemos en el curso.

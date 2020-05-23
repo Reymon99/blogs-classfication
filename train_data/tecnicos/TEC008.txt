@@ -1,0 +1,41 @@
+Firebase, una plataforma usada por millones de aplicaciones
+Publicado el 29 de Noviembre de 2018 por jggomezt
+
+Firebase es una de las plataformas de mayor crecimiento en usuarios y proyectos que tiene Google. Cada año, se realiza el Firebase Summit, el evento más importante de la plataforma, en donde se muestran nuevas características, nuevos servicios y buenas prácticas de uso. En el Firebase Summit de este año, los organizadores compartieron una sorprendente suma: hay 1.5 millones de aplicaciones activas en el mundo que usan Firebase. También, anunciaron características muy interesantes que compartiré a continuación.
+
+Integraciones de servicios con online IDEs:
+Se creó una opción de deploy al hosting de Firebase por medio del uso de Firebase Management API desde Glitch y Stackblitz .
+Ahora, desde los IDEs Glitch y Stackblitz es posible buscar, descargar e integrar de una forma fácil las librerías de Firebase con el proyecto.
+Estas integraciones son muy interesantes, ya que los IDEs más usados poco a poco introducen plugins para que sea más sencilla la descarga y configuración de librerías, como también facilitan el uso con muchas ayudas para que el despliegue sea lo más simple posible. Con esto no necesitas ser un experto y saberte las funciones de las librerías y comandos para usar Firebase.
+
+Integraciones con otros servicios internos o externos:
+Es posible exportar la información de las analíticas, Firestore, crashlytics, predictions, FCM (Cloud Messaging) y pruebas A/B a bigquery, para personalizar consultas e indicadores, esto genera transparencia y extensibilidad en los servicios.
+Integraciones con plataformas como Slack o Jira, las cuales son muy usadas por los equipos de desarrollo para la gestión del proyecto o mejoras.
+Estas integraciones permiten tener más control de los datos y significa que Firebase entiende que los datos son nuestros y de nadie más y que podemos usarlos para lo que necesitemos. Así podemos exportarlos a varias plataformas para personalizar indicadores que permitan tomar decisiones para brindar un mejor servicio a nuestros usuarios.
+
+Seguridad, privacidad y open source:
+Firebase cumple con los estándares más altos de seguridad y privacidad de datos en la nube y certificaciones de ISO.
+APIs para exportar, importar y eliminar datos del proyecto y una excelente documentación para ello.
+Nuevas regiones para Firestore como Frankfurt y próximamente Asia.
+En Firestore ya es posible probar las reglas de seguridad de forma local.
+Los SDKs de Firebase para iOS, Android y el de In-App Messaging están disponibles como open source.
+La seguridad es muy importante para las empresas que siempre quieren saber dónde está su información y su estado, es por ello que Firebase se ha certificado e implementado las prácticas de más alta calidad para lograr la integridad de la información. También recuerda que cuando creas un proyecto en Firebase todos los datos son tuyos, por lo cual puedes exportarlos y hacer lo que requieras con ellos.
+
+Canal de soporte:
+En estos momentos, el paquete de soporte de Google Cloud Platform (GCP) incluye el soporte a Firebase sin costo adicional con una disponibilidad de 24x7.
+Cloud Messaging:
+Ahora es posible probar los mensajes antes de enviarlos a todos los usuarios con tan solo agregar los tokens.
+Se habilita la posibilidad de enviar mensajes periódicos cada día o personalizables, dependiendo de si deseas repetirlos cada semana o cada 2 semanas o un día específico o cada 3 días.
+Algo muy interesante es poder enviar mensajes personalizados como diálogos o banners a los usuarios activos de la aplicación desde la consola de Firebase.
+A veces enviamos mensajes pero nuestros usuarios no los abren o no se dan cuenta que existen, así que para ello Firebase Cloud Messaging nos brinda la capacidad de programar un mensaje que se envíe por ejemplo todos los días a la semana o un día cada semana a personas que no han visto nuestro mensaje, o enviar un mensaje todas las semanas a los nuevos usuarios, algo muy útil para lograr la retención.
+
+Calidad en las Aplicaciones:
+Firebase Test Lab para iOS pasó la prueba y ya deja de ser Beta para estar disponible como una versión estable.
+A veces necesitamos ver el consumo de CPU o de memoria que nuestra aplicación usa y con ello evaluar y tomar decisiones de mejora, para ello Firebase liberó en Performance, el poder visualizar esos consumos.
+Visualizar y analizar el comportamiento de nuestras aplicaciones permite la mejora continua. Además, tener las herramientas necesarias para visualizar los errores en tiempo real, poder replicarlos con la información suministrada y con ello tomar acción de mejora es introducir en el núcleo de los developers el ciclo de la calidad. Firebase nos brinda servicios que facilitan este proceso, es por ello que realiza mejoras en sus productos de Performance y Test Lab.
+
+Firebase Machine Learning Kit:
+Se agregaron nuevas funcionalidades a la capacidad de reconocimiento de rostros. Se adiciona la detección de contornos faciales, osea una lista de puntos o coordenadas por cada característica facial detectada como la boca, cejas, ojos, nariz, labios, entre otros.
+Google anunció este año la intención de democratizar el Machine Learning es decir que cualquier developer y empresa usen esta tecnología para mejorar sus servicios así no sepan nada de esta ciencia. Es por ello que liberó el Firebase Machine Learning Kit el cual brinda capacidades de procesamiento de imágenes (por ahora) cómo detectar objetos, caras, landmarks, texto entre otros, desde el móvil sin conexión a internet. En muy corto tiempo ha liberado más capacidades interesantes como las mostradas en el Firebase Summit.
+
+Estas son algunas de las novedades de Firebase que día a día tienen una mejora en sus servicios o liberan nuevos. Firebase crece cada vez más en su uso, muchas aplicaciones lo usan y se ha convertido en un aliado para los desarrolladores y empresas para construir y mejorar sus aplicaciones y crecer en usuarios. Es por eso que te invito a que aprendas acerca de los servicios de Firebase de una forma práctica en nuestro curso de Firebase para la Web.

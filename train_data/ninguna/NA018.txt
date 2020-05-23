@@ -1,0 +1,133 @@
+¿Cómo comprar Bitcoin en Latinoamérica?
+Publicado el 4 de Enero de 2018 por yograterol
+
+Bitcoin es la inversión del momento, en Latinoamérica a diferencia de Estados Unidos no hay una solución 100% efectiva para comprar Bitcoin. En este artículo conocerás las diferentes opciones, el proceso para adquirir bitcoins y algunos consejos a la hora de comprar.
+
+Comprar Bitcoin en Colombia, Perú y Chile con SurBTC
+SURBTC-1.png
+SurBTC es un exchange latinoamericano con sede en Chile, Perú y Colombia. Ellos ofrecen intercambio de pesos colombianos, pesos chilenos y soles peruanos a Bitcoin.
+
+El registro a SurBTC es bastante sencillo, sin embargo el proceso de verificación podría ser un poco demorado. Recomendación: Insistir al equipo de soporte y pedir ayuda durante todo el proceso de verificación según tu país, así ahorrarás mucho tiempo.
+
+SURBTC-2.png
+Una vez iniciada la sesión y con la cuenta ya verificada podrás comprar Bitcoin directamente desde la página principal de la plataforma de SurBTC.
+
+SURBTC3.png
+Antes de poder comprar Bitcoin debes depositar pesos colombianos, pesos chilenos o soles, según tu país. Para depositar debes hacer clic en la opción “Abono” en el menú de la izquierda. Ya en la sección de “Abono” debes seleccionar la moneda y el método de pago, en el caso de Colombia aceptan Consignación Bancaria y PSE. Recomendación: Depositar a través de algún proveedor de pagos online como PSE, así puedes tener el dinero disponible en menos de 30 minutos y aprovechar caídas de Bitcoin para comprar por ejemplo.
+
+SURBTC-4.png
+Ya con el dinero disponible en la cuenta puedes comprar a través de la opción “Comprar/Vender”, es la opción más rápida y compras a precio de mercado, es decir el precio disponible en ese momento para la Compra. Recomendación: Ingresa el monto de dinero que depositaste directamente en la casilla de “Pesos/Soles a gastar” así el sistema automáticamente calculará cuántos bitcoins recibirás.
+
+SURBTC-6.png
+La otra opción para comprar Bitcoin en SurBTC es la de “Vista Trader”. Comprar a través de esta opción es un poco más complicada pero a mi parecer es la mejor para comprar más barato.
+
+Al ingresar podrás ver la siguiente interfaz:
+
+SURBTC-7.png
+1- Es el formulario para iniciar una orden, acá podrás decidir si comprar o vender. Por defecto está “Comprar a precio de Mercado” como tipo de orden, este tipo de orden es equivalente a comprar a través de la opción “Comprar/Vender”. El otro tipo de orden es “Límite”, en ese tipo de órdenes podrás definir qué precio de Bitcoin quieres pagar.
+
+Así podrías crear una orden de compra a un precio más bajo al precio actual de compra, sin embargo no se ejecutará de inmediato ya que requiere que alguien te venda Bitcoin a ese precio para que se ejecute la orden, sin duda te puedes ahorrar unos pesitos/soles con esta opción.
+
+SURBTC-8.png
+2- Esta parte de la “Vista de Trader” es la profundidad de Mercado, en rojo muestra órdenes de tipo “límite” de personas que quieren vender, así que si seleccionas ejecutar tu orden de compra a precio de mercado, pagarás el precio más bajo de todas las órdenes que están en la parte roja.
+
+En la lista de precios en verde, son las órdenes de compra de tipo “Límite”, si deseas vender tus bitcoins a precio de mercado se ejecutará con el precio más caro de esta lista, es decir el primero.
+
+Entonces, si abres una orden de compra de tipo “Límite” aparecerá en la lista de abajo, cuando alguien venda sus bitcoins a precios de mercado, lo hará con el precio que estableciste.
+
+3- La gráfica que muestra es el progreso a lo largo del tiempo del precio de Bitcoin. En la gráfica también puedes observar el volumen del mercado en la parte de abajo de la gráfica, es decir, cuántos bitcoins se transaron en ese momento específico tanto en compra como en venta.
+
+4- En “Mis órdenes” podrás ver todas las órdenes que aún están pendiente de ser procesadas, bien sea porque no hay suficiente Bitcoins a la venta o porque creaste una órden de tipo “Límite” que requiera que alguien venda sus bitcoins para completar la orden.
+
+5- El historial de ordenes muestra todas las órdenes de compra y venta que se han finalizado a lo largo del tiempo.
+
+Ejemplo práctico de una orden tipo “Límite”.
+El mercado actual tiene un precio de Compra de $4000 pesos y uno de venta de $3000 pesos.
+
+Diana quiere comprar bitcoins, pero decide no pagar $4000 pesos sino hacer una oferta a un precio más bajo y abre una orden de tipo “Límite” a un precio de $3100 pesos.
+
+Ahora, los nuevos precios de mercado serán $4000 pesos para la compra y $3100 pesos para la venta.
+
+Por otro lado, Freddy quiere vender sus bitcoins y decide vender a precio del mercado, por lo tanto vende dos bitcoins a $3100 pesos que recibirá Diana.
+
+Y es así como Diana compró dos bitcoins ahorrando $1800 pesos, $900 pesos por Bitcoin solo por abrir una orden de tipo “Límite” estableciendo el precio que quería pagar.
+
+Comprar Bitcoin en México con Bitso
+Comprar Bitcoin en México es bastante sencillo con la plataforma de intercambio de Bitso.
+
+BITSO 1.png
+Con Bitso comienzas creando una cuenta. Recomendación: Ingresar correctamente todos los datos personales que exijan sobre todo el CURP.
+
+Bitso Cuenta.png
+Una vez creada la cuenta pasarás por un proceso de verificación de número de teléfono celular.
+
+Al final el proceso de verificación llegarás al panel del sitio de Bitso donde podrás ver la información general de tu cuenta y tendrás la opción de “Fondear” tu cuenta en Bitso con pesos mexicanos.
+
+Bitso dashboard.png
+La verdad la plataforma de Bitso es bastante elaborada a nivel gráfico, me gusta mucho.
+
+Antes de comprar Bitcoin debes fondear la cuenta, ellos ofrecen varios métodos para fondear tu cuenta de manera instantánea en la mayoría de los casos.
+
+Bitso Fondear.png
+Al seleccionar un método de pago te aparecerá un mensaje de confirmación con datos para realizar la transacción.
+
+Bitso fondear 2.png
+Ya con pesos mexicanos en tu cuenta deberás intercambiar pesos a Bitcoin a través de la opción “Convertir”.
+
+COnvertir.png
+En esta opción colocas la cantidad de pesos mexicanos que deseas convertir a Bitcoin y Bitso automáticamente te informará cuántos bitcoins recibirás.
+
+Comprar Bitcoin desde cualquier parte de Latinoamérica con Localbitcoins.com
+Localbitcoins es una opción mundial, muy fácil de usar pero no tan segura en todos los casos. Pero no te preocupes, acá te diré como evitar estafas a través de Localbitcoins con algunas recomendaciones.
+
+Localbitcoins funciona similar a un servicio de anuncios clasificados, donde una persona sube un anuncio pero el servicio como tal no tiene nada que ver con el vendedor. La diferencia en Localbitcoins es que hay ciertos procesos de verificación que agregan una capa de seguridad a la transacción.
+
+localbitcoins.png
+Registrarse es bastante sencillo y el proceso de verificación aún más, te recomiendo tener tu pasaporte a la mano para el proceso de verificación en línea.
+
+localbitcoins-2.png
+En el proceso de verificación te pedirá verificar tu número de teléfono y tu identidad. Recomendación: Al momento de verificar tu identidad te pedirá subir una foto de tu pasaporte o cédula/tarjeta de identidad, usa tu pasaporte en la medida de lo posible y además deja la ventana o la pestaña del navegador abierta porque el proceso puede tardar.
+
+Podrías comprar sin verificar la cuenta, pero los vendedores más confiables podrían no estar disponible porque restringen los intercambios para cuentas verificadas. También podría afectar la cantidad mínima o máxima de Bitcoin que puedes comprarle a un vendedor.
+
+Una vez esté verificada la cuenta puedes proceder a buscar un anuncio que se adapte a la cantidad de dinero que quieras invertir en bitcoin.
+
+localbitcoins-3.png
+En el campo Amount debes ingresar la cantidad que deseas invertir sin espacios, comas, puntos. Luego la moneda y el país. Por defecto detecta en que país te encuentras. En caso de que no, puedes seleccionar el país y la moneda con la cual deseas realizar la transacción.
+
+localbitcoins-4.png
+Podrás observar todos los anuncios que se adaptan a lo que estás buscando, en este caso anuncios para comprar de manera online 30 mil pesos colombianos en bitcoins.
+
+Algo importante a resaltar es que cada vendedor coloca el precio que desee así que podrás ver diferencias de precios.
+
+localbitcoins-5.png
+Al analizar el listado de anuncios podrás encontrar, quién es el vendedor, el método de pago que está utilizando, por lo general es un banco, el precio en tu moneda local por cada Bitcoin y los límites de una transacción, es decir cuánto puedes comprar como mínimo y como máximo respectivamente. Recomendación: NO usar PayPal, Webmoney, Skrill o cualquier sistema online de pago de ese estilo porque son muy susceptibles a fraudes.
+
+localbitcoins-7.png
+En la información del trader podrás ver, el nombre de usuario, la cantidad de transacciones y el % de feedback positivo de sus transacciones. Si está al 100% significa que el 100% de sus compras o ventas han sido satisfactoria.
+
+También puedes ver un indicador verde que indica en cuántos minutos responde a partir del momento que se abra una orden de compra.
+
+Algo importante a tener en cuenta es el perfil del vendedor. Puedes ingresar al perfil haciendo clic en el nombre de usuario, allí podrás ver la información del vendedor y con cuántos “partners” ha hecho transacciones, es importante que los números sean grandes, eso indicaría más actividad en la plataforma. También tener en cuenta que la identidad esté verificada.
+
+localbitcoins-10.png
+Al momento de seleccionar un anuncio veremos más información del anuncio y un formulario donde podemos indicar la cantidad de dinero a invertir, lo que se recibirá en BTC y un campo de texto donde uno puede dejar un mensaje para el vendedor. Recomendación: Si estás comprando por transferencia bancaria, indicar en el campo de texto que banco deseas usar para agilizar la compra.
+
+localbitcoins-8.png
+Es importante verificar qué bancos o método de pago recibe el anunciante, algunas veces en la descripción en la parte de la derecha deja un teléfono celular, cada vez que puedas puedes escribir por Whatsapp o llamar para tener más información.
+
+Una vez enviada el trade aparecerá un chat, debes esperar a que el vendedor te responda con la información para pagar.
+
+localbitcoins-9.png
+Si pagas por transferencia bancaria debes tomar un screenshot y subirlo al chat. Es importante siempre marcar como pagada la orden que abras.
+
+Cuando abres una compra en Localbitcoins la cantidad que decides comprar se bloquea para el vendedor, es una medida de seguridad. Así que un vendedor no puede vender más de lo que tiene ni puede vender lo que una persona está comprar.
+
+Consideraciones finales
+Tanto SurBTC como Bitso y Localbitcoins cuentan con wallets, no necesitas abrir o instalar alguna wallet para poder comprar. Solo necesitarás una wallet cuando retires Bitcoin de alguno de estos servicios.
+
+Si tienes dudas en algún servicio no temas en usar el sistema de soporte, algunos son un poco lento pero al final recibirás una respuesta que aclara tus dudas o si deseas puedes dejar tu duda acá en el artículo y en la medida de lo posible te responderé con la solución.
+
+NO olvides activar 2FA o autenticación de dos pasos para todas las cuentas que tengas en estos servicios.
+
+Recomendación final, investiga bien los costos para retirar BTC desde estos servicios así evitarás perder dinero a la hora de retirar BTC de tu cuenta.

@@ -1,0 +1,76 @@
+¿Qué es Growth Hacking y cómo lo aplico en mis proyectos?
+Publicado el 22 de Marzo de 2018 por jaimesdaniel
+
+Desde hace algunos años se viene usando el término “Growth Hacking” con mucha frecuencia. Sin embargo, es posible que su concepto inicial haya perdido forma o que desde un principio no logró representar en su denominación lo que hoy en día significa para el mercado digital.
+Veamos en detalle de qué trata el Growth Hacking.
+
+Growth Hacking es la suma de dos términos que podrían indicarnos que, a través de una seria de hacks, podríamos lograr crecimientos importantes en nuestras estrategias en pro de la empresa. Este tipo de acciones se vienen realizando desde hace un tiempo, por ejemplo cuando Dropbox empezó a ofrecer más capacidad de almacenamiento para los usuarios que refirieron a sus amigos.
+
+Paul Graham, cofundador de Y Combinator dice:
+
+Una startup es una empresa diseñada para crecer rápido. Ser recién fundada no hace en sí a una startup. Tampoco es necesario que una startup trabaje en tecnología, o que acepte financiamiento de riesgo, o tenga algún tipo de “salida”. Lo único esencial es el crecimiento. Todo lo demás que asociamos con las startups se deriva del crecimiento.
+
+Este tipo de ideas comúnmente han surgido de mentes brillantes dentro de las startups. A continuación mencionaremos algunos de los personajes más reconocidos que han ayudado y que se han enfocado en hacer crecer empresas. Personajes que, además, han construido una marca personal muy solida a través del mundo.
+
+Matt Cutts
+matt cutss.jpg
+Para los expertos en SEO el nombre de Matt Cutts será muy familiar. Para la gran mayoría de personas y negocios que usan internet, su importancia e influencia en el medio digital resultará desconocida.
+Matt Cutts fue el encargado de conseguir que los resultados de búsqueda que nos muestra Google funcionaran de forma transparente y que fueran fieles a lo que el usuario realmente buscaba; esto es que no fueran manipulados con malas prácticas o técnicas hacks (sombrero negro) por algunos SEOs. De esta manera, Cutts ayudó que Google creciera mejorando la calidad de sus resultados y haciendo posible que cada vez fueran más útiles para todos .
+
+Rand Fishkin
+Rand Fishkin.jpg
+Es cofundador de The Art of SEO, Inbound.org y MOZ. De las personas que más ha trabajado en enseñarle SEO al mundo, Rand Fishkin logró que MOZ sea uno de los portales y herramientas SEO más visibles en el mundo del marketing.
+En Platzi podrás encontrar el curso que Rand Fishkin desarrollo en inglés sobre posicionamiento web y SEO.
+
+Aleyda Solis
+Aleuda Solis.jpg
+Nacida en Nicaragua, es consultora SEO reconocida por su valor y experiencia en todo el mundo. Se le reconoce en digital como experta en SEO Internacional.
+Hoy en día es una gran ponente de su trabajo y ha llevado su marca personal a todo el mundo. Vale la pena ver cómo es la actividad en sus canales sociales y en su blog. Puedes encontrar algunos de sus cursos en Platzi.
+
+Andrew Chen
+Andrew Chen.jpg
+Uno de los pensadores de “Growth” de San Francisco que actualmente se sumó a un reconocido fondo de inversión. En uno de sus roles más visibles, cuando estuvo en Uber, Andrew Chen dijo:
+El éxito de la compañía reside en que satisface una necesidad relativamente básica: el transporte. El ser humano y su comportamiento no cambia realmente, se mantiene estable; lo que cambia es la tecnología. Comprender eso y utilizarlo a nuestro favor es la clave del éxito. Lograr entender los factores que mueven con más fuerza los resultados positivos dentro de una compañía, permite alinear decisiones que mostrarán, cada vez, un impacto más alto en los objetivos de negocio.
+Ahora, como inversionista, veremos cómo asume estos restos haciendo uso de sus habilidades para crecer compañías.
+
+Sean Ellis
+Sean Ellis.jpg
+Creó la comunidad de Growth Hackers y fue quien acuño este término. Sean Ellis es el responsable del crecimiento acelerado de Dropbox. En otras palabras, todos conocemos y usamos Dropbox gracias a su trabajo como consultor. Cada vez que Sean dejaba de trabajar con una empresa, ha sido muy difícil encontrar su reemplazo.
+Sean Ellis define a los Growth Hackers como:
+“El Growth Hacker es una persona cuyo norte es el crecimiento. Todo lo que hace, realiza y programa está inducido por su potencial impacto en escalar el crecimiento”.
+
+Neil Patel
+Neil Patel.jpg
+Reconocido en el medio digital, ha generado controversia y debates en torno al contenido que genera. A diferencia de los expertos que hemos mencionado, Patel ha sido de los pocos que ha pensado en generar contenido para el mercado hispano y ha logrado internacionalizar su marca personal. Es un generador de contenido de valor.
+Neil Patel creó cuatro (4) herramientas reconocidas en el mercado digital, tales como son: Crazzy Egg, Hello Bar, KissMetrics y Quick Sprout, que lo llevaron a recibir diferentes reconocimientos en Wall Street Journal, Forbes, Naciones Unidas e incluso el presidente Obama, entre otros.
+
+Andy Jhons
+Andy Jhons.jpg
+Empezó como Product Manager en Facebook, Twitter y Quora, lugares en los que trabajó en el crecimiento de usuarios activos. Actualmente es Responsable de Crecimiento en Wealthfront, el mayor gestor de inversiones en internet. Andy se encarga de todo lo relacionado con el crecimiento de su base de clientes. Por las manos de Andy han pasado $10’000.000 en publicidad pagada en móvil. También ha dirigido proyectos sobre pruebas A/B ejecutando más de 400 para mejorar adquisición y retención de usuarios.
+
+Jaime Quint
+Jaime Quint.jpg
+Es un emprendedor y consultor apasionado por el crecimiento de productos innovadores. Se encuentra en la lista de Andrew Chen de “Growth Hackers” y fue nombrado Forbes ‘Up and Comer’ (http://onforb.es/QGdKi6) en 2012. Ha tenido un contacto muy cercano con Platzi y ha apoyado en su proceso de crecimiento.
+
+Vasil Azarov
+Vasil Azarov.jpg
+Es el creador del **Growth Marketing Conference **, el único evento de aprendizaje práctico dedicado a resolver una de las barreras empresariales en la actualidad: el crecimiento. http://www.growthmarketingconf.com/. Ya vemos cómo Vasil hacer crecer el concepto, pasando de Hackers a Marketing, y nos muestra un espectro más grande de cómo mejorar el negocio.
+
+Gustaf Alstromer
+gustaf alstromer.jpg
+Fue el responsable de producto en el equipo de crecimiento de Airbnb y tiene varios años de experiencia en este campo. Se trasladó a los EE.UU. hace ocho años. La primera empresa en la que comenzó Gustaf tenía un problema de crecimiento, entonces pensó que podía resolverlo. Desde entonces ha estado trabajando con temas relacionados al respecto. Trabajó en Voxer, donde pasó todo su tiempo con métricas y estudiando el comportamiento de usuarios. El impacto fue enorme. Voxer se convirtió en un producto puntero y llegó a estar por delante de Facebook en la App Store, hoy en día es Partner en Ycombinator.
+
+Justin Wu
+Justin wu.jpg
+Hoy en día lidera temas en EE.UU alrededor del Blockchain, además del área de Growth en CoinCircle.
+Hace parte de los cursos de Platzi con el curso de Marketing Funnel, en el que aprenderás las mejores estrategias de crecimiento empresarial a través de la implementación de un embudo de conversión. Conseguir más tráfico para tu sitio, contactar a nuevos clientes y convertirlos en leads que adquieran tu producto. Fortalecer tu relación con los clientes a través de una estrategia inbound y aprender a engancharlos para que amen tu marca.
+
+Juan Pablo Rojas
+Juan Pablo Rojas.jpg
+Es especialista en marketing basado en métricas y outbound marketing. Se ha centrado en crear y medir estrategias, hacer pauta usando los canales digitales más efectivos, aumentar las conversiones y promover el crecimiento de Platzi durante los últimos 3 años.
+Es líder del área de Growth en Platzi y tiene como objetivo construir una comunidad de un millón de programadores de habla hispana.
+Hace poco terminó de construir el cursos de Facebook Analytics, en el que aprenderás a recolectar y analizar información para mejorar el rendimiento de tu página y tus campañas de marketing. Diseña estrategias de seguimiento de acuerdo con los objetivos que te has planteado, alcanza un mejor rendimiento y aumenta conversiones.
+
+Si deseas mejorar tus habilidades para ayudar a crecer empresa o tu propia empresas puedes tomar la carrera de Marketing basada en dato. No olvides estar siempre actualizado y hacer “Product, Growth, Repeat.” Hay que preocuparse de hacer un buen producto, lograr que crezca y repetir esto sin detenerse, porque este es el ciclo que hace a las grandes startups.
+
+Cuéntanos si conoces alguna persona que con sus acciones y talento haya hecho crecer empresas.

@@ -1,0 +1,20 @@
+¿Es buena idea usar Paypal como procesador de pagos en mi producto digital?
+Publicado el 24 de Febrero de 2019 por rulotico-gonzalez
+
+Cuando trabajas como desarrollador web, encontrarás que en el desarrollo de páginas u otras herramientas digitales, una de las habilidades más codiciadas del mercado es saber crear E-commerce o tiendas en línea. Para crear estas plataformas puedes incorporar market places o botones de pago.
+
+Aspectos generales de PayPal
+
+Una de las herramientas más usadas para la implementación de botones de pago es PayPal, un procesador de pagos disponible en más de 203 países. A través de PayPal puedes enviar y recibir pagos de forma segura en casi todo el mundo, además puedes realizar transacciones en varias divisas.
+
+Lo que debes tener en cuenta
+
+Cada país tiene restricciones específicas con PayPal. Es por ello que tienes que seguir un proceso de autentificación de identidad. Este proceso no se realiza mediante medios tradicionales, como dando click en un enlace enviado a tu correo asociado o con una llamada a tu celular. Debes estar listo para presentar documentación legítima que te permita comprobar tu identidad para poder mover tu dinero entre PayPal y tu cuenta bancaria.
+
+Tal vez si un día recibes un pago de más de 100 dólares PayPal rectifique que eres tú e investigue por qué estás recibiendo tanto dinero, esto puede retrasar el proceso de transferencia a tu cuenta bancaria, pero ajeno a eso no encontrarás otro problema al administrar los pagos que recibes.
+
+¿Es confiable PayPal?
+
+Basado en mi experiencia incorporando PayPal con los productos digitales que desarrollo para clientes y proyectos propios, puedo decirte que PayPal es una gran opción cuando requieres un procesador de pagos, ya que tiene muchas funciones como botones, gestión de usuarios, suscripciones, configuración de facturas para cobrar y todas las opciones de personalización que te da para que uses con tus clientes. Además es un gran proveedor de servicios de pago por todas las conexiones que tiene con los principales bancos del mundo.
+
+Mi recomendación es que no temas a los procesos necesarios para abrir tu cuenta en PayPal, pues eso solo es un pequeño escalón para iniciar tu propio negocio en línea. Si quieres aprender a implementar PayPal a tu producto digital te invito al Curso Profesional de Desarrollo Web.

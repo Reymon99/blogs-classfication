@@ -1,0 +1,34 @@
+IBM Watson: Inteligencia Artificial vs. el Cerebro Humano
+Publicado el 25 de Julio de 2018 por jjyepez
+
+La era de la Computación Cognitiva
+IBM Watson es la propuesta del gigante IBM de cara a la nueva era de la Computación Cognitiva (CC), término que refiere a las tecnologías de Procesamiento de Señales e Inteligencia Artificial con el objeto de imitar funciones del cerebro humano, como percibir e identificar estímulos, razonar, entender y responder a estos estímulos.
+
+Las plataformas de CC incluyen Machine Learning, Razonamiento, Procesamiento de Lenguaje Natural, Reconocimiento de la Comunicación Verbal y Visual, Interacción Hombre-máquina, Generación de Diálogo y Narrativa, entre otros servicios.
+
+Muchos de los fundamentos teóricos y algoritmos detrás de la CC no han cambiado tanto en los últimos años. Es la capacidad de cómputo y el entrenamiento continuo lo que a fin de cuentas da origen a modelos más precisos, veloces y con probabilidades cada vez más altas de producir respuestas similares o incluso mejores a las de los seres humanos.
+
+Una de las diferencias de Watson con respecto al resto de las iniciativas de Inteligencia Artificial es que el origen de su aprendizaje no está fundamentado en el procesamiento de datos estructurados como bases de datos, archivos JSON u hojas de cálculo, sino en los datos no estructurados.
+
+Estos datos son escritos y generados por seres humanos en su comunicación cotidiana y natural, información proveniente de tuits, correos electrónicos, artículos periodísticos, novelas; así como fotografías de la familia, de mascotas, de las vacaciones, letras de canciones, en fin, expresiones naturales de personas reales.
+
+La Inteligencia Artificial versus el Cerebro Humano
+En 2011, en el show de la televisión estadounidense llamado Jeopardy, Watson demostró su potencial luego de tres emocionantes días de participación en contra de los dos mayores ganadores históricos del programa.
+
+Jeopardy es un juego de agilidad mental por turnos en el que se van mostrando respuestas a preguntas que los jugadores deben descubrir.
+
+Preguntas como: “Categoría: países. Blanco y círculo rojo” a lo que el jugador más veloz presiona un botón por la oportunidad de responder. R:¿Qué es la bandera de Japón?” Y así contínuamente hasta agotar todas las preguntas.
+
+Ver a estos dos jugadores con impresionante habilidad competir en directo contra Watson, mientras sus desarrolladores presencian emocionados su desempeño en el juego, es simplemente inspirador.
+
+Finalmente, Watson terminó por batir a los otros dos jugadores en última instancia, ganando la suma de USD 1,000,000 que fueron luego donados a obras benéficas en nombre de la ciencia. De esta manera IBM mostró al mundo el asombroso potencial de la Inteligencia Artificial y la Computación Cognitiva.
+
+pasted image 0 (1).png
+En Conclusión
+Al estar basado en información no estructurada, Watson logra entender las intenciones, entidades y flujos de comunicación naturales que hay en una conversación o un texto significativamente grande.
+
+No sólo reconoce de qué se habla sino que es capaz de entender contextos como lenguaje coloquial, léxico técnico o especializado, chistes e incluso acertijos y adivinanzas cargadas de metáforas y aún así responder correctamente, como sucedió en Jeopardy.
+
+¡Simplemente impresionante!
+
+Tú también puedes lograr desarrollar sistemas increíbles con Inteligencia Artificial con Platzi y el Curso de Inteligencia Artificial con IBM Watson.

@@ -1,0 +1,46 @@
+¿Cuándo me conviene hacer un Design Sprint?
+Publicado el 21 de Agosto de 2018 por benjibel
+
+Design Sprint es una metodología de trabajo creada por Google Ventures para ayudar a las empresas o grupos de trabajo a resolver desafíos o problemas en poco tiempo, creando nuevas soluciones o mejorando las existentes.
+
+Es una metodología tan eficiente, que comprime el proceso de aprendizaje que puede llevar meses para un equipo tradicional de trabajo, en una semana o menos.
+
+Piénsalo prácticamente en torno a tus proyectos: si trabajas en algo por semanas, tienes tantos argumentos sobre el por qué hiciste las cosas de una manera, que no interpretas el feedback que recibes positivamente. En cambio si le dedicas 10 minutos a bocetar una idea, estás más dispuesto a cambiarla de acuerdo a comentarios externos.
+
+En este principio se basa la metodología: aprender velozmente, para ahorrar tiempo iterando lo más rápido posible de acuerdo a las necesidades de sus usuarios.
+
+¿Por qué crearon Design Sprint?
+que_es_design_sprint_1.jpg
+Google llegó a ese momento como empresa que creció tanto, pero tanto, que empezó a preocuparse también por el crecimiento del ecosistema de empresas alrededor suyo. De esa preocupación nació Google Ventures, un equipo de profesionales con experiencia en el crecimiento de Google y especialistas en emprendimientos a nivel global.
+
+Al principio se dedicaron simplemente a escuchar: qué problemas tenía un emprendimiento para crecer? qué modelos de negocio estaban intentando? Cómo se comunicaban como equipo? Y se dedicaron a experimentar modelos de negocio distintos, alternativas de comunicación, estrategias de otras disciplinas que ayudaban a resolver esos problemas.
+
+Con el modelo de iteración de experimentar, fallar, aprender, volver a experimentar, fallar, aprender fueron mejorando la metodología que empezó a ser infalible para lo que se proponían: resolver los problemas más complejos de un grupo de trabajo.
+
+Entonces, apliquemos Design Sprint a la vida
+
+Muchos de los que aplicaron la metodología crearon productos o modelos de negocio novedosos que les permitieron dar un salto de éxito, como Google Hangouts o Slack. Esto llevó a popularizar la metodología, y que diversos tipos de empresas, instituciones y grupos de trabajo empiecen a aplicarla en su día a día.
+
+Sin embargo, pocos supieron aplicar la metodología correctamente. Es importante entender que Design Sprint no es la única estrategia útil para resolver problemas. Y tampoco servirá o tendrá el mismo éxito en cualquier contexto. Que le haya funcionado a Slack, no quiere decir que nos vaya a servir a todos.
+
+Entonces, ¿cuándo conviene?
+Nos conviene hacer un Design Sprint en aquellos casos en los que, tenemos la idea pero aún no hemos construido el producto: en este caso la metodología nos ayudará a validar si esa idea es viable y si es lo que los usuarios necesitan.
+
+También es una metodología que nos permite ahorrar dinero. Cuando la idea que tenemos es muy costosa de producir, testear un prototipo ideal de ella con usuarios potenciales nos ayuda a validarla antes de invertir en desarrollarla.
+
+Otras veces, nos encontramos en estructuras muy jerárquicas o burocráticas a la hora de seleccionar proyectos. En estos casos, presentar una idea validada previamente mediante un Design Sprint te puede servir para estructurar y darle argumentos al pitch que le llevas a tu jefe a la hora de elegir el próximo proyecto para llevar adelante.
+
+¿Cuándo no es necesario?
+
+Podemos creer que el Sprint resuelve todo, pero no es una metodología que aplique a cualquier tipo de problemas.
+
+Por ejemplo, cuando no tengo suficiente información de antemano sobre el producto que quiero construir o sus usuarios, esto puede afectar el día 1, y por ende el desarrollo normal del Design Sprint. Lo ideal es partir de un producto que conoce sus métricas de partida, y tiene objetivos/problemas claros a resolver.
+
+Tambien podemos encontrar casos en los que las autoridades o jefes de ese producto no logran ponerse de acuerdo: por más soluciones que se creen a partir de un Design Sprint, sin construir consenso es difícil que la metodología aporte resultados útiles.
+
+A veces el problema que queremos trabajar no es estrictamente de diseño, sino que apunta a resolver problemas más existenciales de la compañía como su identidad de marca o el logo. Si bien hay algunos ejercicios del Design Sprint que pueden sumar para estos objetivos, es poco probable que logre resolver el problema global.
+
+Pasa lo mismo cuando el problema es demasiado grande (ejemplo: resolver la pobreza en Latinoamérica) o demasiado pequeño (ejemplo: definir el color de un botón). En esos casos 5 días no alcanzarán o serán demasiados como para encontrar soluciones viables, y conviene buscar métodos alternativos.
+
+¿Qué clase de problemas resolverías con un Design Sprint?
+Descubre la metodología y los ejercicios que cambiarán la forma de ver los desafíos de tu producto.

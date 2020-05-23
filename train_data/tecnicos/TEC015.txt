@@ -1,0 +1,73 @@
+Lambda: el feature que se habla "en todos los lenguajes"
+Publicado el 31 de Agosto de 2018 por anncode
+
+Si te gusta programar en Java y estar al tanto de los últimos features, este blogpost es para ti. Aprende de la mano de Anahí, la profesora del Curso Avanzado de Java, las funcionalidades, mejoras y ventajas de Lambda.
+
+
+Transcripción:
+Hola chicos, ¿cómo están? Mi nombre es Anahí Salgado y yo soy tu profesora en el Curso Avanzado de Java Standard Edition, y el día de hoy platicaremos sobre lambdas, este nuevo feature que se agregó a partir de la versión 8.
+
+Cabe mencionar que nuestro curso avanzado habla mucho sobre la versión 9 de Java, pero lambda es un tema que se sigue utilizando en Java en esta versión 9 demasiado, y además, no es un tema exclusivo de Java. Lambda existe también en muchos otros lenguajes.
+
+Hoy quiero presentarte las lambdas, que no son otra cosa que una forma de escribir código o de representar código. Esta es la sintaxis, lo que estás viendo de este lado es la sintaxis de un código escrito en formato de lambdas. En la primera parte escribiremos los parámetros y en la segunda parte estaremos trabajando sobre el cuerpo de la lambda. Como ves, hay una flechita que los separa y cuando escribimos el cuerpo de la lambda siempre es importante colocar los brackets o estos corchetitos, estos corchetitos que están por aquí, que son mejor conocidos como brackets o llaves también.
+
+Lambda es una forma de escribir o representar código.
+
+Cuando utilizamos lambdas es cuando necesitamos trabajar un código que su ciclo de vida dentro de la aplicación es demasiado corto, es decir, las expresiones lambdas no deben ser la única forma de resolver todos los problemas de código. Las lambdas únicamente debemos utilizarlas e implementarlas cuando tenemos fragmentos de código que son que nada más van a tener tiempos de vida muy cortos dentro de nuestra aplicación. Si utilizamos todo el tiempo lambdas para estar sobrescribiendo código, entonces estaremos yendo a malas prácticas de programación.
+
+Usar expresiones lambdas nos ayuda también a encapsular código especifico, lo que hacemos aquí es básicamente, en el momento en el que estamos utilizando una lambda o una función lambda, le estamos definiendo un comportamiento, un comportamiento en ese momento, en esa secuencia mientras se están ejecutando las líneas de código, le estamos definiendo ese comportamiento. Entonces eso hace una encapsulación o un encapsulamiento de ese código haciéndolo solamente disponible para ese momento en el que está siendo llamado el código. Además, para poder definir una lambda, la podremos trabajar con dos formas. La primera forma es trabajando una interface, esta interface en Java se conocen como interfaces funcionales, y las interfaces funcionales no son más que únicamente interfaces que tienen un método abstracto.
+
+Un método abstracto significará que es un método que está por aquí definido, únicamente, nada más está colocado o declarado el cuerpo del método, pero no tiene absolutamente nada de implementación. Entonces, para que esto sea una interfaz funcional, debe tener un solo único método sin implementación, a esto se le llamará una interface funcional. Si quieres aprender más sobre interfaces funcionales, te invito a que veas nuestro curso avanzado de Java, donde ahí también vemos mucho más a profundidad este concepto.
+
+Entonces, para tener una interface funcional podemos también indicarlo con la anotación Functional Interface, con arroba. Esto tan sólo es una buena práctica, colocar la anotación, arriba de la interface colocar “Functional Interface”, es tan sólo una buena práctica. No quiere decir que sea obligatorio, pero sí es una buena práctica tan sólo dejar indicado que esta será una aplicación, una interfaz funcional, una Functional Interface. Y entonces las Functional Interface deben ser SAM, o sea SingleAbstractMethod, lo que acabo de platicar que deben tener uno y uno solo método abstracto.
+
+Otros tipos de elementos con los cuales podemos utilizar lambdas es utilizando las clases anónimas o trabajando con clases abstractas, totalmente abstractas. Y es que las clases abstractas se van a parecer mucho a las interfaces que te presenté hace un momento. Estas deben tener también un solo y único método abstracto. Entonces, el método abstracto en este caso deberá colocarse la palabra clave: “abstract”, y al momento en que un método es abstracto la clase deberá también tener el identificador de “abstract”. Entonces, quieres decir que el método no debe tener tampoco ningún tipo de implementación. Cuando nosotros implementamos este método, es aquí donde estamos viendo esta sintaxis común y corriente en cómo trabajamos las clases abstractas cuando las sobrescribimos, este es el código que vemos.
+
+Te puede interesar: ¡Feliz cumpleaños Java!
+
+Método abstracto vs. Lambda: diferencia práctica
+Vamos a verlo ahora mismo en un ejercicio para ver la comparación entre utilizar esta sintaxis, que es la sobre escritura del método abstracto y en comparación de utilizar una lambda.
+
+Vamos para acá, yo tengo Eclipse, y lo que voy a hacer a continuación es únicamente
+
+Crear un Nuevo Proyecto
+Le voy a poner “Java Project”
+Le voy a poner lambdas.
+Estoy utilizando la versión Standard Edition, la versión 9.
+
+Voy a poner Finish, y ¡listo, ya está aquí mi proyecto!
+Ahora me dirigiré a la carpeta SRC para crear un package.
+En package, colocaré “com.anncode”, que es mi identificador
+Voy a poner lambdas.
+Voy a poner Finish
+Lo que nos falta ahora es colocar una clase que tenga el método “main”, y vamos a poner al nombre de la clase “main”.
+Voy a chequear este campito que está aquí, que dice que me va a escribir automáticamente un método “main”.
+¡Excelente. Ya tengo un proyecto de Java listo!
+
+Implementación
+Ahora vamos a implementar lo primero. El primer paso que haré será crear por aquí una interfaz. Voy a crear una interface, así. Y entonces lo que haremos será crear una interfaz que se llame OnOneListener. Lo que haremos aquí será que al momento de que un usuario o alguien reciba, escriba el número uno, entonces esta interfaz tenga un método sobrescrito y esté imprimiendo la opción que el usuario colocó. Le voy a poner OnOneListener, le voy a dar Finish.
+
+Muy bien, ya tengo aquí mi Interface. Ahora, recuerdas que vamos a colocar el método abstracto, le pondré void onOne y entonces lo único que hará será colocar aquí String Message. Lo único que haré será que cuando alguien coloque un “one”, entonces se reciba por aquí un mensaje que quiero mostrarle al usuario.
+
+Bien, ahora como buena práctica que habíamos dicho, vamos a colocarle a este la anotación: Functional Interface, basta con que ponga @F y coloque control barra espaciadora, aquí está la anotación que necesito. Perfecto. Vamos a guardar esto y listo.
+
+Ahora vamos a implementar este código, y lo que vamos a hacer es crear una instancia de esta interface. Eecuerda que es una de las cosas que podemos hacer al tener interfaces, crear instancias. Entonces, lo que haré es poner OnOneListener y pondré el OnOneListener, ahora le pondré igual a New, de esta forma y así.
+
+¿Viste que antes de yo hacer esto, me aparecía “Anonymous Inner Type”? Automáticamente detecta que es un método anónimo o una función anónima, entonces la estará sobrescribiendo de esta forma. Perfecto. Ahora, tengo esta forma, esta sintaxis, y lo único que hago por aquí, puedo hacer un Sys out y entonces imprimir el mensaje. Le puedo poner un mensaje personalizado, recuerda que es un nivel de encapsulamiento menor, entonces le puedo poner “Tu Mensaje”. Vamos a poner “One” y entonces el mensaje, aquí vamos a poner el “message”. Excelente. Ya tengo aquí el message.
+
+blog3.jpg
+Un intento con Lambda
+Ahora, vamos a usar esta misma forma, pero trabajando con lambdas para ver la reducción del código que se da. Voy a colocar de nuevo por aquí: “On OnOneListener”, “On OnOneListener”, y ahora pondré “listener” “onelistener2”. Le voy a dar igual y ahora lo siguiente, en vez de colocar New, lo que haré será empezar a definir el cuerpo de la lambda, o sea, el cuerpo del método que estaré utilizando. Recuerdas nuestra sintaxis, primero va en paréntesis. Entonces, entre paréntesis, lo que hace es recibir un objeto message de esta forma.
+
+La siguiente parte que va en el cuerpo de la lambda es colocar el guion y pico paréntesis, así. Ahora ponemos las llaves, y por último cerramos con punto y coma. Aquí adentro ejecutaré lo que quiero que haga, o sea, este paso es el equivalente a todo esto que tengo por acá. Ahora si quiero llamar a OnOneListener, entonces bastará con que yo únicamente llame al objeto y entonces llame al método que estoy especificando. Le vamos a poner aquí “Sin Lambda”. “Sin Lambda”, de esta forma, y una carita triste de esta forma.
+
+Entonces, ves que a cada uno le estoy poniendo comportamientos diferentes, es aquí donde vemos el ciclo de vida de una lambda. Las lambdas deben estar definidas únicamente para momentos específicos, momentos pequeños que quiero utilizar este código. Y por lo tanto esto no debe ocurrir todo el tiempo, sino debemos tratar de orientar nuestras aplicaciones para que sean lo más modulares posibles.
+
+Un ejemplo más complejo
+Bien, entonces esto fue sencillo, ahora utilicemos “on OneListener2” y trabajaremos con “on One”, y le vamos a poner por aquí con lambda. Y le pondremos una carita feliz, una carita feliz como esta, así.
+Vamos a correr nuestro programa y veamos qué es lo que va a suceder. Voy a dar clic derecho aquí en donde dice Run as, y ahora donde dice Java application, y veremos que aquí está funcionando nuestro código. Ambos códigos hacen exactamente lo mismo, pero uno está llamando sin lambdas y el otro está llamando con lambdas. Como puedes ver lo que está ocurriendo aquí y lo que vemos es una clara reducción del código en comparación con la otra forma de declararlo de sobrescribir el método sin utilizar una lambda. Una lambda la podemos ver muchísimo ahora trabajando con Android, cuando tenemos por ejemplo un botón, y entonces el botón tienen una interfaz como la que hicimos que es On click Listener, que es lo que estamos viendo por aquí. Esta sería la forma tradicional de traer el método, la función anónima, y esta sería la forma en que la trabajaríamos, exactamente lo mismo, pero utilizando una lambda, esto trabajando con Android.
+
+En otros escenarios…
+Ahora, si trabajamos con Java en otro escenario, en el escenario por ejemplo de Hibernate, aquí tenemos el objeto session, que tiene un método que es “do work”, y entonces ese método “do work” se llama aquí empezamos a utilizar la Lambda. Tiene el parámetro que recibe, es: “connection”, y entonces aquí está nuestro indicador de lambda, y entonces se ejecuta, que es un proceso bastante largo que se ejecuta, incluso hay comparaciones, aquí hay un Try with resources que lo vemos también en nuestro curso avanzado, que es muy específico para trabajar con conexiones. Y bueno, hasta que termina de ejecutar todas estas comparaciones, la lambda termina su ciclo de vida.
+
+Bien, esto es tan solo una muestra de lo que puedes ver en nuestro Curso Avanzado de Java. Ahora … ¿te animas a aprender sobre lambdas, interfaces funcionales, clases abstractas y programación orientada a objetos a un nivel mucho más avanzado?

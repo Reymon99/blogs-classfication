@@ -1,0 +1,37 @@
+Hola Watson, necesito tu ayuda
+Publicado el 17 de Abril de 2018 por OddPete
+
+¿Te ha pasado que ingresas a un chat de servicio al cliente y sientes que la interacción no es fluída y en ocasiones es errada? Es probable que estés interactuando con un “bot”. Según un informe de El Economista del año 2016, el 51.8% de las interacciones que tenemos en servicio al cliente por internet es con robots programados para identificar keywords, voz, imágenes y objetos. Esto, en pocas palabras, es interacción con Inteligencia Artificial.
+
+La Inteligencia Artificial y el Machine Learning han sido pensados y desarrollados para contribuir al progreso humano. Empresas de todos los sectores la utilizan para optimizar sus productos, entre esos el servicio al cliente. Aunque se ha avanzado a pasos agigantados las empresas no terminan de implementar de forma exitosa estos procesos por dos motivos específicos: falta de recursos y falta de capacitación.
+
+Al ver este problema, la gigante multinacional IBM se dio cuenta de la necesidad de ofrecer un servicio en el que la información que fluye por la Inteligencia Artificial fuera mejor distribuida y mejor procesada. Partiendo de la premisa de que todos los sistemas de inteligencia artificial pueden entender, razonar y aprender nació Watson Assistant y Platzi en unión con IBM ofrece el Curso de Introducción a Inteligencia Artificial con IBM Watson.
+
+¿Cuales son los servicios y cómo los utilizamos?
+
+Visual Recognition:
+Sirve para analizar imágenes, objetos, rostros, colores, alimentos entre otros mediante tags, clasificación y entrenamiento.
+
+Speech to text:
+Convierte el sonido en texto. El bot puede escuchar, entender y transcribir lo que digas.
+
+Text to speech:
+Convierte texto escrito en sonido con voz natural en múltiples tonos, emociones e idiomas.
+
+Aplicación a videojuegos y realidad virtual:
+Realidad Virtual
+
+¿Te imaginas desarrollar un personaje que interprete tu voz, tus emociones y que además ejecute tus órdenes? Esto es posible y puedes aprender a hacerlo de una forma práctica. Integrar la Realidad Virtual con la inteligencia artificial ya no es un tema de las películas de ciencia ficción, todo esto es posible hoy en día y puedes hacerlo desde tu compu en donde quieras.
+
+Industrias en las que más se implementa IA
+Son muchas las industrias y las personas que aplican la IA. Estas son algunas de las profesiones y sectores que la aplican:
+
+Medicina: Esta es probablemente una de las áreas donde más se aplica la I.A. Un ejemplo claro es cuando se programa un bot para que a partir de ciertos datos como edad, sexo, peso, síntomas y genética arroje resultados de enfermedades y tratamiento.
+
+Banca: Muchos bancos a nivel global invierten grandes recursos humanos, técnicos y económicos en el entrenamiento de bots para que solucionen los problemas más comunes de sus usuarios. Con el paso de los años, esta industria es pionera en el servicio al cliente.
+
+Startups: ¡Acá estamos nosotros! Son múltiples los usos que le damos a la IA y al Machine Learning. La medición de objetivos y de rendimiento de las startups y empresas en general está basado en datos ingresados a sistemas de análisis que son los que permiten tomar las decisiones más importantes.
+
+Empieza a disfrutar de todas las formas de uso y aplicaciones que puedes aprender y ofrecer haciendo nuestro Curso de Introducción a Inteligencia Artificial con IBM Watson. Para esta ocasión y con motivo del partnership que tenemos con IBM tenemos profesores que trabajan directamente para esta multinacional y que son expertos en la aplicación y asesoría de Watson.
+
+¡Estamos construyendo el futuro hoy y tú puedes ayudarnos!

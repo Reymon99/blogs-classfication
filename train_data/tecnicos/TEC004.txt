@@ -1,0 +1,22 @@
+Cambia la forma de comprar hosting y dominio
+Publicado el 11 de Enero de 2019 por PurpleDoll
+
+Cuando terminas un sitio web piensas ¿dónde hospedo mi página web? Las opciones de hosting y dominio parecen infinitas sn internet ¿cuál servicio de hosting elegir si son servicios separados? AWS (Amazon Web Services) es la plataforma de servicios de cómputo en la nube de Amazon que prevé la carga a futuro de tus propios servidores con una gran ventaja: todo en el mismo lugar, a buenos precios y con una facilidad asombrosa de configurar.
+
+Antes de tomar una decisión, te queremos contar sobre los servicios que te enseñamos en el curso de Networking y Content Delivery en AWS y te pueden ahorrar muchísimo tiempo y dolores de cabeza:
+
+VPC o Virtual Private Cloud:
+Es tu propia nube privada dentro de la gran nube de AWS. Puede alojar tus servidores, bases de datos y otros servicios con la particularidad que tendrás a la mano una IP pública y otra privada. También podrás hacer tus IPs públicas sólo en ciertos puertos.
+
+CloudFront:
+Tener tantos servicios en un mismo lugar facilita mucho las cosas y aquí es cuando entra a brillar CloudFront que con simples configuraciones, puedes hacer copias de tus archivos y localizarlas en diferentes partes del mundo. Tú siempre vas a tener el control de quién puede acceder a tus archivos y desde qué nodo en tu gran red.
+
+Route 53:
+Comprar, configurar, y modificar dominios y subdominios es muy fácil con este servicio de AWS, además de ser competitivo respecto a precios. El lograr que tu dominio o subdominio apunte a otro servidor, página web o contenido está al alcance de un par de clics.
+
+API Gateway:
+Este endpoint de AWS brilla ya que te permitirá exponer algunas funcionalidades de tu código en internet, mientras guardas o mantienes tu software en tu VPC en tu red interna privada, brindandote mucha seguridad al momento de desarrollar y hacer deploy a tu contenido.
+
+Muchos de estos servicios mencionados son gratis y puedes aprender a utilizarlos desde ya, explorando todas sus posibilidades y viendo cómo con poco tiempo puedes lograr mucho más, pudiendo invertir tu tiempo y enfocarte más en el desarrollo de tus aplicaciones.
+
+Te invitamos a que tomes el Curso Networking y Content Delivery en AWS de Platzi y cambies la manera en la que ves los servicios de hosting y dominio, teniendo una experiencia nueva y completa.

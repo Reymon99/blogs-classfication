@@ -1,0 +1,46 @@
+La magia de diseñar un prototipo
+Publicado el 7 de Septiembre de 2018 por Danielalala
+
+Al hablar de diseño de prototipos podemos referirnos a diversos temas, debido a que un prototipo es una representación -escalada o cercana- de un producto.
+
+En esta ocasión les hablaré sobre prototipos web -o wireframes-: qué son, para qué sirven, por qué son tan importantes y qué elementos entran a tener un papel importante al momento de prototipar.
+
+mia-baker-322558-unsplash.jpg
+Lo primero que debes tener en cuenta es que, como te decía inicialmente, la actividad de diseñar prototipos es una práctica usual en el mundo del diseño de productos y servicios.
+
+Por eso es muy probable que haya existido un prototipo de la silla en la que te encuentras sentado, leyendo este blogpost, de la ropa que llevas puesta o, incluso, de la experiencia que has tenido navegando en esta página web. Esto último es en lo que nos enfocaremos.
+
+Un prototipo, entonces, permite que los clientes tengan una idea mucho más cercana y fiel a lo que realmente obtendrán, además posibilita que la persona o el equipo creativo, cuenten con una guía sobre la cual trabajar y así pueden optimizar, tanto tiempos, como esfuerzos puestos.
+
+Otro de los beneficios de un prototipo es que permite definir el plan de acción entre todos los involucrados en el proyecto, es decir que, facilita la toma de decisiones entre los diseñadores, desarrolladores y clientes.
+
+rawpixel-701117-unsplash.jpg
+Hay quienes sostienen que los prototipos son una herramienta fundamental al momento de reconocer, comunicar y testear cualquier producto antes de crear su versión definitiva. En esta lógica podemos concluir que algunas de sus ventajas son:
+
+Mejorar la comunicación promoviendo el diálogo y la solución de problemas en el equipo creativo.
+Permitir la verificación de resultados o la realización de “test de usabilidad”.
+Al ser probados, evidenciar la relación entre: diseño e interacción.
+Nos permiten hallar nuevos retos y soluciones.
+Hacen posible que el cliente pruebe el servicio fortaleciendo la confiabilidad en el producto.
+Por otro lado, es importante tener en cuenta que no todos los prototipos son iguales. La clasificación más común está entre prototipos de alta y de baja fidelidad.
+
+Los de baja fidelidad tienden a ser más comunes en áreas como el prototipo de producto; pues con ellos se desarrolla el producto, aunque se ejecuta con materiales mucho más económicos y asequibles.
+
+Mientras que los prototipos de alta fidelidad, trabajan con los mismos materiales del producto final y, muchas veces, en este campo está el diseño de prototipos digitales.
+
+jose-alejandro-cuffia-799485-unsplash.jpg
+Al momento de realizar un prototipo es necesario cumplir ciertos pasos del proceso, como por ejemplo:
+
+a). Hacer un boceto o bosquejo rápido, en donde estén las características principales del producto/servicio que se quiere obtener al finalizar el proceso. (Este bosquejo lo puedes realizar en software libres con este propósito o en papel, como te resulte más cómodo).
+
+b). Realizar tu plan de trabajo. Acá debes pensar en tus objetivos y por cada uno de ellos, debes determinar las acciones a cumplir para lograrlos, junto con los tiempos ideales que deben llevar esas acciones.
+
+c). Revisar que tus objetivos se cumplan en el prototipo y que sean compatibles con el plan general del proyecto.
+
+rawpixel-589084-unsplash.jpg
+Por último, es necesario que tengas en cuenta que los elementos principales que componen al diseño de prototipos son:
+
+El diseño de información: acá debes definir cómo ordenar el contenido para que sea claro y tu usuario lo entienda de la mejor manera.
+El diseño de interfaz: Es todo lo que tu usuario ve en la pantalla y con lo que debería interactuar, es decir que acá debes pensar en la funcionalidad de los elementos de la página. Por ejemplo: opciones del menú, secciones, casillas de datos, etc.
+Diseño de Navegación: acá trabajar sobre la experiencia que tiene tu usuario al navegar o desplazarse en la página, las posibles rutas que seguirá y la lógica que traerán estas dinámicas.
+¡Si quieres aprender sobre el mundo de los prototipos te invitamos a estar muy pendiente del curso que lanzaremos prontamente en Platzi sobre Diseño de Prototipos!

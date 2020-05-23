@@ -1,0 +1,73 @@
+Lenguajes, frameworks y librerías backend para 2019 - [Incluye guía descargable]
+Publicado el 22 de Diciembre de 2018 por unmalnick
+
+¿No sabes qué lenguaje de programación usar? ¿Qué framework escoger? En este Blog Post te explico qué es un framework, una librería, y las ventajas de cada lenguaje de programación.
+
+¿Qué es un framework?
+Es un conjunto de herramientas, librerías y buenas prácticas para resolver una serie de problemas. En Desarrollo Backend, todos los frameworks tienen la principal tarea de crear un servidor web.
+
+¿Qué es una librería?
+Son fragmentos de código creados por terceros que solucionan un problema en específico con el fin de extender las funcionalidades del código.
+
+La mayor diferencia es que un framework te da un marco de trabajo para desarrollar y una librería soluciona un problema haciendo más fácil y legible el código de tu aplicación.
+
+¿Por qué usar un framework o una librería?
+Primero, con estas herramientas puedes tener un desarrollo más rápido usando buenas prácticas y evitando escribir código repetitivo. Pero lo más importante, enfocar tu tiempo en solucionar problemas propios de tu desarrollo, en lugar de solucionar problemas que otros ya han solucionado.
+
+¿Cómo escoger el framework o libería correcta para mi proyecto?
+Aquí te dejo 7 puntos clave para el momento de escoger un framework o una librería:
+
+Disponibilidad y calidad de la documentación
+Tamaño de la comunidad
+Issues abiertos en GitHub
+Problemas que puede solucionar
+Flexibilidad
+Complejidad
+Compatibilidad con las otras herramientas que usarás
+A continuación, una serie de librerias y frameworks por cada lenguaje de programación para el desarrollo web:
+
+Python
+Es un lenguaje de programación de alto nivel creado por Guido van Rossum en 1991. Entre sus caracteristicas está lo fácil de usar y leer bajo su filosofia de DRY (Don’t Repeat Yourself). Usado comunmente para análisis de datos y machine learning.
+
+print ('Hola Mundo!')
+PYTHON (2).jpg
+Javascript con Node.js
+Node.js es la forma de ejecutar Javascript en un servidor. Con Node podemos aprovechar grandes ventajas de Javascript como los eventos y la ejecución asíncrona para crear aplicaciones en tiempo real.
+
+console.log('Hola Mundo!')
+NODE.jpg
+PHP
+Del acrónimo Personal Hypertext Processor. Es un lenguaje originalmente diseñado para el desarrollo web con contenido dinámico. Fue uno de los primeros lenguajes de programación del lado del servidor en incluir su código en documentos HTML. El código es interpretado por un servidor que genera el HTML de la página.
+
+<?php
+echo "Hola Mundo!";
+?>
+PHO.jpg
+Java
+Es un lenguaje de programación orientado a objetos. Su principal intención es poder escribir aplicaciones que se ejecuten en cualquier dispositivo (WORA, Write Once, Run Anywhere). A partir del 2012 es uno de los lenguajes de programación más populares para desarrollo de aplicaciones web con aproximadamente 10 millones de usuarios.
+
+public class HolaMundo {
+    public static void main(String[] args) {
+        System.out.println("Hola Mundo :)");
+    }
+}
+JAVA.jpg
+Ruby
+Ruby, creado por Yukihiro Matsumoto en 1995, combina una sintaxis inspirada en Python y Perl. Al igual que Python, es un lenguaje de alto nivel, lo que lo hace más fácil y rápido de aprender.
+
+Ruby fue originalmente creado para hacer de la programación algo divertido, y en un inicio era un lenguaje usado para crear videojuegos. Se popularizó en el mundo del desarrollo web gracias a Ruby On Rails.
+
+puts 'Hola Mundo'
+RUBY.jpg
+GoLang
+Es un lenguaje de programación diseñado por Google. Creado en 2009, es un lenguaje compilado, tipado y muy similar a C. Entre sus características está la concurrencia y la tipificación dinámica presente en lenguajes como Javascript, Python y Ruby.
+
+package main
+import "fmt"
+func main() {
+    fmt.Println("hello world")
+}
+GOLAND.jpg
+Descarga la guía completa aquí.
+
+¿Con qué lenguaje aprendiste a programar? ¡Escribe en los comentarios tu respuesta! Yo empecé con Python en el 2008.

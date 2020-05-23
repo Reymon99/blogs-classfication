@@ -1,0 +1,26 @@
+Todo lo que Facebook y Google saben sobre ti
+Publicado el 20 de Abril de 2018 por freddier
+
+¿Cómo hace Facebook para saber lo que hablé con mis amigos y ponerme un anuncio? No es que accedan a tu microfono. No te están escuchando. La verdad es un poco más oscura.
+
+Facebook y Google (así como muchas apps) saben mucho de ti. Conocen todo lo que haces en tu computador o tu smartphone. Y en ocasiones las compras que haces y los lugares que visitas en el mundo real. Desconectado de tus dispositivos.
+
+las-apps-facebook.png
+Pero, ¿Cómo Facebook y Google lográn acceso a tanta información personal privada?
+Gracias al escándalo de Cambridge Analytica y cómo usaron datos robados de Facebook para influenciar elecciones, más personas son conscientes del poder escondido de las compañías tech masivas.
+
+Facebook usando Login, Ads y Analytics sabe cuando ingresas a un sitio web, cuántos likes has dado y a qué, cuántos comentarios y shares. Incluso, cuántas veces has comentado en esos sistemas de comentarios que están conectados directamente con Facebook.
+
+facebook-sabe.png
+Con estos datos y otras señales de tu teléfono, navegador, redes wifi cercanas y más, Facebook y Google crean un perfil secreto tuyo.
+
+Recuerda: Facebook basa su negocio en la venta de publicidad. El 98.5% del dinero que viene a FB lo generan con ads.
+
+Con Facebook, Whatsapp, Messenger e Instagram es posible cruzar datos combinados con los permisos de acceso a todos los sensores de tu teléfono y datos comerciales de tarjetas de crédito que Facebook compra a terceros. Esto crea una versión extremadamente precisa de tus gustos e intereses.
+
+No necesitan acceder a tu micrófono. Se adelantan a lo que quieres.
+
+Google es igual. Saben dónde has estado, lo que buscas en su navegador, dónde comes, dónde compras.
+
+google-images.png
+Funciona incluso en modo incógnito, gracias a tracking de la huella de tu navegador y otras técnicas que puedes ver en detalle en el video adjunto a este post. Hay esperanza. Hay formas de protegernos. Te las contamos en este capítulo de PlatziLIVE.

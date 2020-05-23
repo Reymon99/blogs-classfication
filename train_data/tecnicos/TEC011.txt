@@ -1,0 +1,57 @@
+¿Cómo diseñar o desarrollar una página web?
+Publicado el 15 de Agosto de 2018 por Danielalala
+
+Si eres nuevo (a) en el mundo de la programación en internet o, si ya tienes bases y siempre has querido hacer una página web: ¡esta carrera es para ti!
+
+El primer consejo que puedo darte si estás iniciando en este campo, es que tomes el curso abierto que ofrecemos en Programación Básica, ¡no te asustes!; pues aunque no sea algo con lo que te sientas en tu zona de confort o jamás hayas pensado que resultarías aprendiendo programación, este curso te ayudará a entender cosas básicas e importantes que serán necesarias a la hora de ser un desarrollador Frontend.
+
+Por otro lado, si ya tomaste el curso o cuentas con conocimientos previos sobre programación y estás listo para crear páginas web, entonces, definitivamente esta es tu carrera y acá te explicaré porqué.
+
+En este blogpost te contaré en qué consiste ser un Arquitecto (a) Frontend, es decir, en qué consiste diseñar y programar una página web, cuáles son los cursos obligatorios que debes tomar y cuáles son las opciones que te ofrecemos en nuestros cursos opcionales, para que puedas enfocarte en lo que más te gusta.
+
+Lo primero que tienes que tener en cuenta es que, realmente, una página web no es solamente lo que vemos al momento de entrar en ella; sino que, por lo contrario, tiene dos caras: esa que vemos, con la que interactuamos y, desde la que se programa todo lo que vemos.
+
+Para esta carrera en lo que nos concentraremos será en aprender a ejecutar y a entender cómo se construye la parte visible de cualquier web, a lo que le llamamos el Front-end de una página.
+
+Por esto, pensaremos mucho en el diseño y en la experiencia o interacción que creamos para nuestros usuarios. Sin dejar de lado aspectos mucho más técnicos que nos vinculan con el Backend de la web, su lado interno; pues quien hace desarrollo Frontend siempre deberá crear vínculos de trabajo fuertes con el desarrollador (a) backend para lograr un buen proyecto, lo que implica que tengan conocimientos comunes.
+
+La razón por la que algunos de los cursos de esta carrera son obligatorios es porque para abordar este trabajo, que compromete habilidades en campos como programación, diseño y comunicación; es necesario tener una ruta de trabajo basada en conocimientos básicos sobre: lenguajes de programación, librerías de los lenguajes, interacción y articulación de los contenidos en la web.
+
+Todo esto te ayudará a ejecutar tus proyectos y, cuando ya logres hacerlo, podrás definir cuál es el mejor camino a seguir en tu página según tus intereses, en este punto te ayudarán nuestros cursos opcionales.
+
+Por otro lado, es súper importante que tengas presente que el objetivo de esta carrera es formarte para que puedas desarrollar óptimamente el Frontend de una página. Lo que implica que conozcas los lenguajes de programación en los que trabaja y las posibilidades que estos nos brindan en cuanto a interacción, diseño y comunicación; pues todas estas disciplinas convergen al momento de pensar en la mejor experiencia para nuestro usuario.
+
+Otro de los objetivos clave de esta Carrera es darte las herramientas para que desarrolles un pensamiento de diseño, en el que podrás concebir un problema como un reto y encontrar la mejor solución al mismo. No olvides que abordar cualquier reto de la mejor manera, dependerá de tu creatividad y pensamiento lógico.
+
+Teniendo en cuenta estos objetivos, te explicaré sobre el objetivo de aprendizaje de cada uno de nuestros cursos básicos, esto te ayudará a entender porqué son obligatorios y, adicionalmente, en el orden en el que te los explicaré, te sugeriré una ruta de estudio o un posible orden para que vayas tomándolos.
+
+1. Curso Profesional de Git y GitHub
+
+Este es un excelente curso de inicio, pues al desarrollar tu página web, irás haciendo diversas versiones así que, lo primero que te explicaremos en este curso es que existe algo que se llama sistemas de control de versiones, estos se encargan de brindarnos unas cuantas herramientas para que gestionemos las versiones de nuestro proyecto. Teniendo esto en cuenta, te presentaremos a Git, que es uno de estos sistemas.
+
+Por otro lado, en este curso aprenderás qué Git nos ofrece varios servicios de alojamiento para que las versiones de nuestro proyecto se ubiquen allí y, precisamente, uno de ellos es GitHub.
+
+Esto es muy importante, pues cada vez que estés trabajando en el desarrollo de cualquier proyecto que tengas, aparecerá la necesidad de acudir a Git para gestionarlo y, seguramente, GitHub será de gran ayuda, al momento de alojarlo.
+
+2. Desarrollo Web Online
+
+Al tomar este curso entenderás en qué consiste el Desarrollo Web, qué hacen los desarrolladores backend, qué hacen los desarrolladores frontend y cómo es que un texto de código, escrito en lenguajes de programación, puede circular en internet y -como ya aprendiste en el anterior curso- puede alojarse en un servidor para permitirnos tener la experiencia que nos ofrecen las páginas web. Hablaremos del uso de lenguajes como CSS y de bibliotecas como Stylus, Jade y Node.js; aprenderás a crear Layouts, API, entornos de Desarrollo Local, modificaciones con JQuery y funciones orientadas a eventos, entre otros temas. Suena un poco complejo, pero en realidad es el inicio o la base de todo.
+
+3. Responsive Design
+
+¿Alguna vez te has preguntado cómo hacer para que un mismo sitio web tenga una visualización óptima en cualquier dispositivo? Pues bien, acá aprenderás cómo lograr llevar sitios web, diseñados para pantallas de computador, a pantallas más chicas como las de tu dispositivos móviles, sin que sufran consecuencias negativas.
+
+4. CSS Grid Layout
+
+Como sabes, el contenido en las páginas web lo presentamos a nuestros usuarios con un orden determinado, este tipo de decisiones tienen todo que ver con la manera en la que comunicas lo que estás ofreciendo y, por supuesto, con el propósito de diseño que tienes. Recuerda que cada elemento de tu web está apuntando a cumplir los objetivos de tu proyecto.
+
+Es por esto que en este curso aprenderás cómo organizar tu contenido -multimedia- en el espacio por medio de áreas creadas con filas y columnas, para brindar la mejor experiencia de navegación.
+
+5. Animaciones para la Web
+
+¿Qué mejor forma de ofrecer una gran experiencia a tus usuarios que a través de un contenido gráfico único?, Con este curso crearás experiencias mediadas por el diseño y la animación, es decir, por la generación de movimiento aplicado a piezas gráficas. Esto te ayudará a tener una comunicación mucho más efectiva y empática con los usuarios de tu web.
+
+Arquitectura-Frontend_1 (1).jpg
+¡Ya conoces nuestros cursos básicos obligatorios! Ahora dime, ¿qué tipo de proyecto de gustaría crear?, ¿ya tienes alguna idea?
+
+Si ya la tienes o quieres saber cuáles podrían ser los campos en los que podrás enfocarte al momento de desarrollar el Frontend de tu web, te invito a leer este blogpost, en donde te contaré en qué consisten los cursos opcionales.

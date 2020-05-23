@@ -1,0 +1,85 @@
+5 mitos sobre el diseño de producto
+Publicado el 6 de Diciembre de 2018 por ThespianArtist
+
+5 mitos del diseño de producto
+Cada día es más difícil cubrir la expectativa respecto a los productos que consumimos. Nuestra capacidad de asombro es cada vez menor y algunas veces nos quedamos con cierta sensación de hastío o conformismo.
+
+Eso no es malo, es más, creo que estamos en una época privilegiada en la que podemos consumir o entregar experiencias únicas, dado que existe una gama de opciones “similares” a las que conocíamos, pero con estándares cada vez más altos.
+
+Respecto a la creación de estas experiencias que constantemente buscamos, hay mitos sobre el diseño de producto que son muy frecuentes. Acá te cuento los 5 mitos del diseño de producto más frecuentes:
+
+1) El diseño es algo puramente estético
+Lo primero que siempre viene a la mente cuando alguien habla de diseño es esto:
+
+Captura de pantalla 2018-11-10 00.52.24.png
+Lo que tienen esas 3 imágenes en común no es que están visualmente bien construidas, sino que todas fueron creadas para suplir una necesidad: habitar en el edificio, caminar cómodamente con los tennis y comunicar un mensaje con un cartel. En efecto, las ideas fueron bien ejecutadas.
+
+Todo diseño tiene intención y cubre una necesidad, de lo contrario es puramente arte que, en esencia, está sujeta a la interpretación de cada uno. Esto, sobra decirlo, no está mal: amamos el arte, pero no es lo que buscamos al momento de crear un producto
+
+Cuando empezamos a crear algo no debemos pensar en cómo se verá, sino en todas la formas en las que las personas van a interactuar con ese producto.
+
+El software, el hardware, el soporte que ofreces, la voz que tienes en redes sociales: todo suma o resta a la experiencia del producto.
+
+2) Los mejores diseñadores provienen del mismo lugar
+Un diseñador puede venir de cualquier parte y no necesariamente tener estudios formales en diseño. Tener acceso a nuevas y mejores herramientas y, por supuesto, al mejor contenido de Platzi, hace que tengamos todo lo necesario para ser mejores profesionales.
+
+Para ejemplificar esto te contaré sobre 2 personajes que seguro conoces, pero que jamás pensarías que son diseñadores:
+
+Captura de pantalla 2018-11-10 00.58.06.png
+Google
+Seguro has notado que Google, en los últimos años, pasó de ser aquella empresa preocupada solo por las ciencias de la computación a ser uno de los referentes de creación de sistemas de diseño. (Sí. Material design es el resultado de un sistema de diseño). Además, esa experiencia les ha permitido llegar a otros lugares como speakers inteligentes, routers o su propio teléfono, entregando una experiencia muy superior a otros fabricantes.
+
+Freddy
+Freddy es una de las personas que conozco que más sabe sobre patrones de diseño y usabilidad. Desde Cristalab, él siempre se ha preocupado por liderar un buen diseño en los proyectos en los que está involucrado.
+
+Recordando el primer punto, no hablamos de diseño como algo estético, sino como algo funcional. De hecho, muchas de las cosas que usas en Platzi dieron ese paso extra gracias a la visión de Freddy.
+
+Entonces, ser diseñador de producto no es sinónimo de ser un buen dibujante, es crear las herramientas y oportunidades para que cualquier persona use y entienda tu producto.
+
+3) El diseño hoy en día es todo igual. No hay espacio para la innovación
+Como en todo diseño, el uso de tendencias es inevitable. Puede que un solo “estilo” destaque sobre los demás. Un ejemplo de esto es Stripe.
+
+Captura de pantalla 2018-11-10 01.02.28.png
+Las tendencias son el resultado de un sistema de diseño tan pulido que nosotros queremos seguir y tomar algún conocimiento de ellas: no podemos evitar recurrir a ellas. Pero entonces, como diseñador, ¿cómo puedo innovar? Bien… aquí tienes unos ejemplos:
+
+Nativos digitales
+Cada día, como humanos, nos cuesta más trabajo adaptarnos a la velocidad que crece la tecnología.
+
+Un ejemplo de esto es Snapchat. En su momento de mayor auge, muchos sentíamos que la interfaz era contraintuitiva, pero la realidad es que ellos se enfocaban en los nativos digitales, es decir, personas que crecieron en un entorno digital y conocieron desde chicos el internet y los smartphones; por lo tanto, estaban acostumbrados a un contexto de uso diferente donde la experiencia en móviles llena de gestos era su día a día.
+
+Captura de pantalla 2018-11-10 01.03.03.png
+Bidireccionalidad
+¿Tu producto realmente está preparado para alcanzar un nivel mundial? Si pensamos en diseñar productos para la diversidad, ¿por qué, por ejemplo, no cambiamos el modo en que leemos una interfaz?
+
+Captura de pantalla 2018-11-10 01.04.22.png
+La bidireccionalidad propone que tu interfaz deber ser buena leyendo tanto de derecha a izquierda como de izquierda a derecha, dando la oportunidad de que diversas personas se sientan cómodas con tu producto gracias a su comportamiento de lectura natural.
+
+La interfaz “invisible”
+Los asistentes de voz cada vez son más frecuentes, y como diseñadores de producto nos topamos con un nuevo input de interacción: el lenguaje natural. Esto, así como el nuevo hardware, nos facilita la vida con nuevos puntos de interacción. También debemos estar pensando en esas experiencias que quizás en algún momento pueden saltar al abismo y convertirse en algo común,
+
+Captura de pantalla 2018-11-10 01.05.07.png
+4) Es complicado trabajar con diseñadores
+Captura de pantalla 2018-11-10 01.05.38.png
+Antes se veía al diseñador como la cereza del pastel: el que dejaba bonito todo lo que ya se había programado. Aunque es cierto que muchas de las buenas prácticas de interfaz y UX son derivadas de la creación de software, ahora como diseñadores debemos ser responsables de todo el flujo de creación de un producto para asegurar que la experiencia sea consistente.
+
+Entonces, no era que no quisiéramos trabajar en conjunto, sino que antes prácticamente no conocíamos nuestro rol completo.
+
+Hablemos de Airbnb, donde la barrera entre diseño y programación es casi invisible. Ellos entregan iteraciones rápidas, nuevos productos o rediseñados radicales gracias a que su documentación y todo el sistema de diseño es claro tanto para el diseñador como para los desarrolladores.
+
+Captura de pantalla 2018-11-10 01.06.26.png
+Creo que. como diseñadores, aprender sobre programación nos da el contexto necesario para entender cuál será el mejor camino para ejecutar un producto y, por supuesto, crear nuevas iteraciones.
+
+5) Solo se diseña una vez
+Al inicio creemos que algo bien diseño es necesariamente bueno a prueba de errores. Ese es el primer error. No existe producto que no haya pasado por algún cambio.
+
+Esto no quiere decir que queramos cambiar un producto cuando se nos antoje, más bien debemos estar midiendo lo que hacemos para verificar si en efecto está cumpliendo con los objetivos para los que fue diseñado, por ejemplo: iOS.
+
+Captura de pantalla 2018-11-10 01.06.48.png
+O Platzi:
+
+Captura de pantalla 2018-11-10 01.07.26.png
+En toda labor de diseño es importante aprender del pasado.
+
+En resumen, para crear mejores productos son necesarios el feedback de usuarios y los releases constantes. El proceso de diseño nunca termina y siempre podemos crear mejores experiencias.
+
+¿Qué otros mitos sobre el diseño de producto conoces?. Te invito a dejar tu comentario en este post y por supuesto nos vemos en los cursos de diseño de producto en Platzi

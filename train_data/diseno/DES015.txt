@@ -1,0 +1,52 @@
+Liderazgo en UX: cómo aportar a que tu empresa se enfoque en la experiencia de usuario
+Publicado el 14 de Diciembre de 2018 por mariaandrea
+
+María Isabel Murillo, directora general de Usaria, se unió a PlatziConf Bogotá para hablar de su experiencia en el campo de la usabilidad.
+
+Todos, sin importar nuestra profesión o roles, hacemos UX. La experiencia de usuario es algo transversal a todo lo que hacemos. La experiencia de usuario no es exclusiva de los productos de tecnología, solucionar problemas de los usuarios y facilitar su experiencia es universal.
+
+Tendemos a pensar que UX se limita al diseño de la interfaz de usuario. Pero en realidad abarca la totalidad de la interacción del usuario con nuestro producto.
+
+María Isabel nos habla del liderazgo en UX desde dos perspectivas: la profesión de los especialistas en UX y las características necesarias para trabajar en UX desde tu lugar de trabajo
+
+1. La profesión
+¿Cómo te formas profesionalmente para ser líder en UX?
+
+Principios antes que metodologías: cuando diseñas tu trabajo debe ser independiente de la metodología que utilizas, ya que las metodologías cambian todo el tiempo. Detrás de cada técnica de UX hay ciertos principios básicos que no se modifican con el tiempo.
+
+Si entraste al mundo de UX sólo por moda, no tendrás un liderazgo duradero. Agregar valor a tu producto requiere construir una columna vertebral sólida, no es importante la técnica tanto como los **fundamentos.
+
+Un profesional en UX debe tener conocimientos de:
+
+Antropología y Sociología: Para conocer el comportamiento humano.
+Interacción Humano Computadora (HCI) y Teorías de la comunicación: La transformación digital requiere un cambio organizacional y trabajo en equipo.
+Psicología cognitiva
+Principios de diseño: fundamentos que no cambian con el tiempo.
+Arquitectura de información: María Isabel nos invita a aprender más de esta área con su Curso de Arquitectura de la Información.
+Los principios de diseño son las bases para construir nuestro producto.
+
+Diseñar para la ordinario es tener en cuenta nuestra amplia base de usuarios. Existen muchas compañías que llamaríamos “anticuadas” que están prestando sus servicios día a día a un público enorme. La transformación de estas compañías para suplir las necesidades actuales es un reto de usabilidad.
+
+El conocimiento da poder. Te ganas la confianza de tus usuarios y clientes cuando demuestras lo que sabes.
+
+2. En tu organización
+Para ser líder de UX en tu compañía debes preguntarte cómo aportas a que tu empresa se enfoque en la experiencia de usuario. Esto partiendo del nivel de madurez de la organización en temas de UX y, a su vez, tu nivel de experiencia.
+
+Sé subversivo. No pidas permiso para implementar tus primeras soluciones de UX. Son pequeños cambios que tienen un impacto grande y abren el espacio para que la organización confíe en ti y tus propuestas.
+
+Conoce tu negocio de la A la Z. El primer paso es conocer todos los aspectos relevantes de tu organización. Desde las finanzas hasta los planes de marketing.
+
+La empatía es primordial para tu liderazgo. No solamente hacia tus usuarios para comprender su experiencia con el producto, también con tus jefes y compañeros de trabajo. La empatía facilitará el trabajo en equipo.
+
+La investigación debe ser el hilo conductor de tu trabajo. Investigación de mercado
+
+No te hagas indispensable. Aprende a construir un equipo y un sistema de diseño que funcione sin ti. Si tu equipo no funciona cuando te enfermas o te vas de viaje, no has hecho un buen trabajo.
+
+Sobre la ética en el trabajo, María Isabel cita a Mike Monteiro:
+
+“Hay dos palabras que todo diseñador debería sentirse cómodo diciendo: No y por qué.”
+
+Uno de los mejores argumentos es la enseñanza
+Cuando le enseñas algo a tu interlocutor, la conversación cambia.
+
+María Isabel cierra su charla en PlatziConf con un gran consejo: Sé memorable en todo lo que hagas.

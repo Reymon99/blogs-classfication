@@ -1,0 +1,280 @@
+No pierdas más dinero con Google Ads
+Publicado el 11 de Enero de 2019 por ilorelo
+
+¡Seguro estás perdiendo dinero con Google Ads!
+El presupuesto que no se optimiza, es dinero que tiramos a la basura. Si esto te suena familiar, seguramente estás buscando optimizar tus gastos en Google Adwords. La optimización de campañas es ideal para mejorar los resultados de conversión o darle mejor rendimiento a presupuestos pequeños o limitados. A lo largo de mi carrera como anunciante digital, he aprendido de 5 errores frecuentes al gestionar o planear campañas de publicidad digital.
+
+1.	Entiende el mercado antes de anunciar
+Antes de crear una campaña en esta fabulosa herramienta, te aconsejo que hagas una investigación profunda sobre tu mercado. Un tip útil es contestar estas preguntas:
+
+¿Qué tipo de comportamientos o intereses tienen tus posibles clientes (o prospectos) que conecten con tu servicio o producto? Ejemplo: son viajeros, son amantes a la tecnología, les gusta el conocimiento.
+¿Qué tipo de búsquedas pueden llegar hacer? Este es el momento para identificar palabras claves o keywords, google trends y keyword planner son las herramientas que te pueden ayudar a identificarlas.
+Y por supuesto ¿como está apareciendo tu competencia en motores de búsqueda? esto es fundamental y te ayudará a identificar las búsquedas más competidas del mercado.
+Entender el mercado antes de anunciar te ayudará a planear una campaña exitosa y fácil de optimizar, evitando desperdiciar el dinero en un universo que tal vez no nos interesa conquistar.
+
+2.	Fija objetivos de campaña
+¡Es hora de fijar objetivos de campaña! No fijar objetivos por fase o etapa de campaña, es un error muy frecuente. Dividir nuestros esfuerzos a partir de un embudo o funnel de conversión nos ayuda a entender el comportamiento de nuestro mercado. Así, ejecutar nuestro plan será más fácil pues nos ayuda a estructurar campañas desde un objetivo estratégico desde la configuración. Esto te ayudará a ejecutar presupuestos en objetivos medibles.
+
+Estos son los objetivos que existen:
+Objetivo google ads.PNG
+
+Así puedes usar estos objetivos y los tipos de campañas:
+Funnel tipos de campañas.PNG
+
+3.	Baja el CPC estructurando estratégicamente tus campañas:
+La falta de estructura en una campaña no sólo es el error más grave, si no el más costoso. Estructurar significa segmentar y/o agrupar correctamente las palabras claves partiendo de campañas y grupos de anuncios. Para explicarlo mejor, mostaré un ejemplo de una campaña de búsqueda:
+
+Una correcta estructura de campañas, es dividir tus palabras de marca, otras para intereses y otras para la categoría. Cuando tenemos una sola campaña sin estas clasificaciones, el resultado es un CPC más caro y perderás ranking por calidad. Este es un ejemplo de cómo estructurar tu campaña basados en un funnel o embudo de conversión:
+
+Funnel search google adwords.PNG
+4.	Usa palabras negativas:
+negativo y positivo.PNG
+Las palabras negativas son aquellas en las que NO nos interesa aparecer. Puedes fijarlas desde el inicio de la campaña, categorizarlas y armar una lista en tu biblioteca compartida (o shared library), así será cada vez más fácil implementar una campaña. Aplica esta táctica para emplazamientos (o placement), vídeos y sitios en los que no quieras que tu sitio web se publique. Hacerlo correctamente te ayudará ahorrar mucho dinero en tu presupuesto.
+
+menu palabras claves negativas.png
+5.	Controla tu presupuesto diario:
+presupuetos en adwords.PNG
+Este ha sido un dolor de cabeza para mi y muchos colegas, sobre todo si estamos trabajando en agencias o para clientes que controlan fuertemente el presupuesto de campañas independientes. Mi consejo es controlar el consumo diario para no llevarte sorpresas, pues el algoritmo de Google aumenta el presupuesto automáticamente diario si tus anuncios se están mostrando con mayor frecuencia, es decir si fijamos un presupuesto diario de $100 USD, un día se gastarán $200 USD y quizás no te des cuenta.
+
+Te recomiendo implementar el siguiente Script que te enviará alertas si estás a punto de superar tu presupuesto diario:
+
+// Copyright 2018, Fox Project All Rights Reserved.
+//
+/**
+ * @nombre Alerta de Presupuestos
+ *
+ * @detalles: Este script envía un resumen en tabla de las campañas que consumieron un porcentaje diario del presupuesto definido por el usuario. Dicha tabla contiene los campos, Impressions,Clicks,Conversions,CPC,CPA
+ *
+ * @distribucion: Fox Project Team
+ * @version 1.0
+ * Use under your own responsability none of the authors are responsible for any misuse of this script
+ */
+
+
+var thresholdPercentage = 0.90// Esta es la fracción del presupuesto diario gastado por campaña la cual se enviará por mail las siguientes estadisticas:
+
+var toEmail = 'tuemail@dominio.com'; // Todos los mails serán enviados a esta dirección en caso de ser mas de uno escribirlos separado por comas (Ej:"mail1@domain.com,mail2@domain.com")
+
+var clientName = 'Nombre de la cuenta'; // Nombre del cliente
+
+functiongetTodaysSpend(campaign)
+{
+  var stats = campaign.getStatsFor('TODAY');
+  return stats.getCost();
+}
+
+functiongetTodaysStats(campaign)
+{
+  var stats = campaign.getStatsFor('TODAY');
+  return stats;
+}
+
+functionmain()
+{
+  var account = AdWordsApp.currentAccount();
+
+  var subject = 'Campañas en la cuenta '+account.getCustomerId()+' ('+clientName+') que han consumido al menos ' + (thresholdPercentage * 100).toFixed(0) + '% de su presupuesto diario'; // Asunto del mail
+
+  var outMatrix = [];
+
+  var externalCID = account.getCustomerId();
+
+  var campaignIterator = AdWordsApp.campaigns().get();
+  var shoppingCampaignIterator = AdWordsApp.shoppingCampaigns().get();
+
+  while (shoppingCampaignIterator.hasNext())
+  {
+    var campaign = shoppingCampaignIterator.next();
+    var currBudget = campaign.getBudget().getAmount();
+    var campaignName = campaign.getName();
+
+    var todaysStats = getTodaysStats(campaign);
+
+    var todaysSpend = todaysStats.getCost();
+    var todaysImpressions = todaysStats.getImpressions();
+    var todaysClicks = todaysStats.getClicks();
+    var todaysConversions = todaysStats.getConversions();
+    var todaysCPA = (todaysConversions != 0) ? (todaysSpend / todaysConversions).toFixed(2) : 'N/A';
+    var todaysCPC = (todaysClicks != 0 ) ? (todaysSpend / todaysClicks).toFixed(2) : 'N/A';
+
+    var exhaustedPercentage = ((todaysSpend / currBudget)*100).toFixed(1) + '%';
+    var thresholdSpend = thresholdPercentage * currBudget;
+
+
+    if ( todaysSpend >= thresholdSpend )
+    {
+      outMatrix.push([ externalCID, campaignName, currBudget, todaysSpend, exhaustedPercentage, todaysImpressions, todaysClicks, todaysConversions, todaysCPC, todaysCPA ]);
+    }
+  }
+  Logger.log(outMatrix);
+  while (campaignIterator.hasNext())
+  {
+    var campaign = campaignIterator.next();
+    var currBudget = campaign.getBudget().getAmount();
+    var campaignName = campaign.getName();
+
+    var todaysStats = getTodaysStats(campaign);
+
+    var todaysSpend = todaysStats.getCost();
+    var todaysImpressions = todaysStats.getImpressions();
+    var todaysClicks = todaysStats.getClicks();
+    var todaysConversions = todaysStats.getConversions();
+    var todaysCPA = (todaysConversions != 0) ? (todaysSpend / todaysConversions).toFixed(2) : 'N/A';
+    var todaysCPC = (todaysClicks != 0 ) ? (todaysSpend / todaysClicks).toFixed(2) : 'N/A';
+
+    var exhaustedPercentage = (todaysSpend / currBudget * 100).toFixed(1) + '%';
+    var thresholdSpend = thresholdPercentage * currBudget;
+
+    if ( todaysSpend >= thresholdSpend )
+    {
+      outMatrix.push([ externalCID, campaignName, currBudget, todaysSpend, exhaustedPercentage, todaysImpressions, todaysClicks, todaysConversions, todaysCPC, todaysCPA ]);
+    }
+  }
+  Logger.log(outMatrix);
+  var csvOutput = matrixToCSV(outMatrix);
+
+  var blobOutput = Utilities.newBlob(csvOutput);
+  blobOutput.setName('campaign_stats.csv');
+ var html = [];
+  html.push(
+    '<html>',
+      '<body>',
+        '',
+          "",
+            '',
+            '',
+            '',
+          '
+',
+              "
+Campañas cerca de agotar presupuesto
+",
+            '	',
+              "
+",
+               AdWordsApp.currentAccount().getCustomerId(), '',
+            '
+',
+          '',
+            "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+            '');
+  outMatrix.forEach(function(el) {
+   var i=0; html.push(emailRow(
+      el[i],el[i+1],el[i+2],el[i+3],el[i+4],el[i+5],el[i+6],el[i+7],el[i+8],el[i+9]));
+         });
+  html.push('
+ +
+                  "text-align: center'>Cuenta	 +
+                  "text-align: center'>Campaña	 +
+                  "text-align: center'>Presupuesto diario	 +
+                  "text-align: center'>Consumido	 +
+                  "text-align: center'>Agotado(%)	 +
+                  "text-align: center'>Impressions	 +
+                  "text-align: center'>Clicks	 +
+                  "text-align: center'>Conversions	 +
+                  "text-align: center'>CPC	 +
+                  "text-align: center'>CPA
+', '</body>', '</html>')
+
+  functionemailRow(c1, c2, c3, c4, c5, c6, c7, c8, c9, c10) {
+  var html = [];
+  html.push('',
+      "" + c1 + '',
+      "" + c2 + '',
+      "" + c3 + '',
+      "" + c4 + '',
+      "" + c5 + '',
+      "" + c6 + '',
+      "" + c7 + '',
+      "" + c8 + '',
+      "" + c9 + '',
+      "" + c10 +'',
+         '');
+  return html.join('\n');
+}
+  if (outMatrix.length > 1) {
+  MailApp.sendEmail(toEmail, subject,'', {
+    htmlBody: html.join('\n'),
+    name: 'Stats Emailer',
+    attachments: [blobOutput.getAs(MimeType.CSV)]
+  });
+
+ }
+}
+
+functionmatrixToCSV(matrix)
+{
+    csv = new csvWriter(',', '"');
+    csvOutput = csv.arrayToCSV(matrix)
+    return csvOutput;
+}
+
+functioncsvWriter(del, enc)
+{
+	this.del = del || ','; // CSV Delimiter
+	this.enc = enc || '"'; // CSV Enclosure
+
+	// Convertir objeto en columna CSV
+	this.escapeCol = function (col) {
+		if(isNaN(col)) {
+			// No es booleano or numerico
+			if (!col) {
+				// is null or undefined
+				col = '';
+			} else {
+				// is string or object
+				col = String(col);
+				if (col.length > 0) {
+					// use regex to test for del, enc, \r or \n
+					// if(new RegExp( '[' + this.del + this.enc + '\r\n]' ).test(col)) {
+
+					// escape inline enclosure
+					col = col.split( this.enc ).join( this.enc + this.enc );
+
+					// wrap with enclosure
+					col = this.enc + col + this.enc;
+				}
+			}
+		}
+		return col;
+	};
+
+	// Convierta una matriz de columnas en una fila CSV escapada
+	this.arrayToRow = function (arr) {
+		var arr2 = arr.slice(0);
+
+		var i, ii = arr2.length;
+		for(i = 0; i < ii; i++) {
+			arr2[i] = this.escapeCol(arr2[i]);
+		}
+		return arr2.join(this.del);
+	};
+
+	// Convierta una matriz bidimensional en un archivo CSV de múltiples filas escapado
+	this.arrayToCSV = function (arr) {
+		var arr2 = arr.slice(0);
+
+		var i, ii = arr2.length;
+		for(i = 0; i < ii; i++) {
+			arr2[i] = this.arrayToRow(arr2[i]);
+		}
+		return arr2.join("\r\n");
+	};
+}
+
+Aprender de los errores nos hace crecer. Pronto lanzaremos un nuevo y renovado curso de Google Adwords. ¿Qué errores han cometido al ejecutar tus campañas? Escríbeme tu respuesta en los comentarios y aprendamos de los errores.
+
+Soy Ivon López outbound specialist en Platzi sígueme en:
+
+Twitter: @ilorelogi
+instagram: @ilorelogi

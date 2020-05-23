@@ -1,0 +1,51 @@
+¿Para qué y cómo hacer una página web?
+Publicado el 25 de Agosto de 2018 por Danielalala
+
+Seguramente si trabajas en un proyecto que está creciendo, te estarás enfrentando a la necesidad de tener tu propia página web; sin importar si estás en el campo de la cultura, la economía, la política, la comunicación o, en general, la venta de productos y/o servicios de cualquier tipo.
+
+carl-heyerdahl-181868-unsplash.jpg
+Esto es totalmente natural, pues en este momento y en plena era de la economía de la información, cualquier proyecto o emprendimiento necesita un buen posicionamiento en Internet para crecer y fortalecerse de la mejor manera. Así que, además de tener una buena estrategia de redes o email marketing, es fundamental que tus clientes, usuarios o seguidores, puedan encontrarte en la red.
+
+Por esta razón en este blogpost te daré algunas pistas que puedes seguir para darle vida a tu proyecto de página web. Estos tips podrás ejecutarlos aprendiendo los contenidos de la Carrera de Arquitectura Frontend y siguiendo tanto sus cursos básicos, como sus cursos opcionales.
+
+Bueno, lo primero en lo que tienes que pensar es que, es necesario que seas estratégico. Ten en cuenta que tu página va a ser ese lugar que alojará a todos los usuarios que estén interesados en tu producto o servicio y, además, va a ser el lugar de llegada para quienes vengan de otros espacios virtuales como redes sociales, e-mails, foros, wikis, etc.
+
+De esta manera, al construir tu estrategia ten en cuenta los siguientes pasos:
+
+Define qué quieres hacer, para qué quieres hacerlo y qué necesitas para lograrlo.
+
+La idea de esto es que, en primer lugar, veas claramente cuál es la necesidad que tienes, ¿quieres vender un producto, quieres vender un servicio, quieres crear conexiones más cercanas con tu público o conseguir seguidores?
+
+alexis-fauvet-499829-unsplash.jpg
+Después de saber cuál es tu necesidad, haz una lista de posibles soluciones que tu página web podría brindar para resolver este problema.
+
+Piensa, por ejemplo, en qué secciones interactivas debería tener, ¿necesitas un botón de compra, formularios, casillas de inscripción, galerías de imágenes, espacio para videos, espacios para texto, botones para redirigir a redes sociales, contenidos gráficos, sonoros, estéticos…?
+
+Al pensar en esto, tendrás una primera idea sobre cuáles son las herramientas que necesitarás para brindar una experiencia óptima y, a su vez, sabrás en qué elementos técnicos tendrás que trabajar para hacer posible tu página. No olvides que entre más claro tengas este punto, más fácil será la etapa de ejecución y, además, ten en cuenta que todas las decisiones de programación y diseño dependerán de estos puntos.
+
+Justo acá, te recomiendo revisar este blogpost en donde encontrarás una breve explicación sobre los cursos opcionales que tenemos en la Carrera de Arquitectura Frontend, en todos ellos se desarrollan proyectos específicos sobre las necesidades que hay al momento de realizar el desarrollo frontend de cualquier web, así que: elige el que encuentres más pertinente para tu proyecto.
+
+Ya teniendo claro qué vas a hacer, cómo planeas hacerlo, debes pensar en cómo le hablarás a tu público: puede ser que le estés dando la solución necesaria al problema, pero debes pensar en maneras de hablarle (en términos estéticos, en cuanto a lo gráfico y lo audiovisual, y también, en cuanto al tono que apliques en tus textos o lenguaje oral, si tienes audios).
+
+Este elemento es muy importante, pues a veces puede ser que lo tengas todo listo y sencillamente no establezcas empatía en la forma en la que comunicas la experiencia de interacción que estás ofreciéndole a tus usuarios, esto puede hacer fracasar tu proyecto.
+
+jon-tyson-232630-unsplash.jpg
+Por último, procura hacer pruebas: ensaya, comprueba, equivócate, construye sobre el error y continúa mejorando.
+
+El trabajo de diseñar una experiencia, -en este caso sería la experiencia de la navegación en tu página web-, siempre será un trabajo constante y requerirá de prueba y error. Especialmente en un soporte como internet, en donde todos los días, gracias a la programación y al trabajo de desarrollo, diseño y comunicación, podemos ofrecer y construir nuevas posibilidades.
+
+Entonces, en conclusión, los pasos básicos que debes hacer son:
+
+Define: qué quieres hacer, para qué quieres hacerlo y qué necesitas para lograrlo.
+
+Diseña una estrategia de acción, ya teniendo claridad sobre tus recursos y necesidades.
+
+Establece tu estrategia de comunicación, según el perfil de tu audiencia.
+
+Desarrolla tu objetivo aplicando diversas herramientas y pruébalo.
+
+Pon a prueba tu página, es decir, anímate y muéstrasela a otros posibles usuarios.
+
+Una vez hayas hecho lo anterior, repara lo que sea necesario y cambia aquello que veas que puede ser mejor. Piensa en esta última etapa como un estado constante, sobre todo si tu página es un proyecto a larga data.
+
+johnson-wang-515995-unsplash.jpg

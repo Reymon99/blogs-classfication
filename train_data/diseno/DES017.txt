@@ -1,0 +1,64 @@
+Cómo hacer un diseño efectivo con jerarquía visual
+Publicado el 20 de Noviembre de 2018 por unavacaverde
+
+La jerarquía visual es la organización de los elementos en un diseño según su importancia. Controlarla nos permite dirigir el orden de lectura y así garantizar que el diseño cumpla su objetivo.
+
+En este artículo aprenderemos cuáles son las propiedades que le dan peso a los elementos del diseño y cómo podemos usarlas para construir una jerarquía sólida en cualquier proyecto.
+
+¿Qué vemos primero?
+Este diseño de empaque creado por la agencia Midday es un ejemplo de buena jerarquización.
+
+verprimero.jpg
+Es evidente el orden de importancia de los elementos principales
+
+1. Marca - Well & Trully
+2. Producto - Crunchy Cheese Sticks
+3. Detalles del producto - lovingly baked, etc.
+4. Características de la marca - 40% less fat, etc.
+5. Información adicional - 93 cals
+
+Esta jerarquía visual fue el objetivo de los diseñadores para este empaque y deliberadamente decidieron cuál era la importancia de cada elemento. La marca está primero que el producto porque es una marca nueva y necesitan posicionarla. La información adicional de calorías es una obligación legal que no tiene mucha relevancia para la empresa y por eso queda relegada al último lugar.
+
+La jerarquización ayuda al espectador, cliente o usuario a obtener rápidamente la información más relevante que queremos entregar.
+
+¿Cómo se logra?
+
+Peso visual
+Hay propiedades visuales que dan más o menos interés a un elemento. Estas son las más importantes:
+
+Tamaño
+Es la característica más evidente; mientras más grande sea un elemento en relación a los demás más peso visual tiene
+
+tamano2.jpg
+Color
+Es común que un color más brillante o más cálido tiene más peso pero la realidad es que depende de los colores a su alrededor.
+
+color1.jpg
+Lo importante para asignar peso al color es ver la relación con los otros colores y aumentar o disminuir su contraste.
+
+color4.jpg
+Espacio
+Aquí tenemos en cuenta tres factores. El primero es la posición en X y Y. En occidente estamos acostumbrados a leer de izquierda a derecha y de arriba a abajo, por eso un elemento tiende a tener más importancia si se encuentra primero en ese orden de lectura.
+
+espacioxy.jpg
+En este landing page el peso de la ilustración, por su tamaño y contraste de color, podría considerarse como el elemento más importante, pero el título está ubicado exactamente en el punto de partida de lectura natural, llevándose el primer lugar en la jerarquía.
+
+El segundo es la posición en Z o la profundidad. Los elementos de diseño que parezcan estar más cerca del espectador al proyectar sombras o simular volumen van a ganar peso visual.
+
+espacioz.jpg
+El tercero es el espacio en blanco. A mayor espacio vacío rodeando un elemento, más atención recibe.
+
+espacio_blanco.jpg
+El contraste es la clave
+Cuando hablamos de contraste nos referimos a la diferencia entre la misma propiedad de los elementos. Es decir que si buscamos jerarquizar dos textos con el tamaño, debe haber una diferencia clara. Un título de 24 pixeles y un subtítulo de 25 no tienen suficiente contraste para generar jerarquía. Esto mismo aplica para todas las propiedades que dan peso visual.
+
+contraste.jpg
+Este cartel tiene únicamente dos colores y es completamente tipográfico. Aún así la jerarquía es muy clara gracias al contraste tan marcado en los tamaños de fuente
+
+Todas las propiedades importan
+Ahora que conocemos las herramientas debemos tener en mente que en un diseño todas conviven y aportan al peso visual.
+
+todoaporta.jpg
+Esto es de especial utilidad cuando estamos componiendo el diseño. Supongamos que tenemos un elemento que necesita ser muy grande pero no queremos bajarle el peso visual: en este caso podemos reducir el contraste de color o ubicarlo en una posición menos relevante.
+
+Entender la jerarquía nos da el criterio necesario para juzgar cualquier diseño y evaluar su efectividad. Ya tenemos las herramientas para identificar y garantizar que nuestros proyectos cumplan su objetivo de comunicación. Cuando todo es importante, nada lo es.

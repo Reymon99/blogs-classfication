@@ -1,0 +1,61 @@
+Crea tu primer funnel de marketing con Facebook Ads
+Publicado el 3 de Noviembre de 2018 por juribe
+
+Todos en la industria del marketing hemos escuchado sobre el funnel de marketing o el funnel de conversión, donde nos hablan de las etapas que un usuario/cliente pasa hasta el momento de generar la compra.
+
+Estas etapas son:
+
+- Etapa 1: Reconocimiento
+El principal objetivo acá es dar a conocer tu negocio, que sepan de ti.
+
+- Etapa 2: Consideración
+Tu meta es empezar a generar prospectos, que empiecen a interactuar, que compartan y comenten tu contenido o visiten tu sitio web.
+
+- Etapa 3: Conversión
+En esta etapa tu objetivo será convertir todos los posibles prospectos en clientes finales. Tu audiencia será más pequeña pero su calidad será muy buena.
+
+En este post te daremos unos tips para que puedas crear este funnel utilizando las herramientas de segmentación y los objetivos de campaña que Facebook Ads proporciona. Para esto, primero debemos responder las siguientes preguntas:
+
+¿En qué etapa se encuentra tu negocio?
+Lo primero que tienes que hacer es definir en qué etapa del funnel se encuentra tu negocio.
+
+¿Cual es tu buyer persona o cliente ideal?
+Acá tienes que definir cuál es tu audiencia o cliente potencial, y para segmentarlas, en Facebook Ads cuentas con tres tipos de audiencias muy potentes:
+
+Segmentación nativa: Género, edad, ubicación, intereses, comportamientos, etc.
+Públicos personalizados: Personas que interactúan, tráfico del sitio web, bases de datos, etc.
+Públicos similares: Nos ayuda a encontrar nuevas personas en Facebook que se parezcan a tus públicos personalizados existentes.
+¿Con cuál objetivo de campaña iniciar?
+Después de definir tu audiencia, vamos a ver los objetivos o tipos de campaña que Facebook tiene. Si ya has tomado el Curso de Facebook Ads, seguro conocerás estos tipos de campaña; si no, acá puedes verlos. También puedes ingresar a platzi.com/facebook y tomar el curso para conocer este tema en detalle.
+
+Captura de pantalla 2018-10-31 a la(s) 11.22.03 a. m..png
+Como puedes ver, Facebook separa los diferentes tipos de campaña según este funnel de marketing. Esto te va a ayudar a escoger el objetivo que se adapte a la etapa en la que tu empresa, idea de negocio o startup se encuentre.
+
+Armando nuestro funnel
+Una vez has respondido las preguntas y tienes definido en qué etapa del funnel se encuentra tu empresa, conoces cuál es tu cliente potencial y sabes qué objetivos vas a usar, puedes empezar a crear este funnel.
+
+Acá te dejo un ejemplo práctico y muy efectivo para la construcción del funnel, que se puede adaptar a cualquier vertical o modelo de negocio:
+
+Etapa 1: Reconocimiento.
+
+En esta etapa seleccionaremos un objetivo que genere alcance, y utilizaremos la segmentación nativa para poder tener un alcance grande e ir filtrando nuestra audiencia.
+
+Captura de pantalla 2018-10-31 a la(s) 11.03.03 a. m..png
+Etapa 2: Consideración
+
+Acá ya nos encontraremos con una audiencia más calificada. Los objetivos de campaña que utilizaremos estarán más enfocados en generar una acción. La audiencia que utilizaremos será de personas que ya mostraron algún interés con nuestra primera etapa.
+
+Captura de pantalla 2018-10-31 a la(s) 11.03.12 a. m..png
+Etapa 3: Conversión
+
+En la última etapa de nuestro funnel, llegaremos a una audiencia que definitivamente tiene la intención de adquirir nuestro producto o servicio, como personas que han agregado nuestros productos al carrito o que han iniciado nuestro proceso de compra. El objetivo que utilizaremos nos permitirá hacer el seguimiento de las compras generadas.
+
+Captura de pantalla 2018-10-31 a la(s) 11.03.20 a. m..png
+Al final tendremos un funnel como este:
+
+Captura de pantalla 2018-10-31 a la(s) 11.37.25 a. m..png
+Lo más importante es que hagamos el seguimiento y las optimizaciones necesarias de acuerdo con el objetivo de cada etapa; es decir, si en etapa 1 nuestro objetivo es generar alcance, nuestras optimizaciones se deben hacer en función al alcance, y así para cada etapa.
+
+Espero esta información sea de gran ayuda para todos y le podamos sacar el mayor provecho.
+
+¡Larga vida a los Ads!

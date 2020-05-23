@@ -1,0 +1,15 @@
+Aprende Firebase en un minuto
+Publicado el 2 de Noviembre de 2018 por anncode
+
+¿Tienes un minuto? Esto es todo lo que necesitas para aprende sobre Firebase. Platzi te trae una introducción flash para que el próximo minuto sea muy productivo. ¡Empecemos!
+
+
+Transcripción:
+Cuando trabajes con Firebase la mayoría del tiempo tendrás dos cosas en común, una va a ser datos “real time” y usuarios que acceden a estos datos a través de una aplicación. En la industria profesional es muy común manejar niveles de acceso para usuarios, es decir, algunos tendrán mayor acceso preferencial a cierta información que otros.
+
+Por ejemplo, si deseas que la información solo esté disponible para usuarios autenticados o deseas que unos tengan un perfil de administrador, los cuales serán los únicos con permiso para añadir contenido. Para manejar todo esto usamos las reglas de seguridad de Firebase, donde controlamos todas las acciones y niveles de acceso de usuarios hacia nuestra data.
+
+firebase2.jpg
+La sintaxis para la escritura de estas reglas es muy similar a JavaScript y va totalmente relacionado con la estructura JSON de los datos que tengas en real time. Puedes localizar y editar las reglas en la Firebase Consult, solo tienes que seleccionar tu proyecto, después pasas a la sección de database y seleccionas la pestaña “reglas”.
+
+Aprende a configurar las reglas de seguridad de tus aplicaciones en el Curso de Firebase para Web.

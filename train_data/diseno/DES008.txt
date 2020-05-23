@@ -1,0 +1,35 @@
+¿Por qué crear un patrón de diseño para la interfaz de usuario?
+Publicado el 7 de Marzo de 2018 por AyKaren
+
+Los Patrones de Diseño o Patrones de Interfaz de Usuario (UI) son soluciones de diseño para resolver problemas comunes en temas de interacción e interfaces de aplicaciones.
+
+Estos patrones cumplen su función basados en una serie de objetivos:
+
+Ser elementos de diseño reusables. Nos dan la oportunidad de tener un catálogo amplio de elementos que podemos reusar en nuestros diseños de acuerdo al tipo de problema que estemos intentando resolver.
+Es importante mencionar que estos patrones surgieron a partir de investigaciones de otros productos por lo que cuentan ya con la validación de que pueden resolver cierto problema.
+Por ejemplo: Menú de hamburguesa. Este patrón es reciclable y nos ayuda a solucionar el tema de navegación para que el usuario conozca los rincones de nuestra aplicación.
+hamburger-menu-3-850x476.jpg
+Evitar reiteraciones. Una vez que existe un problema que va a ser constante en el diseño de una interfaz, tiene todo el sentido crear una solución que se pueda reusar y no repetir el proceso de solución.
+
+Estandarizar el diseño. No propone un estándar en la tendencia del diseño, lo que propone es un estándar en las soluciones de diseño.
+
+Condensa el conocimiento. Permite que nuevos diseños puedan contar con las soluciones estandarizadas para los problemas comunes.
+
+Ahorro de tiempo y mejora en la efectividad de una aplicación. Ayudan a que la interacción y el flujo del usuario en una aplicación sea más amigable y natural.
+
+Clasificación de los Patrones de Diseño o de UI
+Patrones de Interacción: Comunicación fluida entre una aplicación y el usuario.
+
+Patrones de Usabilidad: Mejores soluciones para los problemas de uso entre el usuario y una aplicación.
+
+Patrones Arquitectónicos: Interacción de elementos entre niveles de Arquitectura de Información.
+
+Pero, Señor Freddy ¿Esto es copiar?
+
+Usar un patrón de diseño no es copiar, sino utilizar una solución conocida y probada, como ya lo mencionamos antes, a un problema frecuente. Muchos diseñadores de interfaces nos topamos con problemas parecidos en nuestro día a día, y hay quienes ya probaron la eficiencia de ciertas soluciones.
+
+Asimismo, utilizar patrones de diseño nos ayuda a ser consistentes con el mundo exterior. Es dar cuenta que los usuarios de un producto también usan muchos otros y probablemente están acostumbrados a ciertas formas de navegar y encontrar los mismos componentes.
+
+Por último, siempre tener con qué comenzar nos ayuda a la creatividad: no es lo mismo empezar con una hoja en blanco que tener ciertos elementos que ordenan nuestros diseños. Utilizar patrones que ya funcionan en otros productos nos ayudará a organizar mejor la estructura de nuestros diseños.
+
+Tú ¿Qué patrones de diseño identificas que has utilizado y cómo lo has hecho? ¡Cuéntale a la comunidad!

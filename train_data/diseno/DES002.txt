@@ -1,0 +1,40 @@
+¿Qué es y para qué sirve un Design Sprint?
+Publicado el 21 de Agosto de 2018 por benjibel
+
+Luego del boom de los startups y de comenzar a ver cómo muchos de ellos perecían, Google creó Google Ventures con sus mejores especialistas, para asesorar emprendimientos que estaban comenzando.
+
+Luego de escuchar los problemas de distintos grupos de trabajos, sus desafíos a nivel comunicación, y ejecución de ideas, fueron mejorando y puliendo una metodología que llamaron Design Sprint.
+
+Esta metodología busca resolver desafíos o problemas en 5 días, a partir de trabajar el problema en equipos diversos, dividiéndolo en etapas.
+
+Utilizarás cada día para concentrar todas las energías en un tipo de actividad.
+
+A continuación te contamos un resumen de lo que trabajarás cada día, puedes ver el proceso más detallado en el Curso de Design Sprint para conocer los ejercicios y desafíos puntuales a resolver cada día.
+
+Design Sprint.jpg
+Día 1: Define el desafío o meta a largo plazo
+
+Aquí analizamos entre todos los integrantes de un sprint (idealmente no más de 7 personas) la información que tenemos del producto y el problema. Para esto puedes tomar datos cuantitativos o cualitativos que tengan de investigaciones previas, o de herramientas como Google Analytics que te cuenten sobre tus usuarios.
+
+También puedes aprender entrevistando a los expertos detrás de la construcción/idea inicial de ese producto, y definiendo a tu usuario ideal.
+
+Día 2: Busca inspiración
+
+Este día nos concentramos en generar soluciones en un proceso estructurado. Puedes usar técnicas de prototipado veloz como Crazy Eight (o los “8 Locos”).
+Cada persona prototipará o dibujará distintas formas en las resolvería el problema, y se las cuenta al resto del equipo. Todavía no se decide nada, sólo pensamos y creamos distintas soluciones individualmente.
+
+Día 3: La decisión
+
+En equipo votamos las mejores propuestas, analizar la viabilidad y potencialidad de cada una nos ayuda a entender las necesidades de cada equipo y las posibilidades reales que tenemos.
+
+Día 4: Prototipado
+
+En este día nos concentramos en crear un prototipo lo más parecido a la realidad posible, de acuerdo a lo que decidimos en equipo el día anterior. El prototipo deberá quedar listo para ser testeado al día siguiente con 5 usuarios.
+
+Día 5: Entrevistamos usuarios
+
+Antes de comenzar el Design Sprint, asegúrate de conseguir 5 usuarios ideales de la aplicación o producto que deseas probar. En este día se dedicarán a entrevistarlos y darles a conocer su prototipo para que interactúen con él. Aprende a conocer los momentos más dolorosos de la experiencia de tus usuarios, sus expectativas y a ajustar tu modelo de negocio a sus contextos.
+
+Al cerrar la jornada, el equipo arma un Reporte sumario en el que reflexionan entre todo el aprendizaje principal del proceso, especialmente respecto a la interacción con los usuarios. Con esta información, podrán determinar los próximos pasos a seguir con el producto. También será útil para futuras iteraciones que detallen el tipo de feedback que recibieron, fue positivo? negativo? respecto de qué? Validaron alguna hipótesis? Todo aquello que pueda servir a futuro, es mejor detallarlo.
+
+¿Qué clase de problemas resolverías con un Design Sprint? Descubre la metodología y los ejercicios que cambiarán la forma de ver los desafíos de tu producto.
