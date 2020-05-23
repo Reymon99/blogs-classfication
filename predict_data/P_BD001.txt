@@ -1,0 +1,43 @@
+Las métricas más importantes en una campaña de email marketing
+Publicado el 23 de Noviembre de 2017 por paulaandreabecerra
+
+Medir una campaña de email marketing es fundamental para saber si estamos siendo eficientes o no. Todo profesional en marketing debe saber cómo llevar una campaña de email marketing, además debe poder ir más allá de los números básicos de apertura y clicks.
+
+En este material te hago una introducción a las métricas que debes tener en cuenta para que tu campaña sea mucho más efectiva.
+
+business-metrics.jpg
+Tasa de apertura (Open Rate):
+Con la tasa de apertura sabrás cuántas personas deciden abrir tu email. Con esta medición puedes saber qué tan efectivos son los asuntos que pones en tus correos. Hacer pruebas A/B siempre ayudan a identificar qué asuntos son mejores que otros. Usa esta técnica para conocer cómo puedes hacer que tu audiencia se interese más por tus emails.
+
+Tasa de clicks (Click-Through-Rate)
+Esta medición te da información sobre el número de usuarios que llegaron a tu sitio a través del email que enviaste. Con estos datos puedes determinar cuáles son las campañas de promociones y descuentos más efectivas.
+
+Aunque estas dos medidas nos dan información relevante sobre nuestras campañas, además podemos tener en cuenta otras que sin duda nos van a abrir puertas a datos mejores y más específicos.
+
+Tasa click por apertura (Click-to-open-rate)
+Con este indicador podemos calcular clicks únicos con respecto a aperturas únicas, lo que nos permite saber cuál es el enganche real de los emails que enviamos.
+
+¿Qué son?
+Cuando enviamos un email este puede ser abierto en varias ocasiones, cuando medimos solo las aperturas únicas sabemos cuántas personas vieron el mail solo una única vez.
+
+Tasa de Conversión
+Esta métrica indica cuántas personas han completado una acción específica, como el click a un CTA o llamado a la acción o llenar un formulario. Con esto medimos qué es lo que mejor funciona en el diseño de los emails.
+
+Costo de Adquisición (CPA)
+Es el valor que nos cuesta adquirir un nuevo cliente, lo que quiere decir que es el dinero que invertimos en que un lead se convierta en un cliente.
+
+Esta medición nos ayuda a saber cuánto dinero estamos gastando y qué tan efectivas son las campañas que lanzamos.
+
+Tasa de Rebote o Bounce Rate
+Algunos correos que a los que enviamos campañas de correo rebotan o no se pueden entregar. Además de dañar tus estadísticas, pueden también dañar la confianza que tus clientes tienen en tu marca.
+
+Tener una alta tasa de rebote es un indicador de que estás teniendo malas prácticas en tus campañas de email marketing.
+
+Tasa de suscriptores que se dan de baja
+Tener en cuenta el número de personas que se desuscriben de nuestra lista de correos nos da una idea de si las campañas que enviamos son efectivas.
+
+Si tienes un newsletter podrás identificar si este número crece y si deberías hacer cambios en tus envíos.
+
+Para el email marketing las métricas son la base de todas las decisiones que se toman, como profesionales en marketing siempre debemos estar atentos a ellas y dirigirnos a un mayor éxito, siempre basado en datos.
+
+Si te interesa aprender más sobre email marketing te invito a que tomes el Curso de Email Marketing de Platzi.

@@ -1,0 +1,60 @@
+Qué es Design Sprint: un paso a paso para validar un producto
+Publicado el 13 de Noviembre de 2018 por maldeadora
+
+Design Sprint es una metodología que permite prototipar y validar ideas con usuarios finales de manera rápida, con el fin de definir el roadmap de un producto en 5 fases. Este método fue creado por Google Ventures en 2010, después de haber estudiado cientos de estrategias de User Research y Design Thinking, el Design Sprint reúne las más efectivas y propone una forma de trabajar que te permitirá lanzar pronto e iterar para tener un producto exitoso.
+
+Un sprint es una carrera a máxima velocidad. Si tienes una idea de negocio y quieres emprender probablemente estás en esa etapa de definición de tu producto o servicio y sabes que el tiempo es oro, pues normalmente está relacionado con la cantidad de dinero que tienes disponible. El Design Sprint te permitirá saltar de tener una idea a aprender de usuarios reales antes de construir algo por completo.
+
+Fases de Design Sprint
+Esta información fue adaptada del Design Sprint Kit de Google y de la documentación oficial de Google Ventures.
+
+0. Preparación
+Asegúrate de tener todo listo antes de empezar. Ten en cuenta que el proceso va a tomar de 3 a 5 días y el tiempo de las personas que trabajan contigo es muy valioso. No debería haber más de 7 personas en un Design Sprint.
+
+En este artículo, hacia el final, te dejo un Checklist para reuniones efectivas.
+En la documentación de Design Sprint de Google Ventures hay un checklist para preparar el espacio donde vas a trabajar.
+
+Escribe un brief para que todos los participantes conozcan el reto, las metas y cuál será el entregable al finalizar el Sprint.
+
+Adelanta trabajo de investigación de usuarios. Si ya cuentas con algo de información sobre tus usuarios la fase de preparación te sirve para recolectarla e identificar dónde hay brechas o cosas que no conoces. En el caso de que recién estés empezando vale la pena que te prepares antes de llegar al Sprint, pues la idea es que el proceso no tome más de 5 días, pero una investigación de usuarios puede tomar más tiempo. (En el curso de Diseño de Interfaces y UX tenemos un módulo completo sobre User Research)
+
+Organiza tu equipo, entre 5 y 7 personas de equipos diferentes, que conozcan el producto y que conozcan a tus usuarios. Cuando trabajas en un proyecto grande probablemente estas personas son un equipo establecido o están entre el equipo de Producto y el de User Experience. En empresas más pequeñas recomendaría mucho incluir a alguien del equipo de soporte, que está en contacto constante con los usuarios y que los puede representar.
+
+Encuentra el espacio adecuado para trabajar. Asegúrate de que cada participante tenga un lugar y suministros para tomar apuntes, e incluso ir creando prototipos.
+
+Hasta ahora no ha empezado el Design Sprint. La preparación es importante si quieres sacar el mayor provecho de esta metodología. Ahora si, comencemos.
+
+
+Design Sprint Kit, Google.
+
+1. Entender
+La idea de esta fase es que el equipo comprenda completamente el reto que fue definido en la etapa de preparación. Todos deben estar alineados y partir de la misma base de conocimiento para que el resto de pasos funcionen.
+
+Aquí la idea es que cada integrante del equipo de Design Sprint tenga la oportunidad de hablar y mostrar lo que conoce acerca del problema que se va a atacar desde su perspectiva y su área de trabajo. Cada intervención dura alrededor de 10 minutos, y aquí vemos nuevamente la importancia de la fase de preparación, pues este primer paso será eficiente en la medida en que todos lleguen listos.
+
+2. Bocetar
+Después de tener claro cuál es el reto hay que empezar a enfocarse en las soluciones rápidamente. En esta fase cada participante del Sprint tiene la oportunidad de hacer su propia lluvia de ideas de manera individual.
+
+Si tienes la idea de que un Design Sprint es una reunión en la que hay un montón de personas hablando y proponiendo, verás que esta etapa es justamente lo contrario, pues promueve de manera activa el trabajo individual y en silencio. Cada persona deberá crear sus bocetos y después vendrá el momento de compartirlos con los demás. No hace falta tener habilidades de diseño, aquí prima el pensamiento crítico sobre lo artístico.
+
+3. Decidir
+En esta fase se determinará qué es lo que se va a prototipar. Ya para este punto debes tener un montón de ideas y de posibles soluciones, así que es la hora de votar por las mejores y generar un consenso entre el equipo del Sprint.
+
+Ponerse de acuerdo a veces no es fácil, pero es importante en este proceso, pues no puedes probar todas las ideas que salgan. Después de esto, dentro de esta misma fase, hay que crear un storyboard, que básicamente consiste en un paso a paso para crear el prototipo de la fase siguiente.
+
+4. Prototipar
+Construye únicamente lo que vas a testear. Esta es la filosofía de la fase 4 del Design Sprint. El prototipo solo debe incluir los elementos necesarios para validar la solución con usuarios reales, y justamente por esto deberías poder diseñarlo en un día.
+
+Esta fase puede ser difícil, pero ten en cuenta que el día anterior ya se tomaron todas las decisiones importantes, que deben verse reflejadas en el storyboard. En esta etapa no deberías volver a cuestionar lo que ya quedó definido, si estás llevando el proceso correctamente debes avanzar.
+
+Algo que sirve mucho para generar el prototipo rápidamente es dividir al equipo y asignar tareas específicas. Además de tener esto listo, en este día deberás trabajar en la entrevista que vas a hacer a los usuarios al día siguiente.
+
+5. Validar
+En este punto has trabajado mucho, si asignaste un día entero a cada fase y seguiste los pasos de manera correcta puedes sentir como que has tenido una semana muy productiva, pero es en este último en el que realmente verás los resultados.
+
+La etapa de validación consiste en observar a los usuarios interactuar con el prototipo y aprender del feedback directo. La idea es que todo el equipo del Sprint tenga la oportunidad de ver estas sesiones, pues cuando aquellos que construyeron un producto obtienen retroalimentación inmediata de quienes lo usan pueden entender de nuevo y saber, a ciencia cierta, qué es lo siguiente que hay que hacer para mejorar. Los siguientes son pasos seguros.
+
+Recapitulación:
+Al terminar un Design Sprint es importante reunir a todo el equipo, exponer los hallazgos y discutir los siguientes pasos para el proyecto.
+
+¿Has participado en un Design Sprint? ¿Conoces otras metodologías de diseño? Cuéntame en los comentarios si te gustaría aprender más sobre este framework y tener un curso completo en Platzi.

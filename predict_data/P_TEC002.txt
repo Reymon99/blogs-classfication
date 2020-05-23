@@ -1,0 +1,152 @@
+Tutorial: Crea un Login Social con Django
+Publicado el 10 de Septiembre de 2018 por iKenshu
+
+Uno de los componentes que solemos agregar a nuestros sitios tiene que ver con la capacidad de registrarse o iniciar sesión con una red social. Así como Platzi tiene las opciones de Twitter y Facebook. En el Curso de Django el proyecto principal sobre el que se trabaja es Platzigram, un clon de Instagram.
+
+Así como en Instagram se puede usar Facebook para registrarnos e iniciar sesión, en este tutorial me gustaría enseñarte una manera sencilla de agregárselo a este proyecto.
+
+Usaremos django-allauth, nos da esa posibilidad de agregar las cosas que necesitamos.
+
+Instalación
+En mi caso prefiero usar Pipenv, pero pueden usar el manejador de paquetes que prefieran como pip
+pipenv install django-allauth
+
+Después necesitamos agregar un par de cosas en nuestro archivo settings.py y así todo pueda funcionar de manera adecuada, primero una nueva variable en nuestro archivo. Una lista de clases de autenticación.
+
+AUTHENTICATION_BACKENDS = (
+    # Necesario para logear por username en Django admin, sin importar allauth
+    'django.contrib.auth.backends.ModelBackend',
+
+    # Metodo de autenticación especifico de allauth, como logear por email
+   'allauth.account.auth_backends.AuthenticationBackend',
+)
+Por supuesto, debemos instalarla en nuestro INSTALLED_APPS para que Django pueda reconocerla. Yo he separado las que ya teniamos de esta manera, me parece más ordenada.
+
+DJANGO_APPS = (
+    'django.contrib.admin',
+    'django.contrib.auth',
+
+    # Esta esa nueva para django-allauth
+    'django.contrib.sites',
+
+    'django.contrib.contenttypes',
+    'django.contrib.sessions',
+    'django.contrib.messages',
+    'django.contrib.staticfiles',
+)
+THIRD_PARTY_APPS = (
+    'allauth',
+    'allauth.account',
+    'allauth.socialaccount',
+    'allauth.socialaccount.providers.facebook',
+)
+LOCAL_APPS = (
+    'posts',
+    'users',
+)
+
+INSTALLED_APPS = DJANGO_APPS + THIRD_PARTY_APPS + LOCAL_APPS
+
+SITE_ID = 1
+Podrás darte cuenta al final que he agregado un SITE_ID ya que esto lo usa allauth, por estar probando en desarrollo es muy probable que sea 1, pero esto puede cambiar dependiendo de los sitios que agreguemos en nuestro admin.
+
+Y esto lo podemos colocar al final de nuestro archivo settings o donde hemos estado colocando nuestras nuevas variables.
+
+ACCOUNT_EMAIL_VERIFICATION = "none"
+SOCIALACCOUNT_PROVIDERS = {
+    'facebook': {
+        'METHOD': 'oauth2',
+        'SCOPE': ['email', 'public_profile', 'user_friends'],
+        'AUTH_PARAMS': {'auth_type': 'reauthenticate'},
+        'INIT_PARAMS': {'cookie': True},
+        'FIELDS': [
+            'id',
+            'email',
+            'name',
+            'first_name',
+            'last_name',
+            'verified',
+            'locale',
+            'timezone',
+            'link',
+            'gender',
+            'updated_time',
+        ],
+        'EXCHANGE_TOKEN': True,
+        'LOCALE_FUNC': 'path.to.callable',
+        'VERIFIED_EMAIL': False,
+        'VERSION': 'v2.12',
+    }
+}
+La primera le dice a django-allauth que no necesitamos verificación vía email, de lo contrario intentará mandar un correo y nos generará un error porque no tenemos esa parte configurada. La segunda es nuestro providers, esto dependerá de la red social que queramos tener, se pueden todas las disponibles en la documentación de django-allauth. La de facebook por defecto es esta pero podemos cambiar la sección FIELDS o SCOPE como creamos conveniente.
+
+Ahora debemos ejecutar ./manage.py makemigrations y ./manage.py migrate para agregar las tablas que necesitamos en la base de datos para las aplicaciones que instalamos. Al terminar podemos ir a nuestro admin para encontrarnos con opciones nuevas.
+
+Facebook App
+Antes de continuar, necesitamos generar nuestros Key para decirle a facebook que estamos usando su API. Para ellos puedes ir a https://developers.facebook.com/ > My Apps > Add New App, allí deberás colocar un nombre para tu app y un correo de contacto, es obligatorio. A continuación Facebook te dará un APP ID y APP SECRET
+
+
+Le damos donde dice Facebook Login, la hacemos para web por supuesto y colocamos como URL http://localhost:8000/ y al resto de cosas lo podemos dar continuar y volver a nuestro dashboard y en settings podemos encontrar nuestro App Secret
+En nuestros settings.py podemos colocar nuestras dos variables
+
+SOCIAL_AUTH_FACEBOOK_KEY = 'key'
+SOCIAL_AUTH_FACEBOOK_SECRET = 'key'
+Últimos detalles
+En nuestro admin, debemos agregar también esas llaves que nos da facebook y cambiar lo que tenemos en la sección Sites, ahi tenemos un sitio como example.com, ese debemos cambiarlo a http://localhost:8000/ tanto en Domain Name y Display Name.
+
+Como vimos en la primera imagen tenemos una sección llamada Social Applications y agregamos una nueva
+
+
+En provider debería aparecer lo que tenemos en nuestro settings.py, en este caso Facebook. En Name pueden colocar lo que prefieran, yo en mi caso coloque facebook_login, Client id colocamos nuestro APP_ID dada por facebook o lo que es igual, nuestro SOCIAL_AUTH_FACEBOOK_KEY y en SECRET_KEY colocamos lo puesto en nuestro SOCIAL_AUTH_FACEBOOK_SECRET.
+
+También hay que escoger nuestro sitio, ese que vemos allí como http:localhost:8000, necesitamos moverlo al otro lado y guardamos.
+
+Necesitamos agregar una línea a nuestro archivo principal de urls.py el cual debería quedar de la siguiente forma.
+
+
+...
+
+urlpatterns = [
+    path('admin/', admin.site.urls),
+    path('', include(('posts.urls', 'posts'), namespace='posts')),
+    path('users/', include(('users.urls', 'users'), namespace='users')),
+
+     # Necesario para allauth
+    path('accounts/', include('allauth.urls')),
+] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+Ahora en nuestros para nuestros templates debemos agregar un par de lineas tanto templates/users/login.html y en templates/users/signup.html. Justo debajo de nuestro {% extends 'users/base.html' %} vamos a agregar esta línea.
+
+{% load socialaccount %}
+Ahora debemos agregar nuestros botones, personalmente cambié las clases de bootstrap que veníamos usando en el curso de Django para que el azul de facebook quede en el botón que vamos a agregar, hice lo mismo en ambos templates. El código quedaría así:
+
+<button class="btn btn-secondary btn-block mt-5" type="submit">Sign in!</button>
+<a class="btn btn-primary btn-block" href="{% provider_login_url "facebook" method="oauth2" %}">
+   <span class="fab fa-facebook"></span>
+      Login with facebook
+ </a>
+Quedando de esta forma.
+
+
+Bonus
+Actualmente si has seguido los pasos, es probable que te de un error al crear el usuario mediante el login de facebook, porque tenemos un middleware que nos redirige al formulario para actualizar nuestro perfil. El problema esta en que actualmente al crearse un usuario mediante esa vía no se esta asignando el perfil al usuario, no tenemos ese código.
+
+Una manera de solucionar esto podría ser usando los signals de Django para que en cada registro de usuario sea por login social o por formulario el perfil se cree, pero tendríamos que cambiar el código que hicimos en el curso, el SignupForm pasarlo a que herede de un ModelForm y algunos cambios más en la vista.
+
+Yo preferí usar las Signals dadas por Django-allauth, en especifico user_signed_up que es enviada cuando el usuario se registra por primera vez mediante una red social.
+
+Entonces en nuestro users/models.py agregaríamos esto, al final de nuestro archivo
+
+
+...
+from django.dispatch import receiver
+from allauth.account.signals import user_signed_up
+...
+...
+
+
+@receiver(user_signed_up)
+def create_user_profile(request, user, **kwargs):
+    profile = Profile.objects.create(user=user)
+    profile.save()
+
+Ahora cuando un usuario inicie su sesión por primera vez con Facebook, se creará el perfil de manera automática, nuestro middleware no dará ningún error y nos redirigirá a nuestro formulario de actualización de perfil. Si quieres profundizar en estos temas o conocer más del proyecto del que hablo, PlatziGram, te recomiendo que veas el Curso de Django.

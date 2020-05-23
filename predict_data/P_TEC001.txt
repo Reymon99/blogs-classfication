@@ -1,0 +1,79 @@
+Reglas de Seguridad de Firebase: ejemplo práctico
+Publicado el 25 de Julio de 2018 por jjyepez
+
+Las Reglas de Seguridad son una característica muy potente que ofrece el servicio de base de datos en tiempo real de Firebase y que en general subutilizamos por desconocimiento. Con ellas podemos definir criterios específicos para otorgar o denegar permisos a los usuarios para realizar diferentes acciones sobre los datos de nuestro proyecto.
+
+En este artículo te muestro el potencial de las Reglas de Seguridad con un ejemplo práctico y muy interesante.
+
+Para nuestro ejemplo utilizaremos la siguiente estructura de datos que tiene un nodo raíz llamado “administradores” con los uids de los usuarios que tendrán asignado este rol, y el nodo “notas” con los datos maestros de nuestra aplicación de notas.
+
+image6.png
+El Reto
+Utilizando las Reglas de Seguridad de Firebase tendremos que aplicar los siguientes criterios de acceso y control de operaciones a nuestros datos:
+
+Que la lectura y escritura de los datos sólo sea permitida a usuarios autenticados.
+Que dichos usuarios pueden sólo leer sus propias notas y las notas creadas por otros usuarios cuando éstas tengan un estatus de privacidad público.
+Que sólo se le permita a los usuarios modificar o eliminar notas que hayan sido creadas por ellos mismos.
+Los usuarios administradores podrán leer, escribir, modificar y eliminar cualquier nota.
+Algunas Configuraciones Previas
+Antes de empezar a definir las Reglas de Seguridad es necesario aplicar un par de configuraciones que todo proyecto que use Firebase debería tener:
+
+Habilitar y configurar el servicio de autenticación de usuarios.
+Registrar apropiadamente los nombres de dominio que tendrán acceso a nuestra aplicación.
+Para esto, accedemos a la sección de autenticación en la consola de Firebase y habilitamos algunos de los métodos de acceso disponibles, entre los que se encuentran: correo electrónico, mensaje vía SMS, Google, Facebook, Twitter, etc. Se recomienda que sean al menos dos. Evitaremos usar el método de acceso anónimo ya que no nos garantiza la identificación correcta de los usuarios que tendrán acceso a nuestra aplicación.
+
+Captura de pantalla de 2018-06-30 02-13-31.png
+NOTA: Para completar la configuración del método de acceso deberán incluirse algunas líneas de código en nuestra aplicación; sin embargo, no entraremos en este detalle para no desviarnos mucho de nuestro objetivo. Los detalles están explicados ampliamente en el Curso de Firebase para Web.
+
+Habiendo definido los métodos de acceso, indicaremos a continuación los dominios autorizados que podrán acceder a la estructura de datos de nuestro proyecto.
+
+image3.png
+NOTA: Se recomienda eliminar de esta lista el dominio localhost cuando hayamos realizado el deploy, dejando únicamente el dominio específico donde estará alojada nuestra aplicación en la web. De esta manera evitaremos que cualquier usuario que conozca la url de la base de datos pueda tener acceso a ella desde una ubicación o dominio no autorizado.
+
+Ahora sí, vamos con las Reglas de Seguridad
+Al ingresar por primera vez la base de datos en la consola de Firebase, se nos pedirá el método de acceso que utilizaremos para nuestro proyecto, ya sea modo bloqueado o modo de prueba. Escogeremos cualquiera de los dos inicialmente, ya que serán estas Reglas de Seguridad las que definiremos a continuación.
+
+image8.png
+Nos dirigimos a la sección Base de Datos en la consola de Firebase y luego a la pestaña Reglas, donde veremos las reglas que hemos escogido por defecto para nuestro proyecto.
+
+image1.png
+Las claves básicas para definir las reglas son .read para lectura y .write para escritura. En ambos casos deben tener un valor equivalente a una expresión booleana, verdadero o falso (true o false). Cualquier forma de expresión correctamente formada usando literales, variables, métodos y operadores lógicos servirá.
+
+Para el primer requerimiento: Que la lectura y escritura de los datos sólo sea permitida a usuarios autenticados.
+
+Usaremos la variable de servidor auth de Firebase que contiene detalles del usuario autenticado. Si no hay un usuario autenticado esta variable simplemente devuelve null.
+
+Indicamos la secuencia de nodos a los que asociaremos nuestras reglas de seguridad:
+
+rules
+notas
+$idnota
+$idnota es un comodín, que funciona como variable, en la que se guarda el id de cada nota. Al definir esta ruta de nodos indicamos que las reglas se aplicarán a todos los hijos del nodo notas.
+
+Nuestro primer conjunto de reglas quedaría así:
+
+image2.png
+Aquí la expresión auth != null, devolverá true (otorgando los permisos para leer y escribir) cuando el usuario autenticado no sea null y false cuando no haya ningún usuario autenticado.
+
+Luego: Que dichos usuarios puedan sólo leer sus propias notas y las notas creadas por otros usuarios sólo cuando tengan un estatus de privacidad público.
+
+Este par de requerimientos son un poco más complejos puesto que requieren consultar algunas variables de servidor y datos del nodo actual de cada nota. Dado que el valor de la regla de seguridad permite cualquier expresión booleana correctamente formada, agregaremos el operador lógico Y (&&) y una segunda expresión entre paréntesis:
+
+image4.png
+En la segunda expresión usamos la variable de servidor data que contiene el detalle del nodo actual, en nuestro caso cada uno de los registros de notas. También utilizamos el método child para evaluar el nodo hijo (clave/campo) de la nota, cuyo valor debe coincidir con el uid del usuario autenticado; o bien, donde el valor de la clave privacidad sea “pública”. Esta vez usamos el operador lógico O ( | | ).
+
+El siguiente requerimiento es: Que sólo se le permita a los usuarios modificar o eliminar notas que hayan sido creadas por ellos mismos.
+
+En este caso aplicamos la misma expresión inicial del requerimiento anterior pero para la clave de escritura, .write:
+
+image5.png
+Y finalmente: Los usuarios administradores podrán leer, escribir, modificar y eliminar cualquier nota.
+
+Este requerimiento es muy interesante porque nos permite implementar algo muy parecido a las claves foráneas de las bases de datos relacionales con el fin de verificar que el uid del usuario actual corresponda con alguno de los ids almacenados en el nodo administradores.
+
+image7.png
+Para definir esta regla de escritura, hemos utilizado una nueva variable de servidor: root, que hace referencia a la raíz de la base de datos de Firebase, luego el nodo de “administradores” y finalmente consultamos con el método exists() la existencia de un nodo hijo identificado con el uid del usuario autenticado.
+
+De esta manera hemos completado el objetivo del reto planteado al inicio, al crear un conjunto de Reglas de Seguridad en Firebase con un cierto grado de complejidad y gran efectividad para proteger el acceso a los datos de nuestra aplicación.
+
+Para continuar aprendiendo más sobre conceptos, técnicas, objetos y métodos útiles con los cuales puedas sacarle mayor provecho a esta genial plataforma de backend de Google llamada Firebase, te invito a completar el Curso de Firebase para Web, en Platzi.

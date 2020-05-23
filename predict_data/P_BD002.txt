@@ -1,0 +1,30 @@
+Qué es Marketing Funnel o embudo de conversión
+Publicado el 1 de Noviembre de 2018 por maldeadora
+
+Marketing Funnel es un modelo que representa las etapas por las que pasa un usuario hasta llegar a una conversión. El modelo se representa como un embudo, con la parte más ancha arriba y la más angosta abajo, lo que significa que en cada fase se va volviendo más específico y se van quedando solo los usuarios que al final van a convertir.
+
+Ten en cuenta que una conversión no necesariamente es una compra. Cuando tienes una aplicación, un sitio web, o incluso en negocios offline, siempre existen acciones que tu estás esperando que los usuarios hagan. Por ejemplo: que se registren, que llenen un formulario, que completen un proceso o que compren. Cada negocio o incluso cada proyecto dentro de un mismo negocio puede tener métricas de conversión diferentes.
+
+Las decisiones de compra son bastante complejas. Piensa en todo lo que pasa y todo lo que haces cuando vas a comprar algo. Probablemente primero buscas información en internet, visitas el sitio web del artículo que estás buscando, lees algunos reviews, pides recomendaciones (si son de personas conocidas, mejor), comparas precios con otros productos, revisas otras marcas, etc.
+
+Todo el proceso anterior se puede organizar en etapas por las que pasa una persona antes de comprar. Si tienes un sitio web, una aplicación, o cualquier tipo de negocio, conocer cómo funciona cada una de estos pasos te puede ayudar a entender en qué momento estás perdiendo clientes potenciales y fortalecer esa fase con diferentes estrategias.
+
+El modelo de Marketing Funnel está altamente relacionado con el buyer journey, o el camino que recorre un usuario hasta convertirse en comprador. Las etapas de Marketing Funnel son: exposición, descubrimiento, consideración, conversión, relación con el cliente y retención.
+
+Screen Shot 2017-11-17 at 11.43.13 AM.png
+Etapas de Marketing Funnel
+1. Exposición: Es la fase en la que estás intentando atraer más usuarios, y en la que siempre hay más personas, pues cualquier detalle que les llame la atención puede servir. Aquí funcionan campañas de Outbound, como anuncios en Facebook o Google, SEO y Social Media.
+
+2. Descubrimiento: Es el momento en que empiezas a intentar convencer a esos usuarios que atrajiste en la fase anterior a que pasen a un siguiente nivel. Aquí las personas comienzan a entender un poco más de qué se trata tu producto o servicio, y es por esto que ya algunos de la fase de exposición empiezan a desertar.
+
+3. Consideración: Ya en este punto los usuarios que van quedando son los que empiezan a pensar en tu marca, pero aún no han comprado.
+
+4. Conversión: Es el momento en el que un usuario completa un acción esperada.
+
+El funnel de conversión también cuenta con dos fases adicionales muy importantes que te pueden ayudar a garantizar clientes fieles. Estas fases se representan con un embudo invertido:
+
+5. Relación con el cliente: Ya tu usuario compró, ahora debes conocerlo un poco más, recibir su feedback y entender qué más necesita, para llevarlo a la última fase.
+
+6. Retención: Una vez entiendas las necesidades de usuarios que realmente están usando tu producto o servicio (esto se hace en la fase anterior) debes cumplir con sus expectativas. De esta forma estos usuarios que ya compraron una vez estarán seguros de que realmente te importa ofrecer algo que les gusta y que no los vas a defraudar.
+
+Si quieres aprender más sobre cómo funciona el Marketing Funnel y como conseguir clientes para tu empresa, te recomiendo el Curso de Marketing Funnel con Justin Wu, Growth Marketer y Fundador de Growth.ly. Aprenderás a crear landing pages atractivas, desarrollar campañas de Email Marketing y mantener a tus clientes enganchados con tu marca.

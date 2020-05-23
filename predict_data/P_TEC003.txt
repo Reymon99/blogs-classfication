@@ -1,0 +1,33 @@
+Por qué deberías hacer pruebas automatizadas en Javascript
+Publicado el 9 de Agosto de 2018
+
+Últimamente un tema del que se está hablando bastante, en especial en lo que tiene que ver con el trabajo de los frontend developers es acerca de realizar pruebas automatizadas, ya que contrario a lo que se venía a la mente al pensar en hacer pruebas en Javascript anteriormente, de que era un proceso muy caro, arduo y complejo para los resultados que se obtenían al aplicarlo, en los últimos meses esto ha evolucionado y han sido lanzadas muchas herramientas que nos van a permitir realizar este proceso de una manera relativamente sencilla, teniendo en cuenta de que entre más completas y complejas se hagan, mejores resultados se van a poder obtener de las pruebas, al incorporarlas en nuestra metodología de trabajo.
+
+enter image description here
+¿Para qué sirve hacer pruebas?
+Las pruebas automatizadas lo que hacen es dar mucha más estabilidad, confianza y seguridad a los desarrolladores para implementar cosas o realizar cambios en un proyecto sin temor a que esto rompa algo en el proceso y así poder detectar muchos más errores antes de que el producto/servicio llegue al usuario final y optimizar el trabajo de los equipos que normalmente tienen que invertir tiempo en solucionar errores que se descubren en producción.
+
+Este tipo de pruebas pueden llevar algo de tiempo para ser aplicadas pero pueden lograr cambios significativos para la experiencia del usuario final ya que algunos errores pueden costar la perdida de ventas o usuarios y crean una dependencia mayor al equipo de servicio al cliente y control de calidad además de que el costo de tener errores en producción normalmente es mucho mayor que el costo de implementar pruebas.
+
+enter image description here
+Tipos de pruebas en Javascript**
+Las pruebas unitarias sirven para garantizar que cada uno de los componentes individuales de la aplicación funcionen como se espera, estas son las más sencillas de implementar pero no llegan a ser tan efectivas a comparación de las pruebas de integración o E2E.
+Las pruebas de integración son más complejas que las pruebas unitarias y sirven para garantizar que los componentes unitarios funcionen juntos y cumplan con los requisitos al ser probados en grupo. Estas pueden probar los llamados a una API, la interfaz de usuario y la funcionalidad de los componentes.
+Las pruebas funcionales aseguran que la aplicación funciona como se espera desde la perspectiva del usuario ya que simulan el comportamiento de un usuario en entornos diferentes de prueba y haciendo interacciones como hacer clicks, tipear, así prueban y validan que el producto hace todo lo que debe y se le ha especificado.
+Normalmente en la mayoría de empresas que empiezan a adoptar la metodología de pruebas lo más utilizado son las pruebas unitarias junto con pruebas de integración ya que hay muchas herramientas como las que verás a continuación que nos ayudan a implementarlas sin que se vuelva un proceso doloroso y con muchas opciones interesantes.
+
+Herramientas más populares
+Jest
+
+Jest es una herramienta creada por Facebook y una de las más populares para ello debido a su velocidad, rendimiento y su mecanismo para hacer pruebas en paralelo. Puede crear pruebas globales de manera determinada, no necesita una gran configuración, genera reportes y puede hacer tests de snapshot además de muchas cosas más que puedes aprender en su documentación.
+
+Mocha
+
+Mocha junto con Jest son probablemente las herramientas de pruebas automatizadas más utilizadas, aunque su configuración es más compleja comparada con Jest, lo que la hace tan poderosa es que es muy flexible por lo que se puede usar junto con otras librerías, tiene una gran comunidad detrás y una gran cantidad de complementos y extensiones para casi cualquier tipo de prueba.
+
+Jasmine
+
+Jest está basado en Jasmine así que este tiene mucho más tiempo y es sencillo encontrar mucha información y una gran cantidad de artículos sobre él. Puede ser usado para hacer pruebas en Python o Nodejs que es nuestro caso y viene con funciones de prueba y casi listo con todo lo que necesita para comenzar a implementar y probar.
+
+enter image description here
+Si deseas profundizar mucho más tienes enlaces a la documentación oficial de cada una de las herramientas anteriores, además hay muchas más herramientas como Karma, Chai y Cypress que también puedes investigar, y según lo que requieras y tengas dispuesto de tiempo y trabajo, puedes empezar a implementar y probar como te funciona en la metodología de trabajo de tu equipo de desarrollo y a medida que se vaya volviendo un estándar, se irán viendo mejor los resultados y el cambio que involucra lanzar algo habiendo sido previamente testeado de diferentes maneras y en diferentes entornos de prueba. Si deseas que hagamos un post más extenso sobre cada una de estas herramientas y darte una idea sobre como empezar a incorporarlo en tu proyecto déjanos tu comentario al respecto.

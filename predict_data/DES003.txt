@@ -1,0 +1,46 @@
+Diseñar para el iPhone X
+Publicado el 2 de Octubre de 2017 por Falconi
+
+El iPhone X está aquí y el glorioso dispositivo nos traerá algunos retos y oportunidades de diseño, debido a que incluye una pantalla grande, de alta resolución, redondeada y de borde a borde, lo que ofrece una experiencia inmersiva y rica en contenido. En Platzi te ayudamos a aprender a diseñar interfaces en nuestro curso de Interfaces UX.
+
+opengraph-ux.png
+Resolución
+La medida de la pantalla es de 1125 x 2436px. El ancho del dispositivo en modo retrato es el mismo que el del iPhone 6, 7 y 8, pero es 145pt más alto, resultando aproximadamente un 20% de espacio vertical adicional para el contenido.
+
+Captura de pantalla 2017-09-18 a las 16.08.32.png
+Si actualmente tienes una aplicación nativa de iOS no tienes de qué preocuparte, ya estará adaptada para este nuevo iPhone, se insertarán y adaptarán automáticamente barras de navegación, tablas, barras de pestañas, etc. Pero si tienes un diseño personalizado, es posible que debas actualizar a la nueva disposición de la pantalla.
+
+¿Qué debemos tener en cuenta a la hora de diseñar?
+Tienes que asegurarte de crear una experiencia de pantalla completa, deja que las vistas de desplazamiento lleguen hasta la parte inferior y más allá de los bordes curvos. Apple hace mucho énfasis en no ocultar el recorte en la parte superior y los bordes curvados en la parte inferior con barras en color negro que den la sensación de un iPhone viejito. Toda la información completa la puedes encontrar en Human Interface Guidelines
+
+La información importante debe estar siempre centrada, así que asegúrate de que el contenido utilice inserciones simétricas así tu interfaz no se verá acortada por los sensores o esquinas del dispositivo. Te aconsejo siempre usar líneas guías para definir los márgenes en tu archivo, no importa si usas Sketch o Photoshop, si quieres aprender a usar ambos programas te recomiendo tomar los cursos de Sketch, Photoshop que tenemos en Platzi.
+
+Captura de pantalla 2017-09-21 a las 11.57.42 copia.png
+Barra de estado
+La nueva barra de estado se divide en dos partes antes 20pt ahora 44pt debido a los sensores, ahora contamos con más espacio para contenido y si tu app actualmente está haciendo algo especial con este espacio, tendrás que actualizarla porque ahora es más alto, te recomendamos que se pueda cambiar dinámicamente así se verá bien en cualquier versión.
+
+Captura de pantalla 2017-09-21 a las 16.13.13.png
+Imágenes a pantalla completa
+Si actualmente tienes una app que contiene imágenes a pantalla completa en tu diseño, deberás actualizar para el iPhone X ya que pueden ser recortadas y alguna parte importante se puede ocultar.
+
+Captura de pantalla 2017-09-21 a las 16.15.58.png
+Gestos
+Uno de los cambios más drásticos en este nuevo iPhone X es el botón de inicio, el cual fue reemplazado por un gesto Deslizar hacia arriba que te lleva al inicio. A la hora de diseñar es importante no colocar botones cerca de este indicador o en las esquinas redondeadas inferiores de la pantalla, el usuario podría irse al inicio accidentalmente y tu interfaz sería difícil de usar. Aun así se pueden usar barras de pestañas y funciones siempre y cuando no interfieran con el indicador de inicio.
+
+Captura de pantalla 2017-09-26 a las 11.45.56.png
+iOs permite ocultar el indicador de inicio de tu aplicación, lo hará automáticamente cuando el usuario no toque la pantalla durante unos segundos, volverá a aparecer cuando el usuario toque la pantalla de nuevo. También cambiará de color automáticamente según el fondo de la aplicación.
+
+Al deslizar hacia la izquierda y derecha en el indicador de inicio, cambia entre aplicaciones de multitareas abiertas. Al deslizar hacia abajo desde la parte superior de la pantalla te lleva al centro de notificación o control.
+
+Los juegos pueden usar gestos personalizados que pueden anular los gestos de iOs nativos. Puede usar sus propios gestos mediante la implementación “edge protect” o protección del borde, que es una característica que prefiere el gesto específico de la aplicación primero antes que los nativos. Si necesitas más información la puedes encontrar en Human Interface Guidelines
+
+Más colores
+La nueva pantalla Super Retina muestra más colores!! P3 en lugar de RGB, una vez más Apple nos dice “Bienvenidos al Futuro” esto significa que mostrará colores más ricos y más saturados, especialmente en vídeo y en fotos se beneficiarán con este amplio rango de colores. Puedes leer más en Human Interface Guidelines
+Captura de pantalla 2017-09-26 a las 12.48.01.png
+
+Barras de navegación
+Con iOs 11 el diseño de las barras de navegación nativas recibió una actualización, ahora son mucho más altos. Este diseño será aún más grande en el iPhone X y se mezclará con nuestra nueva barra de estado, también tendrán algunas animaciones nativas agradables al desplazarse.
+
+Puedes previsualizar tu interfaz con el simulador Xcode 9, esto te mostrará inmediatamente si tu interfaz debe actualizarse.
+
+Los recursos de iOS 11 y iPhone X los encuentras en los Human Interface Guidelines tiene algunos nuevos recursos para Sketch, Photoshop y Adobe XD. Si aún no sabes como usar estas herramientas te recomiendo tomar los cursos en Platzi que te abrirán un mundo de posibilidades.

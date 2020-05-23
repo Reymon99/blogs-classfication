@@ -1,0 +1,85 @@
+¿Qué hace un investigador de Experiencias de Usuario (UX)?
+Publicado el 6 de Noviembre de 2018 por benjibel
+
+Los que trabajamos en Experiencia de Usuario, User Experience (UX), ya sea desde la investigación, el diseño o el desarrollo, siempre lo hacemos con el objetivo de hacerlo centrados en el usuario. Para conocer más de esta perspectiva, te invito a verla Carrera de Diseño de Productos digitales y UX.
+
+Según Donald Norman, uno de los padres de la Usabilidad y la Experiencia de Usuario, para que las experiencias de usuarios sean exitosas deben cumplir criterios mínimos de usabilidad y accesibilidad. Al grupo completo de principios se les llama heurísticas, que se pueden resumir en cuatro grandes principios.
+
+Que el producto:
+
+Sea fácil de aprender a usar
+Sea fluido de usar, con todos los caminos posibles de la interfaz/producto
+Permita que el usuario se recupere fácilmente si comete errores
+Que el usuario disfrute de usarlo
+cover_uxresearch.jpg
+¿Qué rol tiene un investigador en UX?
+Cuando uno trabaja en UX, todos dan por sentado que diseñas. Sin embargo, para que los diseñadores trabajen centrados en sus usuarios es necesario que los conozcan muy bien. Y para ello, no hay nada mejor que alguien especializado en analizar personas y comportamientos: esas habilidades son específicas de un investigador.
+
+Así fue como siendo Socióloga conseguí mi primer trabajo en la industria, como Analista de Usabilidad. Mi carrera me formó como investigadora, teniendo el método científico de investigación (hipótesis - experimento - validación - conclusión - iteración) como punto de partida.
+
+En tecnología aplico ese modelo para conocer mejor a nuestros usuarios y aprender de cada uno de nuestros experimentos. Además, parte de mi función es comunicar mis hallazgos y lograr que distintos equipos puedan aplicarlos en su día a día.
+
+¿En qué consiste Investigar?
+La práctica de la investigación podría resumirse en tres grandes habilidades:
+
+1- Observar
+
+Todo investigador tiene alma de detective. Observamos detalles, comportamientos, características. Para poder hacer algo con esas observaciones, es importante anotarlas e ir estructurando la forma en que lo haces. No salgo sin una libretita escondida por ahí.
+
+2- Analizar
+
+Además del hábito de observar, es importante analizar los descubrimientos en busca de patrones y de hallazgos que puedan iluminar experimentos posteriores.
+
+3- Empatizar
+
+En UX es sumamente importante que como profesionales, además de observar y analizar los comportamientos de nuestros usuarios, tengamos el hábito de acercarnos simplemente a escucharlos. Este tipo de interacción siempre aporta un tipo de dato distinto (cualitativo) al de una observación o encuesta. La empatía es una cualidad esencial a desarrollar en UX.
+
+user testing coffee.jpg
+Técnicas de investigación
+Para obtener los datos necesarios para observar y analizar se utilizan distintos tipos de prácticas de investigación:
+
+Cuantitativas
+Este tipo de prácticas apuntan a entender Cuánto y Cómo está pasando algo. Por ejemplo: cuántos usuarios tienen? cómo llegan al sitio?
+
+En este sentido se utilizan diversas herramientas que recopilan datos cuantitativos de tu plataforma:
+Google Analytics, herramientas de A/B testing, encuestas, click testing, tree testing.
+
+Cualitativas
+Consisten en todas las prácticas que apuntan a entender los Por qué. Por ejemplo: ¿por qué nuestros usuarios no llegan a check out?
+
+Algunas de las prácticas más frecuentes son observaciones, etnografías, entrevistas en profundidad, pruebas de usabilidad.
+
+Interdisciplinarias
+Son todas las prácticas que complementan técnicas cuantitativas con cualitativas. En la industria de tecnología es muy recomendable combinarlas para combatir el sesgo y lograr una comprensión más global de tus usuarios.
+
+La importancia de comunicar
+No hay práctica de investigación que valga si no eres capaz de transmitir tus descubrimientos. En los trabajos en tecnología frecuentemente los ejecutivos o desarrolladores no están acostumbrados a leer largos informes académicos o reportes detallados de investigación.
+
+Es por eso que nuestra responsabilidad como investigadores UX es buscar las formas más efectivas de comunicar estos resultados.
+
+Además las empresas tienen distintas necesidades. Por ejemplo, en Platzi al ser un startup necesita aprender muy velozmente. Eso requiere que constantemente adapte mis metodologías a la velocidad de la empresa.
+
+Mantente actualizado y prueba nuevas formas constantemente, eso te ayudará a ser un investigador exitoso sin importar el tipo de empresa en el que trabajes. El Curso de Desarrollo de Productos con Metodología Lean me ayudó mucho a incorporar esta mentalidad en el día a día.
+
+collaborative.png
+La colaboración genera consenso
+Así como es importante que comuniques eficientemente tus resultados, en tecnología nos movemos muy rápido, y para ello, es elemental que lo hagas en equipo.
+
+Es muy fácil llegar a un lugar y bajar línea sobre lo que está mal o podría haberse hecho mejor, lo difícil es que todos estén de acuerdo en ese punto.
+
+Trabaja metodologías de consenso basadas en la colaboración y logra mejores experiencias de usuario en equipo, notarás la diferencia en tu día a día y en los resultados.
+
+Una de mis herramientas favoritas para ello son las de Design Sprint. Puedes aprender más de ellas en el curso de Introducción al Marketing Digital.
+
+¿Cómo puedo convertirme en UX Researcher?
+Entrena la observación: presta atención a determinados comportamientos en tu alrededor (sin volverte un stalker serial): cómo usan Platzi tus amigos? Qué apps son las que más usan tus amigas? Qué tipo de materiales leen las personas en el metro?
+
+Aprende sobre metodologías de investigación, modelo científico y estadísticas. En Platzi estamos preparando materiales en este sentido 😉
+
+Pon en práctica distintas técnicas: entrevistas, observaciones, encuestas. Aprende a mirar desde distintas perspectivas.
+
+Practica y practica: no esperes a ser un experto para interactuar con tus usuarios. Grábate. Escúchate. Aprende y mejora.
+
+Busca referentes: busca a quienes seguir. Grandes investigadores, diseñadores. Gente a la que admires por lo que hacen en su día a día. Síguelos por redes sociales, estate actualizado de sus novedades y aprende cómo logran ser lo buenos que son mientras lo practicas por tu cuenta.
+
+Cuéntame tus experiencias investigando. ¿Qué te gustaría aprender para hacerlo mejor?
